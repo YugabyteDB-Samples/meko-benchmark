@@ -58,7 +58,6 @@ what its "Meko" arm did.
 
 ## License
 
-Upstream BABILong retains its own license under
-[`BABILONG-BENCHMARK/LICENSES/`](BABILONG-BENCHMARK/LICENSES/). A top-level
-license for this repository's own code and fixtures should be added by the
-maintainers.
+This repository's own code and fixtures are licensed under Apache-2.0
+([`LICENSE`](LICENSE)). Upstream BABILong retains its own license under
+[`BABILONG-BENCHMARK/LICENSES/`](BABILONG-BENCHMARK/LICENSES/).
