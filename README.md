@@ -8,6 +8,40 @@ results offline, and to re-run them live, is in this repository.
 The fixtures are synthetic. The result ledgers, scorers, and clients are the
 exact ones used to produce the numbers.
 
+## Why an in-house benchmark
+
+Meko is a context-infrastructure product with four storage types, each with its
+own API:
+
+- **conversations** — the exact words of past sessions
+- **memories** — current decisions and durable facts
+- **knowledge base** — team documents
+- **artifacts** — exact files, content-addressed by SHA-256
+
+Public memory benchmarks such as LongMemEval and LoCoMo score one slice of
+this: an assistant's recall of conversational history. They do not exercise
+these storage APIs, and they do not hold retrieval policy, chunk size, and
+token accounting fixed across arms. They cannot answer the question asked
+here: for one storage type and one reader at a time, what does a delivery path
+cost in input tokens, and what accuracy does it preserve?
+
+So coverage is split two ways:
+
+- **In-house benchmarks** — synthetic fixtures, frozen ledgers, deterministic
+  scorers. Fully controlled: the corpus, the answer key, the retrieval policy,
+  and the token accounting are all fixed and replayable offline.
+- **BABILong** — a public long-context benchmark, used where public data fits
+  the job: reading evidence out of long documents through the artifacts API.
+
+## API coverage today
+
+| Meko API | Benchmark | Status |
+|---|---|---|
+| memories | [`INHOUSE-BENCHMARK/context-fit/`](INHOUSE-BENCHMARK/context-fit/) — corpus ingest plus memory search retrieval | covered |
+| artifacts | [`INHOUSE-BENCHMARK/large-context-1m/`](INHOUSE-BENCHMARK/large-context-1m/) — 320 packet put/get records verified by SHA-256; [`BABILONG-BENCHMARK/`](BABILONG-BENCHMARK/) — content-addressed fetch on public data | covered |
+| conversations | none yet | planned |
+| knowledge base | none yet | planned |
+
 ## What is here
 
 | Directory | Test | What it measures |
@@ -55,6 +89,15 @@ verified by SHA-256 in BABILong). In the BABILong arm the chunking and ranking
 run on the client, so that arm tests Meko-backed delivery plus the client
 retrieval policy, not a Meko semantic-search API. Each sub-README states exactly
 what its "Meko" arm did.
+
+## Roadmap
+
+1. Extend in-house coverage to the two APIs with no benchmark yet:
+   conversations and the knowledge base.
+2. Build a v2 in-house benchmark — more aggressive and more accurate — folding
+   in lessons from the BABILong, LongMemEval, and LoCoMo results.
+3. Grow toward covering every Meko MCP API with at least one verified,
+   offline-replayable result.
 
 ## License
 
