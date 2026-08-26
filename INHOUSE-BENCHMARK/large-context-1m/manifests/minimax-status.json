@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "reader": "MiniMax M2.7",
+  "digest_chunks_expected": 21,
+  "digest_chunks_completed": 19,
+  "missing_chunk_indexes": [0, 10],
+  "full_chunk_attempts_per_missing_chunk": 3,
+  "status": "incomplete",
+  "prepared_packet_score": null,
+  "compaction_score": null,
+  "reason": "The packet budget was defined by each reader's complete digest length. MiniMax did not produce a complete digest, so neither score was computed."
+}

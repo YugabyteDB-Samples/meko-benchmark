@@ -1,0 +1,13 @@
+{
+  "label": "opus5",
+  "model": "claude-opus-5",
+  "chunks": 21,
+  "digest_chars": 66643,
+  "digest_tokens_est": 16660,
+  "compaction_cost_usd": 15.791,
+  "compaction_input_tokens": 1917661,
+  "compaction_output_tokens": 30727,
+  "expected_input_tokens": 1000004,
+  "usage_basis": "cli_json",
+  "wall_s": 385.9
+}

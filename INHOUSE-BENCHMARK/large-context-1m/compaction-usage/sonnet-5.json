@@ -1,0 +1,13 @@
+{
+  "label": "sonnet5",
+  "model": "claude-sonnet-5",
+  "chunks": 21,
+  "digest_chars": 80372,
+  "digest_tokens_est": 20093,
+  "compaction_cost_usd": 9.5935,
+  "compaction_input_tokens": 2014044,
+  "compaction_output_tokens": 35094,
+  "expected_input_tokens": 1000004,
+  "usage_basis": "cli_json",
+  "wall_s": 338.2
+}

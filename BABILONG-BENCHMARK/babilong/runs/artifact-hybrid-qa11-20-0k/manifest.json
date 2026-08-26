@@ -1,0 +1,57 @@
+{
+ "completed_at": "2026-08-22T13:51:03-0700",
+ "config": {
+  "arms": [
+   "artifact_hybrid",
+   "full",
+   "bm25"
+  ],
+  "artifact_k": 5,
+  "artifact_retriever": "BM25+dense; QA1 recency; QA2/3 entity expansion",
+  "bm25_k": 5,
+  "conversation_id": "23103893304a4d8f9ea938651d247407",
+  "datapack_create_calls": 0,
+  "datapack_id": "bdec33d9-5e95-4611-bd63-f0482e80a955",
+  "dataset": "RMT-team/babilong",
+  "download_manifest": "data/data/download-manifest.json",
+  "lengths": [
+   "0k"
+  ],
+  "n": 100,
+  "readers": [
+   "sonnet",
+   "qwen"
+  ],
+  "reuses_run": "runs/artifact-hybrid-full/manifest.json",
+  "tasks": [
+   "qa11",
+   "qa12",
+   "qa13",
+   "qa14",
+   "qa15",
+   "qa16",
+   "qa17",
+   "qa18",
+   "qa19",
+   "qa20"
+  ]
+ },
+ "data_sha256": {
+  "qa11/0k": "21c9c44af298b2096a66bafd90425a6007bfe95409dfc996d0c8001ab8fa2d82",
+  "qa12/0k": "9b7d4524e73e91095e461fc331e706c99d15ea2c56928a246ecde23a2d71d40b",
+  "qa13/0k": "5b78466e5241a44fc1d8272834c59491b806547974fa5c283c9c5e42736767b6",
+  "qa14/0k": "721d1d09c41c2352ba9a1be4dc4841588b083d7d89350afacc3be55515051593",
+  "qa15/0k": "a35f2df5bf8571b8472ef514a0ec821e2c9eafafd8457fc40e10fe03a2cb6791",
+  "qa16/0k": "a7a33195ddb728527ce70c5c8246307fa57e7141e833eff9fea1e7bfd1cd703c",
+  "qa17/0k": "9061ab18446ada6c34f35b45778a4cdb33ec9e5d1cf22fc2ff1a89e9075f0d41",
+  "qa18/0k": "edb17e2817870e8e6c8a57c803824a914da343f625b427f7c72993dd9e50da4d",
+  "qa19/0k": "c2699a176915e9aeed044a13f0a95665d564264f809cbf8c004a2d1c91983612",
+  "qa20/0k": "98e1b3813bdedd948a5fbd470cbb12916b6ded02944cdc9e94d7a508b0eadb8a"
+ },
+ "planned_trials": 6000,
+ "runner_sha256_history": [
+  "b8a717219cffd4d6b3cfab2f708928b51f613ce48a687fd14e64b51f494685be"
+ ],
+ "started_at": "2026-08-22T09:52:21-0700",
+ "status": "complete"
+}

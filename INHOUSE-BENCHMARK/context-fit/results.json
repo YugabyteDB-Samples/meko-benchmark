@@ -1,0 +1,91 @@
+{
+  "benchmark": "context-fit",
+  "questions": 320,
+  "arms": {
+    "meko_optimized": "Meko + bounded client",
+    "bm25_recipe": "BM25 + bounded client",
+    "full_history": "Full history"
+  },
+  "readers": [
+    {
+      "file": "claude-sonnet-5.jsonl",
+      "reader": "Claude Sonnet 5",
+      "correct": {"meko_optimized": 316, "bm25_recipe": 312, "full_history": 319},
+      "answered": {"meko_optimized": 320, "bm25_recipe": 320, "full_history": 320},
+      "meko_token_reduction_vs_full_history_percent": 28.8
+    },
+    {
+      "file": "claude-opus-5.jsonl",
+      "reader": "Claude Opus 5",
+      "correct": {"meko_optimized": 318, "bm25_recipe": 306, "full_history": 320},
+      "answered": {"meko_optimized": 320, "bm25_recipe": 320, "full_history": 320},
+      "meko_token_reduction_vs_full_history_percent": 31.5
+    },
+    {
+      "file": "gpt-5.5.jsonl",
+      "reader": "GPT-5.5",
+      "correct": {"meko_optimized": 317, "bm25_recipe": 310, "full_history": 320},
+      "answered": {"meko_optimized": 320, "bm25_recipe": 320, "full_history": 320},
+      "meko_token_reduction_vs_full_history_percent": 63.3
+    },
+    {
+      "file": "gpt-5.6-luna.jsonl",
+      "reader": "GPT-5.6 Luna",
+      "correct": {"meko_optimized": 317, "bm25_recipe": 310, "full_history": 314},
+      "answered": {"meko_optimized": 320, "bm25_recipe": 320, "full_history": 320},
+      "meko_token_reduction_vs_full_history_percent": 56.9
+    },
+    {
+      "file": "gpt-5.6-terra.jsonl",
+      "reader": "GPT-5.6 Terra",
+      "correct": {"meko_optimized": 317, "bm25_recipe": 313, "full_history": 320},
+      "answered": {"meko_optimized": 320, "bm25_recipe": 320, "full_history": 320},
+      "meko_token_reduction_vs_full_history_percent": 65.6
+    },
+    {
+      "file": "gpt-5.6-sol.jsonl",
+      "reader": "GPT-5.6 Sol",
+      "correct": {"meko_optimized": 318, "bm25_recipe": 309, "full_history": 320},
+      "answered": {"meko_optimized": 320, "bm25_recipe": 320, "full_history": 320},
+      "meko_token_reduction_vs_full_history_percent": 53.1
+    },
+    {
+      "file": "gemini-3.7-flash.jsonl",
+      "reader": "Gemini 3.7 Flash",
+      "correct": {"meko_optimized": 317, "bm25_recipe": 312, "full_history": 318},
+      "answered": {"meko_optimized": 320, "bm25_recipe": 320, "full_history": 318},
+      "meko_token_reduction_vs_full_history_percent": 49.5
+    },
+    {
+      "file": "minimax-m2.7.jsonl",
+      "reader": "MiniMax M2.7",
+      "correct": {"meko_optimized": 312, "bm25_recipe": 297, "full_history": 316},
+      "answered": {"meko_optimized": 320, "bm25_recipe": 320, "full_history": 320},
+      "meko_token_reduction_vs_full_history_percent": 69.1
+    },
+    {
+      "file": "glm-5.2.jsonl",
+      "reader": "GLM 5.2",
+      "correct": {"meko_optimized": 317, "bm25_recipe": 314, "full_history": 319},
+      "answered": {"meko_optimized": 320, "bm25_recipe": 320, "full_history": 320},
+      "meko_token_reduction_vs_full_history_percent": 84.7
+    }
+  ],
+  "mean_context_characters_per_question": {
+    "meko_optimized": 965.871875,
+    "full_history": 7499.875,
+    "meko_reduction_vs_full_history_percent": 87.1
+  },
+  "claude_billed_cost_usd": {
+    "Claude Sonnet 5": {
+      "meko_optimized": 4.0252,
+      "full_history": 9.2142,
+      "reduction_percent": 56.3
+    },
+    "Claude Opus 5": {
+      "meko_optimized": 6.4048,
+      "full_history": 15.1707,
+      "reduction_percent": 57.8
+    }
+  }
+}

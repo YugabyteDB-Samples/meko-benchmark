@@ -1,0 +1,23 @@
+{
+ "status": "complete",
+ "datapack_id": "bdec33d9-5e95-4611-bd63-f0482e80a955",
+ "conversation_id": "23103893304a4d8f9ea938651d247407",
+ "tasks": [
+  "qa1",
+  "qa2",
+  "qa3",
+  "qa4",
+  "qa5"
+ ],
+ "lengths": [
+  "0k",
+  "4k",
+  "16k"
+ ],
+ "n": 100,
+ "k": 5,
+ "retriever": "BM25+dense; QA1 recency; QA2/3 entity expansion",
+ "embed_model": "nomic-embed-text:latest",
+ "datapack_create_calls": 1,
+ "completed_at": "2026-08-21T19:28:53"
+}

@@ -1,0 +1,191 @@
+{
+ "arm": "bm25_800",
+ "artifact_put_calls": 0,
+ "cells": [
+  [
+   "qa1",
+   "0k"
+  ],
+  [
+   "qa1",
+   "4k"
+  ],
+  [
+   "qa1",
+   "16k"
+  ],
+  [
+   "qa2",
+   "0k"
+  ],
+  [
+   "qa2",
+   "4k"
+  ],
+  [
+   "qa2",
+   "16k"
+  ],
+  [
+   "qa3",
+   "0k"
+  ],
+  [
+   "qa3",
+   "4k"
+  ],
+  [
+   "qa3",
+   "16k"
+  ],
+  [
+   "qa4",
+   "0k"
+  ],
+  [
+   "qa4",
+   "4k"
+  ],
+  [
+   "qa4",
+   "16k"
+  ],
+  [
+   "qa5",
+   "0k"
+  ],
+  [
+   "qa5",
+   "4k"
+  ],
+  [
+   "qa5",
+   "16k"
+  ],
+  [
+   "qa6",
+   "0k"
+  ],
+  [
+   "qa6",
+   "4k"
+  ],
+  [
+   "qa6",
+   "16k"
+  ],
+  [
+   "qa7",
+   "0k"
+  ],
+  [
+   "qa7",
+   "4k"
+  ],
+  [
+   "qa7",
+   "16k"
+  ],
+  [
+   "qa8",
+   "0k"
+  ],
+  [
+   "qa8",
+   "4k"
+  ],
+  [
+   "qa8",
+   "16k"
+  ],
+  [
+   "qa9",
+   "0k"
+  ],
+  [
+   "qa9",
+   "4k"
+  ],
+  [
+   "qa9",
+   "16k"
+  ],
+  [
+   "qa10",
+   "0k"
+  ],
+  [
+   "qa10",
+   "4k"
+  ],
+  [
+   "qa10",
+   "16k"
+  ],
+  [
+   "qa11",
+   "0k"
+  ],
+  [
+   "qa12",
+   "0k"
+  ],
+  [
+   "qa13",
+   "0k"
+  ],
+  [
+   "qa14",
+   "0k"
+  ],
+  [
+   "qa15",
+   "0k"
+  ],
+  [
+   "qa16",
+   "0k"
+  ],
+  [
+   "qa17",
+   "0k"
+  ],
+  [
+   "qa18",
+   "0k"
+  ],
+  [
+   "qa19",
+   "0k"
+  ],
+  [
+   "qa20",
+   "0k"
+  ]
+ ],
+ "chunk_chars": 800,
+ "created_at": "2026-08-24T21:01:00-0700",
+ "datapack_create_calls": 0,
+ "historical_bm25_runner_sha256": "a9de810c3b72eae2407d1c7bc10fa2bf09acc949ebf63fe4a52c70d28a923755",
+ "historical_chunker_sha256": "d06aa31b60f39e3431dc23970139be73a6a6e55363db1f4ca415fc91870e9e32",
+ "ordering": "source_order_after_selection",
+ "packet_jsonl_sha256": "c11b6c7217e2aa764d3adfe4631e15dae64ef3619656a62b79a2bb4218630541",
+ "planned_trials": 20000,
+ "portable_runner_sha256": "61ca44b9fb14a817050de05bb45c5a652402bdb0d4507dbaeda317e212da4dfb",
+ "prompt_sha256": "be08d7e466170177e38fddb997e3dd9ffb281d5a830edd240933e069a9c5c2ee",
+ "ranking": "plain Okapi BM25",
+ "readers": [
+  "qwen",
+  "sonnet",
+  "deepseek_v4_flash",
+  "codex_luna",
+  "gemini_3_7_flash_low"
+ ],
+ "retrieval_snapshot_sha256": "7df8f3f620baf83dc1cd3b6ee8b6d040692ae3f75009169093429bfc63ca768a",
+ "samples": 4000,
+ "schema": "meko.babilong.bm25-800-manifest.v1",
+ "scorer_sha256": "f77c139809690588f85ed29c1c93f22394c6b48b1fdc8afeaaa5d0969d973daf",
+ "source_contract": "local bytes must equal artifact-verified snapshot SHA-256",
+ "status": "packets_complete",
+ "top_k": 5
+}

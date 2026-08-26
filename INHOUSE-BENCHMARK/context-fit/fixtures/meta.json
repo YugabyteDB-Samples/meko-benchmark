@@ -1,0 +1,17 @@
+{
+  "seed": 20260807,
+  "personas": 8,
+  "statements": 615,
+  "questions": 320,
+  "by_type": {
+    "FACT": 96,
+    "CURRENT": 80,
+    "EVOLUTION": 40,
+    "REASON": 40,
+    "RECOMMEND": 32,
+    "UNANSWER": 32
+  },
+  "history_chars_per_persona": 7269,
+  "statements_sha256": "054453529251c8baa322223413d0d0b85a29955280b20000e04463e2043f5a35",
+  "questions_sha256": "f6b554497d78bd81c11ffc72ddabab9a8620175315e08f522b55b52037f7088e"
+}

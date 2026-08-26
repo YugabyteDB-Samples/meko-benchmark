@@ -1,0 +1,94 @@
+{
+  "benchmark": "large-context-1m",
+  "source_characters": 4000017,
+  "questions": 320,
+  "answerable_questions": 290,
+  "unanswerable_questions": 30,
+  "prepared_packet": {
+    "selection": "local deterministic Okapi BM25",
+    "chunk_characters": 500,
+    "chunks": 8417,
+    "ranked_chunks_per_question": 300,
+    "base_packet_characters_cap": 150000,
+    "storage": "Meko artifact store",
+    "recorded_hash_fetches": "320/320",
+    "readback_evidence": "saved client report; past calls not independently verifiable offline",
+    "reader_delivery": "local fixture replay",
+    "meko_semantic_retrieval": false
+  },
+  "readers": [
+    {
+      "reader": "Claude Sonnet 5",
+      "label": "sonnet5",
+      "prepared_packet_correct": 306,
+      "compaction_correct": 275,
+      "evidence_ceiling": "290/290"
+    },
+    {
+      "reader": "Claude Opus 5",
+      "label": "opus5",
+      "prepared_packet_correct": 279,
+      "compaction_correct": 317,
+      "evidence_ceiling": "290/290"
+    },
+    {
+      "reader": "GPT-5.5",
+      "label": "codex-55",
+      "prepared_packet_correct": 276,
+      "compaction_correct": 253,
+      "evidence_ceiling": "289/290"
+    },
+    {
+      "reader": "GPT-5.6 Luna",
+      "label": "codex-luna",
+      "prepared_packet_correct": 277,
+      "compaction_correct": 258,
+      "evidence_ceiling": "289/290"
+    },
+    {
+      "reader": "GPT-5.6 Terra",
+      "label": "codex-terra",
+      "prepared_packet_correct": 276,
+      "compaction_correct": 317,
+      "evidence_ceiling": "289/290"
+    },
+    {
+      "reader": "GPT-5.6 Sol",
+      "label": "codex-sol",
+      "prepared_packet_correct": 279,
+      "compaction_correct": 320,
+      "evidence_ceiling": "290/290"
+    },
+    {
+      "reader": "Gemini 3.7 Flash",
+      "label": "gemini-37",
+      "prepared_packet_correct": 279,
+      "compaction_correct": 319,
+      "evidence_ceiling": "290/290"
+    },
+    {
+      "reader": "MiniMax M2.7",
+      "label": "minimax",
+      "prepared_packet_correct": null,
+      "compaction_correct": null,
+      "evidence_ceiling": null
+    },
+    {
+      "reader": "GLM 5.2",
+      "label": "glm",
+      "prepared_packet_correct": 289,
+      "compaction_correct": 293,
+      "evidence_ceiling": "290/290"
+    }
+  ],
+  "compaction_usage": {
+    "Claude Sonnet 5": {
+      "reported_tokens": 2049138,
+      "cost_usd": 9.5935
+    },
+    "Claude Opus 5": {
+      "reported_tokens": 1948388,
+      "cost_usd": 15.791
+    }
+  }
+}

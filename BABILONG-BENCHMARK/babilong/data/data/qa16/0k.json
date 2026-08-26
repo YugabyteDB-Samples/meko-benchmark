@@ -1,0 +1,502 @@
+[
+ {
+  "input": "Bernhard is a swan. Greg is a lion. Bernhard is gray. Julius is a swan. Lily is a rhino. Brian is a lion. Lily is gray. Julius is yellow. Brian is white.",
+  "target": "white",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Greg is a frog. Lily is a rhino. Julius is a swan. Lily is gray. Bernhard is a rhino. Julius is yellow. Greg is white. Brian is a frog. Bernhard is gray.",
+  "target": "white",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Brian is a lion. Greg is a frog. Lily is a swan. Brian is green. Greg is yellow. Bernhard is a swan. Julius is a frog. Julius is green. Bernhard is white.",
+  "target": "white",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Brian is a swan. Julius is a lion. Greg is a lion. Bernhard is a frog. Lily is a swan. Bernhard is green. Julius is white. Greg is white. Lily is yellow.",
+  "target": "yellow",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Brian is a lion. Brian is green. Lily is a frog. Julius is a frog. Bernhard is a swan. Bernhard is white. Julius is gray. Greg is a lion. Lily is gray.",
+  "target": "green",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Lily is a lion. Greg is a frog. Brian is a swan. Brian is yellow. Lily is green. Julius is a lion. Julius is gray. Greg is green. Bernhard is a swan.",
+  "target": "yellow",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Brian is a swan. Bernhard is a frog. Greg is a lion. Brian is yellow. Julius is a rhino. Greg is yellow. Lily is a frog. Lily is yellow. Julius is white.",
+  "target": "yellow",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Bernhard is a lion. Lily is a rhino. Lily is white. Julius is a frog. Greg is a swan. Brian is a rhino. Greg is gray. Julius is yellow. Bernhard is gray.",
+  "target": "white",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Lily is a lion. Lily is green. Greg is a swan. Brian is a swan. Greg is green. Bernhard is a frog. Brian is green. Julius is a frog. Bernhard is green.",
+  "target": "green",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Brian is a lion. Bernhard is a frog. Brian is green. Julius is a rhino. Bernhard is white. Greg is a lion. Lily is a swan. Julius is white. Lily is green.",
+  "target": "green",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Lily is a lion. Julius is a frog. Lily is gray. Julius is green. Greg is a frog. Bernhard is a frog. Brian is a frog. Brian is green. Greg is green.",
+  "target": "green",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Brian is a frog. Lily is a frog. Brian is green. Greg is a frog. Bernhard is a frog. Lily is yellow. Julius is a frog. Julius is white. Greg is white.",
+  "target": "white",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Lily is a rhino. Brian is a swan. Bernhard is a rhino. Julius is a lion. Brian is gray. Julius is gray. Lily is white. Bernhard is white. Greg is a lion.",
+  "target": "gray",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Greg is a swan. Julius is a rhino. Brian is a rhino. Brian is green. Greg is green. Bernhard is a lion. Bernhard is yellow. Lily is a frog. Lily is white.",
+  "target": "green",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Greg is a rhino. Julius is a swan. Julius is green. Lily is a lion. Bernhard is a lion. Greg is white. Lily is gray. Brian is a swan. Brian is yellow.",
+  "target": "gray",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Julius is a swan. Brian is a lion. Greg is a frog. Julius is green. Brian is gray. Greg is gray. Bernhard is a swan. Bernhard is gray. Lily is a lion.",
+  "target": "gray",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Lily is a lion. Brian is a swan. Greg is a lion. Greg is yellow. Bernhard is a frog. Bernhard is green. Brian is white. Julius is a frog. Julius is yellow.",
+  "target": "yellow",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Bernhard is a frog. Lily is a swan. Bernhard is gray. Julius is a swan. Greg is a rhino. Greg is yellow. Lily is gray. Julius is gray. Brian is a frog.",
+  "target": "gray",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Brian is a lion. Lily is a frog. Greg is a lion. Bernhard is a frog. Julius is a rhino. Brian is yellow. Bernhard is yellow. Julius is green. Greg is yellow.",
+  "target": "yellow",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Brian is a frog. Greg is a swan. Julius is a swan. Brian is gray. Julius is gray. Lily is a rhino. Lily is gray. Bernhard is a frog. Bernhard is yellow.",
+  "target": "gray",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Bernhard is a lion. Lily is a swan. Brian is a frog. Julius is a rhino. Bernhard is yellow. Julius is gray. Brian is yellow. Lily is yellow. Greg is a lion.",
+  "target": "yellow",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Lily is a rhino. Julius is a lion. Julius is gray. Lily is gray. Brian is a swan. Brian is gray. Greg is a swan. Greg is green. Bernhard is a lion.",
+  "target": "gray",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Greg is a frog. Brian is a swan. Brian is yellow. Lily is a frog. Bernhard is a lion. Greg is green. Bernhard is yellow. Julius is a swan. Lily is green.",
+  "target": "yellow",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Greg is a rhino. Brian is a swan. Bernhard is a frog. Brian is green. Greg is gray. Bernhard is yellow. Julius is a lion. Julius is yellow. Lily is a rhino.",
+  "target": "gray",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Lily is a frog. Julius is a frog. Greg is a rhino. Lily is white. Brian is a swan. Julius is white. Greg is gray. Brian is gray. Bernhard is a swan.",
+  "target": "gray",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Bernhard is a lion. Brian is a frog. Bernhard is gray. Lily is a lion. Brian is gray. Julius is a swan. Lily is gray. Greg is a swan. Greg is yellow.",
+  "target": "yellow",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Lily is a swan. Brian is a lion. Bernhard is a frog. Brian is white. Greg is a swan. Lily is yellow. Bernhard is yellow. Julius is a rhino. Julius is gray.",
+  "target": "yellow",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Julius is a lion. Julius is yellow. Brian is a rhino. Brian is gray. Bernhard is a swan. Bernhard is green. Greg is a lion. Lily is a rhino. Greg is white.",
+  "target": "gray",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Brian is a frog. Brian is white. Greg is a swan. Greg is white. Bernhard is a lion. Lily is a frog. Julius is a swan. Bernhard is white. Lily is yellow.",
+  "target": "white",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Bernhard is a rhino. Greg is a rhino. Lily is a lion. Julius is a frog. Lily is gray. Julius is gray. Brian is a frog. Bernhard is gray. Greg is gray.",
+  "target": "gray",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Julius is a swan. Greg is a swan. Brian is a lion. Julius is green. Brian is gray. Lily is a lion. Greg is green. Bernhard is a swan. Bernhard is green.",
+  "target": "gray",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Lily is a lion. Brian is a rhino. Greg is a rhino. Greg is gray. Bernhard is a swan. Julius is a lion. Brian is gray. Bernhard is yellow. Julius is green.",
+  "target": "green",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Julius is a lion. Bernhard is a lion. Bernhard is green. Julius is green. Lily is a lion. Brian is a frog. Lily is white. Brian is yellow. Greg is a frog.",
+  "target": "yellow",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Julius is a rhino. Julius is gray. Lily is a swan. Bernhard is a frog. Lily is gray. Bernhard is white. Brian is a rhino. Brian is white. Greg is a swan.",
+  "target": "gray",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Bernhard is a frog. Bernhard is white. Brian is a swan. Lily is a rhino. Greg is a lion. Julius is a swan. Lily is gray. Brian is gray. Greg is yellow.",
+  "target": "gray",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Greg is a frog. Bernhard is a frog. Lily is a frog. Greg is white. Lily is white. Bernhard is white. Brian is a rhino. Brian is white. Julius is a frog.",
+  "target": "white",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Bernhard is a swan. Julius is a rhino. Bernhard is yellow. Brian is a lion. Lily is a rhino. Lily is yellow. Brian is green. Greg is a swan. Julius is yellow.",
+  "target": "yellow",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Julius is a frog. Lily is a lion. Lily is yellow. Brian is a swan. Greg is a rhino. Bernhard is a swan. Brian is gray. Greg is yellow. Julius is yellow.",
+  "target": "gray",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Greg is a swan. Lily is a lion. Bernhard is a swan. Julius is a swan. Greg is yellow. Lily is white. Bernhard is yellow. Brian is a lion. Julius is yellow.",
+  "target": "white",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Bernhard is a lion. Julius is a rhino. Bernhard is white. Greg is a lion. Greg is yellow. Julius is green. Brian is a frog. Lily is a rhino. Brian is white.",
+  "target": "green",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Lily is a frog. Julius is a lion. Bernhard is a lion. Brian is a lion. Lily is gray. Greg is a lion. Greg is gray. Bernhard is gray. Brian is gray.",
+  "target": "gray",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Brian is a swan. Bernhard is a frog. Lily is a rhino. Bernhard is white. Greg is a swan. Brian is gray. Greg is gray. Lily is yellow. Julius is a frog.",
+  "target": "white",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Lily is a swan. Greg is a rhino. Julius is a frog. Brian is a swan. Bernhard is a rhino. Brian is gray. Lily is gray. Julius is yellow. Greg is gray.",
+  "target": "gray",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Lily is a lion. Bernhard is a frog. Lily is white. Bernhard is gray. Greg is a swan. Julius is a rhino. Brian is a frog. Greg is yellow. Julius is white.",
+  "target": "gray",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Greg is a swan. Julius is a lion. Bernhard is a rhino. Julius is yellow. Bernhard is gray. Brian is a rhino. Greg is white. Lily is a frog. Lily is green.",
+  "target": "gray",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Lily is a lion. Lily is green. Brian is a swan. Greg is a frog. Julius is a lion. Bernhard is a frog. Bernhard is white. Julius is gray. Brian is yellow.",
+  "target": "white",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Greg is a frog. Brian is a lion. Julius is a frog. Bernhard is a rhino. Greg is yellow. Brian is white. Julius is yellow. Bernhard is gray. Lily is a lion.",
+  "target": "white",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Julius is a lion. Bernhard is a frog. Greg is a rhino. Greg is yellow. Julius is green. Brian is a frog. Brian is yellow. Lily is a rhino. Lily is white.",
+  "target": "yellow",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Greg is a rhino. Lily is a lion. Greg is gray. Julius is a frog. Bernhard is a lion. Lily is green. Julius is gray. Brian is a frog. Bernhard is green.",
+  "target": "gray",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Lily is a lion. Brian is a swan. Bernhard is a swan. Lily is white. Bernhard is white. Greg is a rhino. Julius is a rhino. Greg is yellow. Julius is yellow.",
+  "target": "white",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Greg is a rhino. Brian is a frog. Greg is gray. Bernhard is a swan. Julius is a rhino. Julius is green. Bernhard is yellow. Lily is a swan. Brian is gray.",
+  "target": "yellow",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Julius is a frog. Greg is a swan. Brian is a rhino. Julius is gray. Lily is a swan. Lily is gray. Bernhard is a frog. Greg is gray. Brian is gray.",
+  "target": "gray",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Julius is a swan. Brian is a lion. Bernhard is a swan. Greg is a frog. Brian is green. Lily is a frog. Greg is white. Bernhard is white. Julius is white.",
+  "target": "white",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Greg is a rhino. Lily is a frog. Brian is a rhino. Bernhard is a swan. Bernhard is yellow. Lily is gray. Greg is gray. Julius is a lion. Julius is white.",
+  "target": "gray",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Lily is a frog. Lily is gray. Julius is a rhino. Brian is a swan. Julius is green. Brian is yellow. Bernhard is a rhino. Greg is a swan. Greg is white.",
+  "target": "green",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Lily is a lion. Julius is a lion. Julius is white. Brian is a swan. Greg is a rhino. Lily is white. Brian is white. Bernhard is a rhino. Greg is gray.",
+  "target": "gray",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Brian is a swan. Julius is a rhino. Brian is white. Bernhard is a rhino. Greg is a lion. Greg is green. Julius is yellow. Lily is a lion. Bernhard is yellow.",
+  "target": "green",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Brian is a swan. Greg is a lion. Greg is white. Brian is gray. Lily is a rhino. Lily is gray. Julius is a frog. Julius is white. Bernhard is a swan.",
+  "target": "gray",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Greg is a lion. Julius is a swan. Julius is gray. Greg is gray. Lily is a lion. Lily is white. Brian is a rhino. Brian is gray. Bernhard is a swan.",
+  "target": "gray",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Julius is a frog. Greg is a swan. Julius is yellow. Brian is a rhino. Bernhard is a lion. Greg is gray. Bernhard is gray. Lily is a lion. Brian is white.",
+  "target": "gray",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Greg is a swan. Greg is green. Julius is a swan. Bernhard is a rhino. Bernhard is white. Julius is gray. Lily is a frog. Brian is a frog. Brian is yellow.",
+  "target": "yellow",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Lily is a rhino. Greg is a frog. Brian is a frog. Lily is gray. Julius is a swan. Bernhard is a swan. Brian is gray. Bernhard is white. Julius is white.",
+  "target": "gray",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Lily is a frog. Julius is a lion. Lily is gray. Julius is green. Brian is a frog. Brian is yellow. Greg is a frog. Greg is gray. Bernhard is a frog.",
+  "target": "gray",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Lily is a frog. Brian is a lion. Greg is a rhino. Julius is a rhino. Julius is white. Brian is green. Lily is green. Greg is white. Bernhard is a frog.",
+  "target": "green",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Julius is a lion. Greg is a swan. Julius is yellow. Bernhard is a lion. Brian is a frog. Lily is a frog. Greg is white. Bernhard is yellow. Brian is gray.",
+  "target": "gray",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Bernhard is a rhino. Lily is a frog. Greg is a frog. Greg is green. Bernhard is green. Julius is a rhino. Brian is a swan. Julius is green. Brian is green.",
+  "target": "green",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Bernhard is a rhino. Greg is a rhino. Lily is a lion. Greg is green. Brian is a frog. Julius is a frog. Lily is green. Julius is yellow. Brian is yellow.",
+  "target": "green",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Julius is a frog. Lily is a swan. Julius is yellow. Greg is a rhino. Brian is a swan. Bernhard is a rhino. Lily is yellow. Greg is gray. Bernhard is gray.",
+  "target": "yellow",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Julius is a lion. Brian is a rhino. Julius is yellow. Bernhard is a swan. Bernhard is white. Greg is a frog. Greg is white. Brian is white. Lily is a lion.",
+  "target": "yellow",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Lily is a rhino. Julius is a frog. Greg is a lion. Brian is a swan. Brian is green. Julius is gray. Lily is gray. Greg is white. Bernhard is a swan.",
+  "target": "green",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Greg is a frog. Julius is a rhino. Julius is gray. Lily is a swan. Bernhard is a lion. Brian is a lion. Greg is yellow. Lily is green. Bernhard is green.",
+  "target": "green",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Greg is a rhino. Julius is a lion. Bernhard is a rhino. Greg is green. Brian is a swan. Brian is yellow. Julius is green. Bernhard is green. Lily is a lion.",
+  "target": "green",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Julius is a frog. Julius is gray. Bernhard is a lion. Bernhard is gray. Lily is a swan. Lily is white. Greg is a lion. Greg is gray. Brian is a frog.",
+  "target": "gray",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Bernhard is a swan. Lily is a lion. Bernhard is green. Brian is a swan. Brian is green. Greg is a frog. Greg is white. Julius is a frog. Lily is white.",
+  "target": "white",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Greg is a lion. Lily is a swan. Lily is gray. Julius is a rhino. Julius is green. Bernhard is a swan. Brian is a lion. Bernhard is white. Brian is gray.",
+  "target": "gray",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Bernhard is a lion. Julius is a swan. Julius is yellow. Greg is a rhino. Brian is a swan. Bernhard is white. Lily is a rhino. Brian is gray. Lily is gray.",
+  "target": "gray",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Julius is a frog. Lily is a lion. Lily is white. Brian is a frog. Julius is yellow. Greg is a frog. Brian is yellow. Greg is yellow. Bernhard is a lion.",
+  "target": "white",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Brian is a lion. Brian is green. Greg is a swan. Julius is a swan. Lily is a rhino. Greg is gray. Lily is yellow. Bernhard is a rhino. Julius is gray.",
+  "target": "yellow",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Lily is a rhino. Brian is a swan. Bernhard is a swan. Lily is gray. Brian is white. Bernhard is white. Julius is a frog. Julius is white. Greg is a frog.",
+  "target": "white",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Lily is a lion. Brian is a frog. Lily is gray. Bernhard is a rhino. Bernhard is yellow. Julius is a lion. Greg is a frog. Greg is gray. Brian is gray.",
+  "target": "gray",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Bernhard is a swan. Bernhard is yellow. Brian is a frog. Brian is gray. Julius is a swan. Julius is gray. Greg is a lion. Greg is yellow. Lily is a frog.",
+  "target": "gray",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Lily is a lion. Julius is a frog. Lily is white. Brian is a frog. Brian is yellow. Bernhard is a frog. Bernhard is yellow. Julius is yellow. Greg is a frog.",
+  "target": "yellow",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Greg is a frog. Lily is a lion. Julius is a swan. Lily is green. Greg is white. Brian is a frog. Julius is white. Brian is yellow. Bernhard is a lion.",
+  "target": "green",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Lily is a swan. Brian is a rhino. Greg is a lion. Lily is white. Brian is green. Greg is green. Julius is a rhino. Julius is gray. Bernhard is a lion.",
+  "target": "green",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Greg is a rhino. Julius is a lion. Brian is a lion. Lily is a swan. Greg is gray. Bernhard is a swan. Lily is white. Julius is white. Bernhard is white.",
+  "target": "white",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Bernhard is a swan. Julius is a frog. Brian is a lion. Julius is white. Bernhard is white. Brian is green. Lily is a lion. Lily is yellow. Greg is a frog.",
+  "target": "white",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Lily is a rhino. Julius is a frog. Greg is a rhino. Brian is a swan. Bernhard is a frog. Greg is green. Lily is green. Brian is gray. Bernhard is gray.",
+  "target": "gray",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Bernhard is a swan. Lily is a lion. Bernhard is yellow. Brian is a lion. Julius is a lion. Lily is gray. Brian is gray. Greg is a swan. Julius is gray.",
+  "target": "yellow",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Julius is a swan. Brian is a rhino. Lily is a frog. Lily is gray. Bernhard is a frog. Julius is white. Brian is gray. Greg is a swan. Greg is white.",
+  "target": "gray",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Brian is a rhino. Brian is gray. Julius is a frog. Lily is a lion. Bernhard is a swan. Lily is yellow. Julius is gray. Greg is a lion. Bernhard is white.",
+  "target": "yellow",
+  "question": "What color is Greg?"
+ },
+ {
+  "input": "Julius is a swan. Bernhard is a frog. Bernhard is gray. Julius is white. Lily is a lion. Greg is a rhino. Lily is gray. Greg is yellow. Brian is a lion.",
+  "target": "gray",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Julius is a swan. Lily is a swan. Brian is a rhino. Bernhard is a swan. Julius is yellow. Lily is yellow. Greg is a swan. Greg is white. Brian is gray.",
+  "target": "white",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Julius is a frog. Bernhard is a rhino. Julius is yellow. Bernhard is white. Greg is a swan. Greg is white. Brian is a rhino. Brian is gray. Lily is a frog.",
+  "target": "yellow",
+  "question": "What color is Lily?"
+ },
+ {
+  "input": "Lily is a lion. Bernhard is a swan. Brian is a rhino. Greg is a rhino. Bernhard is yellow. Lily is white. Julius is a swan. Greg is green. Julius is yellow.",
+  "target": "green",
+  "question": "What color is Brian?"
+ },
+ {
+  "input": "Greg is a frog. Greg is white. Lily is a rhino. Bernhard is a lion. Lily is green. Brian is a lion. Julius is a frog. Brian is green. Bernhard is green.",
+  "target": "white",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Bernhard is a swan. Brian is a lion. Bernhard is yellow. Brian is gray. Greg is a rhino. Lily is a swan. Lily is green. Julius is a rhino. Greg is white.",
+  "target": "white",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Lily is a swan. Greg is a lion. Julius is a frog. Lily is white. Greg is white. Bernhard is a frog. Brian is a lion. Brian is green. Bernhard is white.",
+  "target": "white",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Brian is a rhino. Brian is gray. Bernhard is a frog. Lily is a swan. Bernhard is green. Greg is a lion. Lily is white. Greg is green. Julius is a frog.",
+  "target": "green",
+  "question": "What color is Julius?"
+ },
+ {
+  "input": "Brian is a frog. Julius is a frog. Greg is a frog. Greg is gray. Brian is gray. Bernhard is a lion. Julius is gray. Lily is a lion. Lily is gray.",
+  "target": "gray",
+  "question": "What color is Bernhard?"
+ },
+ {
+  "input": "Lily is a rhino. Julius is a swan. Bernhard is a frog. Lily is yellow. Brian is a frog. Bernhard is gray. Brian is gray. Greg is a swan. Julius is green.",
+  "target": "green",
+  "question": "What color is Greg?"
+ }
+]

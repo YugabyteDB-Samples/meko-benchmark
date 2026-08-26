@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "status": "recorded_complete",
+  "storage": "Meko artifact_put followed by artifact_get using the locally computed SHA-256",
+  "reader_delivery": "local frozen fixtures; no claim that reader calls fetched Meko directly",
+  "packets_expected": 320,
+  "packets_fetched": 320,
+  "packet_mismatches": [],
+  "reader_fixtures": [
+    {
+      "label": "codex-55",
+      "context_chars_cap": 42031,
+      "fixture_sha256": "93ef5fa8453b439c2715f521e56eeb6d8b029b6eafa58a8c0e7945ddb20d2b98",
+      "derived_sha256": "93ef5fa8453b439c2715f521e56eeb6d8b029b6eafa58a8c0e7945ddb20d2b98",
+      "byte_identical": true
+    },
+    {
+      "label": "codex-luna",
+      "context_chars_cap": 34226,
+      "fixture_sha256": "e9f4131ee8d1e5f90f8b4f3c167bd660fc583d9f37c76c93b7efc4cb72ab39f4",
+      "derived_sha256": "e9f4131ee8d1e5f90f8b4f3c167bd660fc583d9f37c76c93b7efc4cb72ab39f4",
+      "byte_identical": true
+    },
+    {
+      "label": "codex-sol",
+      "context_chars_cap": 70899,
+      "fixture_sha256": "2ec814a6ccf1625e9e90068b40383869d62c69fc71d051d317794b3661485a3d",
+      "derived_sha256": "2ec814a6ccf1625e9e90068b40383869d62c69fc71d051d317794b3661485a3d",
+      "byte_identical": true
+    },
+    {
+      "label": "codex-terra",
+      "context_chars_cap": 46274,
+      "fixture_sha256": "0d5e0d1d5112484fad6fe747f9166a831676b119d18eba0ee0ab4ff9fbfb2845",
+      "derived_sha256": "0d5e0d1d5112484fad6fe747f9166a831676b119d18eba0ee0ab4ff9fbfb2845",
+      "byte_identical": true
+    },
+    {
+      "label": "gemini-37",
+      "context_chars_cap": 84900,
+      "fixture_sha256": "8115479e73bd81824bb950f69d5f48c83183142e6f0ed261339a648c0afe9ab3",
+      "derived_sha256": "8115479e73bd81824bb950f69d5f48c83183142e6f0ed261339a648c0afe9ab3",
+      "byte_identical": true
+    },
+    {
+      "label": "glm",
+      "context_chars_cap": 82168,
+      "fixture_sha256": "61c4a6d0fe968b6cdf84ccd929c487e664d5c61dc76df239f5f048a07e65f260",
+      "derived_sha256": "61c4a6d0fe968b6cdf84ccd929c487e664d5c61dc76df239f5f048a07e65f260",
+      "byte_identical": true
+    },
+    {
+      "label": "opus5",
+      "context_chars_cap": 66643,
+      "fixture_sha256": "ae1172436622cc80af15372b22a0875d27e33e07f507555b0dbea6d4a211909f",
+      "derived_sha256": "ae1172436622cc80af15372b22a0875d27e33e07f507555b0dbea6d4a211909f",
+      "byte_identical": true
+    },
+    {
+      "label": "sonnet5",
+      "context_chars_cap": 80372,
+      "fixture_sha256": "71e9478b0d4137889f40e6906005a18c41bf33b6a3c03e1937259d61629c4297",
+      "derived_sha256": "71e9478b0d4137889f40e6906005a18c41bf33b6a3c03e1937259d61629c4297",
+      "byte_identical": true
+    }
+  ],
+  "verification_scope": "Recorded client report. Offline checks prove internal hash consistency, not a past remote call."
+}

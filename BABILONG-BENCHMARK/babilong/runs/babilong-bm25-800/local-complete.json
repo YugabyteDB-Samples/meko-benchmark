@@ -1,0 +1,1120 @@
+{
+  "packet_manifest_sha256": "8a97642df70b46932a157b59afa2019ca07211d7f9ff90da9a006c539ae4e0ed",
+  "packets_sha256": "c11b6c7217e2aa764d3adfe4631e15dae64ef3619656a62b79a2bb4218630541",
+  "readers": {
+    "codex_luna": {
+      "cells": {
+        "qa1/0k": {
+          "accuracy_percent": 99.0,
+          "complete": true,
+          "correct": 99,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13342.2,
+          "successful": 100,
+          "total_input_tokens": 1334216
+        },
+        "qa1/16k": {
+          "accuracy_percent": 87.0,
+          "complete": true,
+          "correct": 87,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14149.2,
+          "successful": 100,
+          "total_input_tokens": 1414923
+        },
+        "qa1/4k": {
+          "accuracy_percent": 95.0,
+          "complete": true,
+          "correct": 95,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14285.8,
+          "successful": 100,
+          "total_input_tokens": 1428580
+        },
+        "qa10/0k": {
+          "accuracy_percent": 94.0,
+          "complete": true,
+          "correct": 94,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13373.4,
+          "successful": 100,
+          "total_input_tokens": 1337337
+        },
+        "qa10/16k": {
+          "accuracy_percent": 93.0,
+          "complete": true,
+          "correct": 93,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14192.4,
+          "successful": 100,
+          "total_input_tokens": 1419240
+        },
+        "qa10/4k": {
+          "accuracy_percent": 94.0,
+          "complete": true,
+          "correct": 94,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14179.4,
+          "successful": 100,
+          "total_input_tokens": 1417944
+        },
+        "qa11/0k": {
+          "accuracy_percent": 99.0,
+          "complete": true,
+          "correct": 99,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13390.7,
+          "successful": 100,
+          "total_input_tokens": 1339073
+        },
+        "qa12/0k": {
+          "accuracy_percent": 100.0,
+          "complete": true,
+          "correct": 100,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13414.4,
+          "successful": 100,
+          "total_input_tokens": 1341444
+        },
+        "qa13/0k": {
+          "accuracy_percent": 99.0,
+          "complete": true,
+          "correct": 99,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13411.0,
+          "successful": 100,
+          "total_input_tokens": 1341102
+        },
+        "qa14/0k": {
+          "accuracy_percent": 97.0,
+          "complete": true,
+          "correct": 97,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13447.5,
+          "successful": 100,
+          "total_input_tokens": 1344745
+        },
+        "qa15/0k": {
+          "accuracy_percent": 68.0,
+          "complete": true,
+          "correct": 68,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13441.1,
+          "successful": 100,
+          "total_input_tokens": 1344114
+        },
+        "qa16/0k": {
+          "accuracy_percent": 95.0,
+          "complete": true,
+          "correct": 95,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13440.2,
+          "successful": 100,
+          "total_input_tokens": 1344022
+        },
+        "qa17/0k": {
+          "accuracy_percent": 70.0,
+          "complete": true,
+          "correct": 70,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13355.8,
+          "successful": 100,
+          "total_input_tokens": 1335577
+        },
+        "qa18/0k": {
+          "accuracy_percent": 96.0,
+          "complete": true,
+          "correct": 96,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13433.2,
+          "successful": 100,
+          "total_input_tokens": 1343318
+        },
+        "qa19/0k": {
+          "accuracy_percent": 87.0,
+          "complete": true,
+          "correct": 87,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13453.6,
+          "successful": 100,
+          "total_input_tokens": 1345361
+        },
+        "qa2/0k": {
+          "accuracy_percent": 87.0,
+          "complete": true,
+          "correct": 87,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13428.2,
+          "successful": 100,
+          "total_input_tokens": 1342821
+        },
+        "qa2/16k": {
+          "accuracy_percent": 9.0,
+          "complete": true,
+          "correct": 9,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14171.7,
+          "successful": 100,
+          "total_input_tokens": 1417171
+        },
+        "qa2/4k": {
+          "accuracy_percent": 31.0,
+          "complete": true,
+          "correct": 31,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14173.9,
+          "successful": 100,
+          "total_input_tokens": 1417392
+        },
+        "qa20/0k": {
+          "accuracy_percent": 88.0,
+          "complete": true,
+          "correct": 88,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13371.8,
+          "successful": 100,
+          "total_input_tokens": 1337178
+        },
+        "qa3/0k": {
+          "accuracy_percent": 81.0,
+          "complete": true,
+          "correct": 81,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13719.8,
+          "successful": 100,
+          "total_input_tokens": 1371981
+        },
+        "qa3/16k": {
+          "accuracy_percent": 13.0,
+          "complete": true,
+          "correct": 13,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14235.7,
+          "successful": 100,
+          "total_input_tokens": 1423570
+        },
+        "qa3/4k": {
+          "accuracy_percent": 28.0,
+          "complete": true,
+          "correct": 28,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14582.9,
+          "successful": 100,
+          "total_input_tokens": 1458294
+        },
+        "qa4/0k": {
+          "accuracy_percent": 89.0,
+          "complete": true,
+          "correct": 89,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13282.0,
+          "successful": 100,
+          "total_input_tokens": 1328195
+        },
+        "qa4/16k": {
+          "accuracy_percent": 95.0,
+          "complete": true,
+          "correct": 95,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14126.4,
+          "successful": 100,
+          "total_input_tokens": 1412639
+        },
+        "qa4/4k": {
+          "accuracy_percent": 94.0,
+          "complete": true,
+          "correct": 94,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14105.4,
+          "successful": 100,
+          "total_input_tokens": 1410535
+        },
+        "qa5/0k": {
+          "accuracy_percent": 93.0,
+          "complete": true,
+          "correct": 93,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13447.7,
+          "successful": 100,
+          "total_input_tokens": 1344766
+        },
+        "qa5/16k": {
+          "accuracy_percent": 83.0,
+          "complete": true,
+          "correct": 83,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14325.8,
+          "successful": 100,
+          "total_input_tokens": 1432576
+        },
+        "qa5/4k": {
+          "accuracy_percent": 92.0,
+          "complete": true,
+          "correct": 92,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14186.9,
+          "successful": 100,
+          "total_input_tokens": 1418689
+        },
+        "qa6/0k": {
+          "accuracy_percent": 100.0,
+          "complete": true,
+          "correct": 100,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13336.4,
+          "successful": 100,
+          "total_input_tokens": 1333637
+        },
+        "qa6/16k": {
+          "accuracy_percent": 96.0,
+          "complete": true,
+          "correct": 96,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14159.9,
+          "successful": 100,
+          "total_input_tokens": 1415991
+        },
+        "qa6/4k": {
+          "accuracy_percent": 96.0,
+          "complete": true,
+          "correct": 96,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14134.5,
+          "successful": 100,
+          "total_input_tokens": 1413451
+        },
+        "qa7/0k": {
+          "accuracy_percent": 52.0,
+          "complete": true,
+          "correct": 52,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13365.1,
+          "successful": 100,
+          "total_input_tokens": 1336507
+        },
+        "qa7/16k": {
+          "accuracy_percent": 27.0,
+          "complete": true,
+          "correct": 27,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14157.3,
+          "successful": 100,
+          "total_input_tokens": 1415726
+        },
+        "qa7/4k": {
+          "accuracy_percent": 44.0,
+          "complete": true,
+          "correct": 44,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14162.9,
+          "successful": 100,
+          "total_input_tokens": 1416285
+        },
+        "qa8/0k": {
+          "accuracy_percent": 98.0,
+          "complete": true,
+          "correct": 98,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13390.6,
+          "successful": 100,
+          "total_input_tokens": 1339059
+        },
+        "qa8/16k": {
+          "accuracy_percent": 74.0,
+          "complete": true,
+          "correct": 74,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14178.9,
+          "successful": 100,
+          "total_input_tokens": 1417886
+        },
+        "qa8/4k": {
+          "accuracy_percent": 76.0,
+          "complete": true,
+          "correct": 76,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14168.3,
+          "successful": 100,
+          "total_input_tokens": 1416828
+        },
+        "qa9/0k": {
+          "accuracy_percent": 100.0,
+          "complete": true,
+          "correct": 100,
+          "input_token_rows": 100,
+          "mean_input_tokens": 13331.4,
+          "successful": 100,
+          "total_input_tokens": 1333139
+        },
+        "qa9/16k": {
+          "accuracy_percent": 99.0,
+          "complete": true,
+          "correct": 99,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14141.9,
+          "successful": 100,
+          "total_input_tokens": 1414186
+        },
+        "qa9/4k": {
+          "accuracy_percent": 97.0,
+          "complete": true,
+          "correct": 97,
+          "input_token_rows": 100,
+          "mean_input_tokens": 14138.8,
+          "successful": 100,
+          "total_input_tokens": 1413881
+        }
+      },
+      "complete_cells": 40,
+      "current_failures": 0,
+      "duplicate_success_rows": 0,
+      "planned": 4000,
+      "planned_cells": 40,
+      "reader": "codex_luna",
+      "successful": 4000
+    },
+    "deepseek_v4_flash": {
+      "cells": {
+        "qa1/0k": {
+          "accuracy_percent": 100.0,
+          "complete": true,
+          "correct": 100,
+          "input_token_rows": 100,
+          "mean_input_tokens": 220.3,
+          "successful": 100,
+          "total_input_tokens": 22033
+        },
+        "qa1/16k": {
+          "accuracy_percent": 88.0,
+          "complete": true,
+          "correct": 88,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1032.7,
+          "successful": 100,
+          "total_input_tokens": 103274
+        },
+        "qa1/4k": {
+          "accuracy_percent": 92.0,
+          "complete": true,
+          "correct": 92,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1027.5,
+          "successful": 100,
+          "total_input_tokens": 102746
+        },
+        "qa10/0k": {
+          "accuracy_percent": 90.0,
+          "complete": true,
+          "correct": 90,
+          "input_token_rows": 100,
+          "mean_input_tokens": 252.5,
+          "successful": 100,
+          "total_input_tokens": 25248
+        },
+        "qa10/16k": {
+          "accuracy_percent": 83.0,
+          "complete": true,
+          "correct": 83,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1078.1,
+          "successful": 100,
+          "total_input_tokens": 107813
+        },
+        "qa10/4k": {
+          "accuracy_percent": 85.0,
+          "complete": true,
+          "correct": 85,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1065.5,
+          "successful": 100,
+          "total_input_tokens": 106549
+        },
+        "qa11/0k": {
+          "accuracy_percent": 99.0,
+          "complete": true,
+          "correct": 99,
+          "input_token_rows": 100,
+          "mean_input_tokens": 270.6,
+          "successful": 100,
+          "total_input_tokens": 27056
+        },
+        "qa12/0k": {
+          "accuracy_percent": 88.0,
+          "complete": true,
+          "correct": 88,
+          "input_token_rows": 100,
+          "mean_input_tokens": 294.2,
+          "successful": 100,
+          "total_input_tokens": 29424
+        },
+        "qa13/0k": {
+          "accuracy_percent": 99.0,
+          "complete": true,
+          "correct": 99,
+          "input_token_rows": 100,
+          "mean_input_tokens": 289.5,
+          "successful": 100,
+          "total_input_tokens": 28948
+        },
+        "qa14/0k": {
+          "accuracy_percent": 77.0,
+          "complete": true,
+          "correct": 77,
+          "input_token_rows": 100,
+          "mean_input_tokens": 326.0,
+          "successful": 100,
+          "total_input_tokens": 32602
+        },
+        "qa15/0k": {
+          "accuracy_percent": 77.0,
+          "complete": true,
+          "correct": 77,
+          "input_token_rows": 100,
+          "mean_input_tokens": 315.5,
+          "successful": 100,
+          "total_input_tokens": 31550
+        },
+        "qa16/0k": {
+          "accuracy_percent": 74.0,
+          "complete": true,
+          "correct": 74,
+          "input_token_rows": 100,
+          "mean_input_tokens": 317.8,
+          "successful": 100,
+          "total_input_tokens": 31781
+        },
+        "qa17/0k": {
+          "accuracy_percent": 89.0,
+          "complete": true,
+          "correct": 89,
+          "input_token_rows": 100,
+          "mean_input_tokens": 233.5,
+          "successful": 100,
+          "total_input_tokens": 23346
+        },
+        "qa18/0k": {
+          "accuracy_percent": 94.0,
+          "complete": true,
+          "correct": 94,
+          "input_token_rows": 100,
+          "mean_input_tokens": 319.4,
+          "successful": 100,
+          "total_input_tokens": 31944
+        },
+        "qa19/0k": {
+          "accuracy_percent": 20.0,
+          "complete": true,
+          "correct": 20,
+          "input_token_rows": 100,
+          "mean_input_tokens": 331.0,
+          "successful": 100,
+          "total_input_tokens": 33100
+        },
+        "qa2/0k": {
+          "accuracy_percent": 78.0,
+          "complete": true,
+          "correct": 78,
+          "input_token_rows": 100,
+          "mean_input_tokens": 306.3,
+          "successful": 100,
+          "total_input_tokens": 30634
+        },
+        "qa2/16k": {
+          "accuracy_percent": 13.0,
+          "complete": true,
+          "correct": 13,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1054.2,
+          "successful": 100,
+          "total_input_tokens": 105419
+        },
+        "qa2/4k": {
+          "accuracy_percent": 39.0,
+          "complete": true,
+          "correct": 39,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1058.4,
+          "successful": 100,
+          "total_input_tokens": 105844
+        },
+        "qa20/0k": {
+          "accuracy_percent": 88.0,
+          "complete": true,
+          "correct": 88,
+          "input_token_rows": 100,
+          "mean_input_tokens": 256.7,
+          "successful": 100,
+          "total_input_tokens": 25667
+        },
+        "qa3/0k": {
+          "accuracy_percent": 55.0,
+          "complete": true,
+          "correct": 55,
+          "input_token_rows": 100,
+          "mean_input_tokens": 597.7,
+          "successful": 100,
+          "total_input_tokens": 59773
+        },
+        "qa3/16k": {
+          "accuracy_percent": 23.0,
+          "complete": true,
+          "correct": 23,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1119.5,
+          "successful": 100,
+          "total_input_tokens": 111952
+        },
+        "qa3/4k": {
+          "accuracy_percent": 22.0,
+          "complete": true,
+          "correct": 22,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1122.5,
+          "successful": 100,
+          "total_input_tokens": 112249
+        },
+        "qa4/0k": {
+          "accuracy_percent": 88.0,
+          "complete": true,
+          "correct": 88,
+          "input_token_rows": 100,
+          "mean_input_tokens": 160.0,
+          "successful": 100,
+          "total_input_tokens": 16000
+        },
+        "qa4/16k": {
+          "accuracy_percent": 66.0,
+          "complete": true,
+          "correct": 66,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1011.2,
+          "successful": 100,
+          "total_input_tokens": 101125
+        },
+        "qa4/4k": {
+          "accuracy_percent": 73.0,
+          "complete": true,
+          "correct": 73,
+          "input_token_rows": 100,
+          "mean_input_tokens": 989.9,
+          "successful": 100,
+          "total_input_tokens": 98991
+        },
+        "qa5/0k": {
+          "accuracy_percent": 85.0,
+          "complete": true,
+          "correct": 85,
+          "input_token_rows": 100,
+          "mean_input_tokens": 325.4,
+          "successful": 100,
+          "total_input_tokens": 32538
+        },
+        "qa5/16k": {
+          "accuracy_percent": 85.0,
+          "complete": true,
+          "correct": 85,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1067.4,
+          "successful": 100,
+          "total_input_tokens": 106738
+        },
+        "qa5/4k": {
+          "accuracy_percent": 85.0,
+          "complete": true,
+          "correct": 85,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1071.3,
+          "successful": 100,
+          "total_input_tokens": 107132
+        },
+        "qa6/0k": {
+          "accuracy_percent": 99.0,
+          "complete": true,
+          "correct": 99,
+          "input_token_rows": 100,
+          "mean_input_tokens": 214.2,
+          "successful": 100,
+          "total_input_tokens": 21425
+        },
+        "qa6/16k": {
+          "accuracy_percent": 93.0,
+          "complete": true,
+          "correct": 93,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1043.3,
+          "successful": 100,
+          "total_input_tokens": 104333
+        },
+        "qa6/4k": {
+          "accuracy_percent": 93.0,
+          "complete": true,
+          "correct": 93,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1019.4,
+          "successful": 100,
+          "total_input_tokens": 101938
+        },
+        "qa7/0k": {
+          "accuracy_percent": 41.0,
+          "complete": true,
+          "correct": 41,
+          "input_token_rows": 100,
+          "mean_input_tokens": 245.4,
+          "successful": 100,
+          "total_input_tokens": 24543
+        },
+        "qa7/16k": {
+          "accuracy_percent": 5.0,
+          "complete": true,
+          "correct": 5,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1044.1,
+          "successful": 100,
+          "total_input_tokens": 104410
+        },
+        "qa7/4k": {
+          "accuracy_percent": 9.0,
+          "complete": true,
+          "correct": 9,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1049.3,
+          "successful": 100,
+          "total_input_tokens": 104930
+        },
+        "qa8/0k": {
+          "accuracy_percent": 96.0,
+          "complete": true,
+          "correct": 96,
+          "input_token_rows": 100,
+          "mean_input_tokens": 269.9,
+          "successful": 100,
+          "total_input_tokens": 26985
+        },
+        "qa8/16k": {
+          "accuracy_percent": 51.0,
+          "complete": true,
+          "correct": 51,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1064.7,
+          "successful": 100,
+          "total_input_tokens": 106472
+        },
+        "qa8/4k": {
+          "accuracy_percent": 55.0,
+          "complete": true,
+          "correct": 55,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1051.2,
+          "successful": 100,
+          "total_input_tokens": 105122
+        },
+        "qa9/0k": {
+          "accuracy_percent": 100.0,
+          "complete": true,
+          "correct": 100,
+          "input_token_rows": 100,
+          "mean_input_tokens": 208.8,
+          "successful": 100,
+          "total_input_tokens": 20881
+        },
+        "qa9/16k": {
+          "accuracy_percent": 93.0,
+          "complete": true,
+          "correct": 93,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1025.5,
+          "successful": 100,
+          "total_input_tokens": 102549
+        },
+        "qa9/4k": {
+          "accuracy_percent": 95.0,
+          "complete": true,
+          "correct": 95,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1023.7,
+          "successful": 100,
+          "total_input_tokens": 102371
+        }
+      },
+      "complete_cells": 40,
+      "current_failures": 0,
+      "duplicate_success_rows": 0,
+      "planned": 4000,
+      "planned_cells": 40,
+      "reader": "deepseek_v4_flash",
+      "successful": 4000
+    },
+    "qwen": {
+      "cells": {
+        "qa1/0k": {
+          "accuracy_percent": 100.0,
+          "complete": true,
+          "correct": 100,
+          "input_token_rows": 100,
+          "mean_input_tokens": 240.3,
+          "successful": 100,
+          "total_input_tokens": 24033
+        },
+        "qa1/16k": {
+          "accuracy_percent": 88.0,
+          "complete": true,
+          "correct": 88,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1068.8,
+          "successful": 100,
+          "total_input_tokens": 106875
+        },
+        "qa1/4k": {
+          "accuracy_percent": 94.0,
+          "complete": true,
+          "correct": 94,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1061.5,
+          "successful": 100,
+          "total_input_tokens": 106145
+        },
+        "qa10/0k": {
+          "accuracy_percent": 92.0,
+          "complete": true,
+          "correct": 92,
+          "input_token_rows": 100,
+          "mean_input_tokens": 273.7,
+          "successful": 100,
+          "total_input_tokens": 27367
+        },
+        "qa10/16k": {
+          "accuracy_percent": 85.0,
+          "complete": true,
+          "correct": 85,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1113.7,
+          "successful": 100,
+          "total_input_tokens": 111367
+        },
+        "qa10/4k": {
+          "accuracy_percent": 86.0,
+          "complete": true,
+          "correct": 86,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1101.6,
+          "successful": 100,
+          "total_input_tokens": 110163
+        },
+        "qa11/0k": {
+          "accuracy_percent": 100.0,
+          "complete": true,
+          "correct": 100,
+          "input_token_rows": 100,
+          "mean_input_tokens": 291.6,
+          "successful": 100,
+          "total_input_tokens": 29156
+        },
+        "qa12/0k": {
+          "accuracy_percent": 97.0,
+          "complete": true,
+          "correct": 97,
+          "input_token_rows": 100,
+          "mean_input_tokens": 315.2,
+          "successful": 100,
+          "total_input_tokens": 31524
+        },
+        "qa13/0k": {
+          "accuracy_percent": 100.0,
+          "complete": true,
+          "correct": 100,
+          "input_token_rows": 100,
+          "mean_input_tokens": 310.5,
+          "successful": 100,
+          "total_input_tokens": 31048
+        },
+        "qa14/0k": {
+          "accuracy_percent": 93.0,
+          "complete": true,
+          "correct": 93,
+          "input_token_rows": 100,
+          "mean_input_tokens": 347.1,
+          "successful": 100,
+          "total_input_tokens": 34711
+        },
+        "qa15/0k": {
+          "accuracy_percent": 96.0,
+          "complete": true,
+          "correct": 96,
+          "input_token_rows": 100,
+          "mean_input_tokens": 341.1,
+          "successful": 100,
+          "total_input_tokens": 34112
+        },
+        "qa16/0k": {
+          "accuracy_percent": 88.0,
+          "complete": true,
+          "correct": 88,
+          "input_token_rows": 100,
+          "mean_input_tokens": 331.0,
+          "successful": 100,
+          "total_input_tokens": 33098
+        },
+        "qa17/0k": {
+          "accuracy_percent": 77.0,
+          "complete": true,
+          "correct": 77,
+          "input_token_rows": 100,
+          "mean_input_tokens": 253.5,
+          "successful": 100,
+          "total_input_tokens": 25346
+        },
+        "qa18/0k": {
+          "accuracy_percent": 100.0,
+          "complete": true,
+          "correct": 100,
+          "input_token_rows": 100,
+          "mean_input_tokens": 331.3,
+          "successful": 100,
+          "total_input_tokens": 33132
+        },
+        "qa19/0k": {
+          "accuracy_percent": 47.0,
+          "complete": true,
+          "correct": 47,
+          "input_token_rows": 100,
+          "mean_input_tokens": 352.0,
+          "successful": 100,
+          "total_input_tokens": 35200
+        },
+        "qa2/0k": {
+          "accuracy_percent": 81.0,
+          "complete": true,
+          "correct": 81,
+          "input_token_rows": 100,
+          "mean_input_tokens": 327.4,
+          "successful": 100,
+          "total_input_tokens": 32745
+        },
+        "qa2/16k": {
+          "accuracy_percent": 14.0,
+          "complete": true,
+          "correct": 14,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1095.6,
+          "successful": 100,
+          "total_input_tokens": 109556
+        },
+        "qa2/4k": {
+          "accuracy_percent": 37.0,
+          "complete": true,
+          "correct": 37,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1091.0,
+          "successful": 100,
+          "total_input_tokens": 109101
+        },
+        "qa20/0k": {
+          "accuracy_percent": 88.9,
+          "complete": false,
+          "correct": 88,
+          "input_token_rows": 99,
+          "mean_input_tokens": 271.4,
+          "successful": 99,
+          "total_input_tokens": 26865
+        },
+        "qa3/0k": {
+          "accuracy_percent": 43.0,
+          "complete": true,
+          "correct": 43,
+          "input_token_rows": 100,
+          "mean_input_tokens": 620.2,
+          "successful": 100,
+          "total_input_tokens": 62020
+        },
+        "qa3/16k": {
+          "accuracy_percent": 18.0,
+          "complete": true,
+          "correct": 18,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1153.8,
+          "successful": 100,
+          "total_input_tokens": 115377
+        },
+        "qa3/4k": {
+          "accuracy_percent": 26.0,
+          "complete": true,
+          "correct": 26,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1158.4,
+          "successful": 100,
+          "total_input_tokens": 115839
+        },
+        "qa4/0k": {
+          "accuracy_percent": 99.0,
+          "complete": true,
+          "correct": 99,
+          "input_token_rows": 100,
+          "mean_input_tokens": 178.0,
+          "successful": 100,
+          "total_input_tokens": 17800
+        },
+        "qa4/16k": {
+          "accuracy_percent": 91.0,
+          "complete": true,
+          "correct": 91,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1045.2,
+          "successful": 100,
+          "total_input_tokens": 104525
+        },
+        "qa4/4k": {
+          "accuracy_percent": 90.0,
+          "complete": true,
+          "correct": 90,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1022.1,
+          "successful": 100,
+          "total_input_tokens": 102211
+        },
+        "qa5/0k": {
+          "accuracy_percent": 87.0,
+          "complete": true,
+          "correct": 87,
+          "input_token_rows": 100,
+          "mean_input_tokens": 346.6,
+          "successful": 100,
+          "total_input_tokens": 34659
+        },
+        "qa5/16k": {
+          "accuracy_percent": 83.0,
+          "complete": true,
+          "correct": 83,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1101.1,
+          "successful": 100,
+          "total_input_tokens": 110114
+        },
+        "qa5/4k": {
+          "accuracy_percent": 82.0,
+          "complete": true,
+          "correct": 82,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1112.0,
+          "successful": 100,
+          "total_input_tokens": 111197
+        },
+        "qa6/0k": {
+          "accuracy_percent": 99.0,
+          "complete": true,
+          "correct": 99,
+          "input_token_rows": 100,
+          "mean_input_tokens": 232.2,
+          "successful": 100,
+          "total_input_tokens": 23225
+        },
+        "qa6/16k": {
+          "accuracy_percent": 95.0,
+          "complete": true,
+          "correct": 95,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1080.8,
+          "successful": 100,
+          "total_input_tokens": 108076
+        },
+        "qa6/4k": {
+          "accuracy_percent": 96.0,
+          "complete": true,
+          "correct": 96,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1051.4,
+          "successful": 100,
+          "total_input_tokens": 105138
+        },
+        "qa7/0k": {
+          "accuracy_percent": 53.0,
+          "complete": true,
+          "correct": 53,
+          "input_token_rows": 100,
+          "mean_input_tokens": 265.4,
+          "successful": 100,
+          "total_input_tokens": 26544
+        },
+        "qa7/16k": {
+          "accuracy_percent": 28.0,
+          "complete": true,
+          "correct": 28,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1076.2,
+          "successful": 100,
+          "total_input_tokens": 107625
+        },
+        "qa7/4k": {
+          "accuracy_percent": 44.0,
+          "complete": true,
+          "correct": 44,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1085.9,
+          "successful": 100,
+          "total_input_tokens": 108587
+        },
+        "qa8/0k": {
+          "accuracy_percent": 100.0,
+          "complete": true,
+          "correct": 100,
+          "input_token_rows": 100,
+          "mean_input_tokens": 290.9,
+          "successful": 100,
+          "total_input_tokens": 29087
+        },
+        "qa8/16k": {
+          "accuracy_percent": 76.0,
+          "complete": true,
+          "correct": 76,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1098.5,
+          "successful": 100,
+          "total_input_tokens": 109853
+        },
+        "qa8/4k": {
+          "accuracy_percent": 80.0,
+          "complete": true,
+          "correct": 80,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1089.4,
+          "successful": 100,
+          "total_input_tokens": 108942
+        },
+        "qa9/0k": {
+          "accuracy_percent": 100.0,
+          "complete": true,
+          "correct": 100,
+          "input_token_rows": 100,
+          "mean_input_tokens": 226.8,
+          "successful": 100,
+          "total_input_tokens": 22681
+        },
+        "qa9/16k": {
+          "accuracy_percent": 100.0,
+          "complete": true,
+          "correct": 100,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1060.1,
+          "successful": 100,
+          "total_input_tokens": 106007
+        },
+        "qa9/4k": {
+          "accuracy_percent": 100.0,
+          "complete": true,
+          "correct": 100,
+          "input_token_rows": 100,
+          "mean_input_tokens": 1056.6,
+          "successful": 100,
+          "total_input_tokens": 105658
+        }
+      },
+      "complete_cells": 39,
+      "current_failures": 0,
+      "duplicate_success_rows": 1,
+      "planned": 4000,
+      "planned_cells": 40,
+      "reader": "qwen",
+      "successful": 3999
+    }
+  },
+  "schema": "meko.babilong.bm25-800-evidence.v1"
+}

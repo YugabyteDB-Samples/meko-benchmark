@@ -1,0 +1,502 @@
+[
+ {
+  "input": "The chocolate fits inside the box. The chocolate fits inside the suitcase. The chocolate fits inside the chest. The chest fits inside the container. The chocolate fits inside the box of chocolates.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the container?"
+ },
+ {
+  "input": "The chest is bigger than the chocolate. The chest is bigger than the chocolate. The container is bigger than the box of chocolates. The container is bigger than the chocolate. The box fits inside the suitcase. The box of chocolates fits inside the container. The box of chocolates fits inside the box. The container is bigger than the suitcase. The box of chocolates fits inside the container. The container is bigger than the suitcase.",
+  "target": "yes",
+  "question": "Is the container bigger than the box?"
+ },
+ {
+  "input": "The chest is bigger than the suitcase. The chest is bigger than the suitcase. The suitcase fits inside the chest. The box of chocolates is bigger than the chocolate. The container is bigger than the box of chocolates.",
+  "target": "no",
+  "question": "Does the container fit in the chocolate?"
+ },
+ {
+  "input": "The chest is bigger than the container. The box of chocolates fits inside the chest. The chest is bigger than the box. The chocolate fits inside the box of chocolates. The suitcase is bigger than the container.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the chest?"
+ },
+ {
+  "input": "The chocolate fits inside the container. The box is bigger than the chest. The chest fits inside the container. The box of chocolates fits inside the container. The chest is bigger than the suitcase.",
+  "target": "no",
+  "question": "Is the suitcase bigger than the box?"
+ },
+ {
+  "input": "The suitcase fits inside the chest. The chest is bigger than the suitcase. The container is bigger than the box of chocolates. The box is bigger than the box of chocolates. The box of chocolates is bigger than the chocolate.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the container?"
+ },
+ {
+  "input": "The box fits inside the suitcase. The chocolate fits inside the chest. The box is bigger than the box of chocolates. The chocolate fits inside the chest. The chocolate fits inside the suitcase.",
+  "target": "yes",
+  "question": "Is the suitcase bigger than the box of chocolates?"
+ },
+ {
+  "input": "The chocolate fits inside the suitcase. The container fits inside the chest. The chocolate fits inside the box. The chest is bigger than the chocolate. The suitcase fits inside the box.",
+  "target": "no",
+  "question": "Does the box fit in the chocolate?"
+ },
+ {
+  "input": "The box fits inside the suitcase. The chocolate fits inside the chest. The box is bigger than the box of chocolates. The chocolate fits inside the chest. The chocolate fits inside the suitcase.",
+  "target": "yes",
+  "question": "Is the suitcase bigger than the box of chocolates?"
+ },
+ {
+  "input": "The box fits inside the container. The box of chocolates fits inside the box. The chest fits inside the suitcase. The chest is bigger than the box of chocolates. The chest is bigger than the chocolate.",
+  "target": "no",
+  "question": "Does the suitcase fit in the box of chocolates?"
+ },
+ {
+  "input": "The suitcase fits inside the container. The chest is bigger than the chocolate. The container fits inside the chest. The suitcase fits inside the box. The chest is bigger than the suitcase.",
+  "target": "no",
+  "question": "Does the chest fit in the suitcase?"
+ },
+ {
+  "input": "The container is bigger than the box of chocolates. The container is bigger than the suitcase. The suitcase is bigger than the box of chocolates. The container is bigger than the chocolate. The chocolate fits inside the container.",
+  "target": "no",
+  "question": "Does the container fit in the box of chocolates?"
+ },
+ {
+  "input": "The chest is bigger than the suitcase. The container is bigger than the suitcase. The chest is bigger than the suitcase. The box of chocolates fits inside the chest. The container is bigger than the chest.",
+  "target": "yes",
+  "question": "Does the suitcase fit in the container?"
+ },
+ {
+  "input": "The box of chocolates fits inside the box. The chocolate fits inside the suitcase. The suitcase is bigger than the box of chocolates. The container is bigger than the box of chocolates. The chest is bigger than the chocolate. The box is bigger than the chest. The container fits inside the box. The chest fits inside the box. The box of chocolates is bigger than the chocolate. The box is bigger than the chest.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the box?"
+ },
+ {
+  "input": "The box is bigger than the box of chocolates. The suitcase is bigger than the chocolate. The chest is bigger than the box. The box of chocolates fits inside the container. The box is bigger than the chocolate.",
+  "target": "yes",
+  "question": "Is the chest bigger than the box of chocolates?"
+ },
+ {
+  "input": "The box is bigger than the chest. The container is bigger than the box of chocolates. The suitcase is bigger than the chocolate. The box of chocolates fits inside the chest. The chest is bigger than the container.",
+  "target": "yes",
+  "question": "Does the box of chocolates fit in the chest?"
+ },
+ {
+  "input": "The suitcase fits inside the chest. The box of chocolates is bigger than the chocolate. The box of chocolates fits inside the box. The suitcase fits inside the chest. The chest is bigger than the chocolate.",
+  "target": "yes",
+  "question": "Is the box bigger than the chocolate?"
+ },
+ {
+  "input": "The chocolate fits inside the suitcase. The chest is bigger than the chocolate. The suitcase is bigger than the box of chocolates. The box of chocolates fits inside the box. The chocolate fits inside the box of chocolates.",
+  "target": "no",
+  "question": "Does the suitcase fit in the chocolate?"
+ },
+ {
+  "input": "The container is bigger than the box of chocolates. The box fits inside the container. The suitcase is bigger than the container. The container fits inside the suitcase. The box of chocolates fits inside the container.",
+  "target": "yes",
+  "question": "Is the suitcase bigger than the box of chocolates?"
+ },
+ {
+  "input": "The chest fits inside the suitcase. The suitcase is bigger than the chocolate. The box of chocolates fits inside the box. The chest is bigger than the chocolate. The chocolate fits inside the container.",
+  "target": "no",
+  "question": "Does the suitcase fit in the chocolate?"
+ },
+ {
+  "input": "The chest is bigger than the chocolate. The suitcase is bigger than the chocolate. The chocolate fits inside the suitcase. The suitcase is bigger than the container. The box of chocolates fits inside the suitcase. The box is bigger than the container. The box is bigger than the chest. The container fits inside the box. The suitcase is bigger than the box of chocolates. The chest fits inside the suitcase.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the box?"
+ },
+ {
+  "input": "The chest fits inside the suitcase. The box of chocolates is bigger than the chocolate. The suitcase is bigger than the box of chocolates. The chocolate fits inside the box. The chocolate fits inside the container.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the suitcase?"
+ },
+ {
+  "input": "The box fits inside the suitcase. The chest fits inside the box. The chest fits inside the box. The container fits inside the box. The chest fits inside the container.",
+  "target": "yes",
+  "question": "Does the chest fit in the suitcase?"
+ },
+ {
+  "input": "The suitcase is bigger than the box of chocolates. The container fits inside the suitcase. The suitcase is bigger than the chocolate. The suitcase is bigger than the box. The box is bigger than the box of chocolates.",
+  "target": "no",
+  "question": "Does the suitcase fit in the box of chocolates?"
+ },
+ {
+  "input": "The box is bigger than the chocolate. The chest is bigger than the box of chocolates. The box fits inside the chest. The chest is bigger than the chocolate. The box is bigger than the box of chocolates.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the chest?"
+ },
+ {
+  "input": "The chocolate fits inside the container. The chocolate fits inside the container. The chocolate fits inside the chest. The chest fits inside the suitcase. The box of chocolates fits inside the suitcase.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the suitcase?"
+ },
+ {
+  "input": "The container fits inside the suitcase. The box is bigger than the container. The container is bigger than the chocolate. The container is bigger than the chest. The box of chocolates fits inside the suitcase.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the suitcase?"
+ },
+ {
+  "input": "The box of chocolates is bigger than the chocolate. The chocolate fits inside the chest. The chest is bigger than the chocolate. The chocolate fits inside the box of chocolates. The box of chocolates fits inside the chest.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the chest?"
+ },
+ {
+  "input": "The box is bigger than the chocolate. The chest fits inside the box. The chest fits inside the box. The chest fits inside the box. The chest is bigger than the box of chocolates.",
+  "target": "no",
+  "question": "Does the box fit in the box of chocolates?"
+ },
+ {
+  "input": "The chest fits inside the suitcase. The suitcase is bigger than the chocolate. The box of chocolates fits inside the box. The chest is bigger than the chocolate. The chocolate fits inside the container.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the suitcase?"
+ },
+ {
+  "input": "The suitcase is bigger than the chocolate. The box of chocolates fits inside the chest. The box is bigger than the box of chocolates. The suitcase is bigger than the chest. The suitcase is bigger than the chocolate.",
+  "target": "no",
+  "question": "Is the box of chocolates bigger than the suitcase?"
+ },
+ {
+  "input": "The container fits inside the suitcase. The box is bigger than the container. The container is bigger than the chocolate. The container is bigger than the chest. The box of chocolates fits inside the suitcase.",
+  "target": "no",
+  "question": "Does the suitcase fit in the chest?"
+ },
+ {
+  "input": "The box is bigger than the box of chocolates. The box of chocolates fits inside the suitcase. The box is bigger than the box of chocolates. The box of chocolates fits inside the suitcase. The chocolate fits inside the chest. The box of chocolates is bigger than the chocolate. The chest is bigger than the container. The chocolate fits inside the box. The container is bigger than the chocolate. The chocolate fits inside the container.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the chest?"
+ },
+ {
+  "input": "The box fits inside the container. The suitcase is bigger than the box of chocolates. The box is bigger than the chocolate. The chest is bigger than the box of chocolates. The container is bigger than the chocolate.",
+  "target": "no",
+  "question": "Does the container fit in the chocolate?"
+ },
+ {
+  "input": "The box is bigger than the chocolate. The chocolate fits inside the suitcase. The suitcase is bigger than the box. The chest is bigger than the box of chocolates. The box fits inside the container.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the container?"
+ },
+ {
+  "input": "The box is bigger than the chocolate. The box of chocolates is bigger than the chocolate. The suitcase fits inside the box. The chocolate fits inside the chest. The box is bigger than the box of chocolates.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the box?"
+ },
+ {
+  "input": "The box is bigger than the chocolate. The box of chocolates fits inside the container. The chocolate fits inside the suitcase. The container is bigger than the suitcase. The box of chocolates fits inside the suitcase.",
+  "target": "yes",
+  "question": "Is the container bigger than the chocolate?"
+ },
+ {
+  "input": "The chest is bigger than the chocolate. The container is bigger than the suitcase. The chest is bigger than the box of chocolates. The chocolate fits inside the chest. The container fits inside the chest.",
+  "target": "no",
+  "question": "Does the chest fit in the suitcase?"
+ },
+ {
+  "input": "The box is bigger than the container. The chocolate fits inside the box. The container fits inside the suitcase. The chocolate fits inside the container. The box is bigger than the container.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the box?"
+ },
+ {
+  "input": "The chocolate fits inside the chest. The chocolate fits inside the box. The chocolate fits inside the suitcase. The box is bigger than the box of chocolates. The box is bigger than the chocolate. The box is bigger than the chocolate. The suitcase fits inside the container. The chocolate fits inside the container. The chocolate fits inside the chest. The chest fits inside the box.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the container?"
+ },
+ {
+  "input": "The container fits inside the box. The suitcase is bigger than the chest. The box of chocolates is bigger than the chocolate. The box is bigger than the chocolate. The chocolate fits inside the suitcase. The suitcase is bigger than the chest. The box is bigger than the box of chocolates. The box of chocolates fits inside the chest. The box of chocolates fits inside the chest. The box is bigger than the chest.",
+  "target": "no",
+  "question": "Is the box of chocolates bigger than the suitcase?"
+ },
+ {
+  "input": "The box is bigger than the chocolate. The chocolate fits inside the suitcase. The suitcase is bigger than the box. The chest is bigger than the box of chocolates. The box fits inside the container.",
+  "target": "yes",
+  "question": "Is the suitcase bigger than the chocolate?"
+ },
+ {
+  "input": "The suitcase is bigger than the box of chocolates. The container fits inside the suitcase. The suitcase is bigger than the chocolate. The suitcase is bigger than the box. The box is bigger than the box of chocolates.",
+  "target": "yes",
+  "question": "Is the suitcase bigger than the box of chocolates?"
+ },
+ {
+  "input": "The box is bigger than the box of chocolates. The chocolate fits inside the chest. The box of chocolates fits inside the box. The container is bigger than the chocolate. The box is bigger than the chocolate. The suitcase fits inside the chest. The chest is bigger than the suitcase. The chest is bigger than the chocolate. The chocolate fits inside the box of chocolates. The container is bigger than the box of chocolates.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the box?"
+ },
+ {
+  "input": "The box is bigger than the box of chocolates. The chocolate fits inside the chest. The box of chocolates fits inside the box. The container is bigger than the chocolate. The box is bigger than the chocolate. The suitcase fits inside the chest. The chest is bigger than the suitcase. The chest is bigger than the chocolate. The chocolate fits inside the box of chocolates. The container is bigger than the box of chocolates. The chocolate fits inside the box of chocolates. The box of chocolates fits inside the chest. The suitcase fits inside the box. The suitcase is bigger than the box of chocolates. The box is bigger than the box of chocolates.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the box?"
+ },
+ {
+  "input": "The chest is bigger than the box. The chocolate fits inside the chest. The suitcase fits inside the container. The box fits inside the chest. The chocolate fits inside the box of chocolates. The container is bigger than the box. The container is bigger than the box of chocolates. The chocolate fits inside the suitcase. The box is bigger than the box of chocolates. The suitcase fits inside the container.",
+  "target": "no",
+  "question": "Does the container fit in the chocolate?"
+ },
+ {
+  "input": "The box is bigger than the suitcase. The box of chocolates is bigger than the chocolate. The box is bigger than the box of chocolates. The box is bigger than the chest. The box is bigger than the chocolate.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the box?"
+ },
+ {
+  "input": "The container is bigger than the suitcase. The chest fits inside the box. The chest is bigger than the box of chocolates. The box is bigger than the chocolate. The container is bigger than the suitcase.",
+  "target": "yes",
+  "question": "Is the box bigger than the box of chocolates?"
+ },
+ {
+  "input": "The chocolate fits inside the box. The chocolate fits inside the chest. The box of chocolates fits inside the container. The chest is bigger than the container. The box of chocolates fits inside the chest.",
+  "target": "no",
+  "question": "Is the box of chocolates bigger than the chest?"
+ },
+ {
+  "input": "The suitcase fits inside the box. The box is bigger than the chocolate. The box is bigger than the chocolate. The chest is bigger than the container. The box is bigger than the container. The container is bigger than the box of chocolates. The chocolate fits inside the chest. The box of chocolates fits inside the suitcase. The suitcase is bigger than the box of chocolates. The chest fits inside the box.",
+  "target": "no",
+  "question": "Does the chest fit in the box of chocolates?"
+ },
+ {
+  "input": "The box is bigger than the container. The chocolate fits inside the box. The container fits inside the box. The box is bigger than the chest. The box of chocolates is bigger than the chocolate. The chest fits inside the box. The chest is bigger than the suitcase. The suitcase fits inside the box. The box is bigger than the suitcase. The chocolate fits inside the suitcase.",
+  "target": "no",
+  "question": "Is the suitcase bigger than the box?"
+ },
+ {
+  "input": "The container fits inside the box. The box of chocolates fits inside the box. The box of chocolates fits inside the chest. The box is bigger than the box of chocolates. The chocolate fits inside the suitcase. The suitcase is bigger than the container. The box of chocolates fits inside the chest. The chocolate fits inside the box of chocolates. The chest is bigger than the chocolate. The box of chocolates fits inside the container.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the box?"
+ },
+ {
+  "input": "The chocolate fits inside the container. The chocolate fits inside the box of chocolates. The chocolate fits inside the chest. The suitcase is bigger than the box of chocolates. The chocolate fits inside the suitcase.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the suitcase?"
+ },
+ {
+  "input": "The container is bigger than the box of chocolates. The container is bigger than the suitcase. The suitcase is bigger than the box of chocolates. The container is bigger than the chocolate. The chocolate fits inside the container.",
+  "target": "no",
+  "question": "Is the box of chocolates bigger than the container?"
+ },
+ {
+  "input": "The box fits inside the container. The suitcase is bigger than the box of chocolates. The box is bigger than the chocolate. The chest is bigger than the box of chocolates. The container is bigger than the chocolate.",
+  "target": "yes",
+  "question": "Is the container bigger than the chocolate?"
+ },
+ {
+  "input": "The chest is bigger than the container. The box of chocolates is bigger than the chocolate. The chest fits inside the suitcase. The container fits inside the box. The suitcase is bigger than the chocolate.",
+  "target": "no",
+  "question": "Does the suitcase fit in the container?"
+ },
+ {
+  "input": "The suitcase fits inside the chest. The container fits inside the box. The box is bigger than the suitcase. The container is bigger than the chocolate. The suitcase is bigger than the box of chocolates.",
+  "target": "no",
+  "question": "Is the box of chocolates bigger than the chest?"
+ },
+ {
+  "input": "The chocolate fits inside the container. The chocolate fits inside the container. The chocolate fits inside the chest. The chest fits inside the suitcase. The box of chocolates fits inside the suitcase.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the suitcase?"
+ },
+ {
+  "input": "The chocolate fits inside the suitcase. The container fits inside the chest. The chocolate fits inside the box. The chest is bigger than the chocolate. The suitcase fits inside the box.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the box?"
+ },
+ {
+  "input": "The chocolate fits inside the box of chocolates. The container fits inside the suitcase. The container is bigger than the box of chocolates. The container is bigger than the chocolate. The suitcase is bigger than the chocolate.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the container?"
+ },
+ {
+  "input": "The box is bigger than the box of chocolates. The suitcase is bigger than the box of chocolates. The container is bigger than the box. The chest is bigger than the box of chocolates. The box fits inside the chest.",
+  "target": "yes",
+  "question": "Does the box of chocolates fit in the chest?"
+ },
+ {
+  "input": "The chocolate fits inside the chest. The chocolate fits inside the box. The chocolate fits inside the suitcase. The box is bigger than the box of chocolates. The box is bigger than the chocolate. The box is bigger than the chocolate. The suitcase fits inside the container. The chocolate fits inside the container. The chocolate fits inside the chest. The chest fits inside the box.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the box?"
+ },
+ {
+  "input": "The chocolate fits inside the box. The container is bigger than the box. The suitcase is bigger than the box of chocolates. The suitcase is bigger than the box of chocolates. The box is bigger than the box of chocolates.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the container?"
+ },
+ {
+  "input": "The chest is bigger than the container. The chest is bigger than the box. The box is bigger than the container. The chocolate fits inside the container. The suitcase is bigger than the box.",
+  "target": "yes",
+  "question": "Does the container fit in the chest?"
+ },
+ {
+  "input": "The container fits inside the suitcase. The box is bigger than the container. The container is bigger than the chocolate. The container is bigger than the chest. The box of chocolates fits inside the suitcase.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the suitcase?"
+ },
+ {
+  "input": "The chocolate fits inside the box of chocolates. The container fits inside the suitcase. The container is bigger than the box of chocolates. The container is bigger than the chocolate. The suitcase is bigger than the chocolate.",
+  "target": "no",
+  "question": "Does the container fit in the chocolate?"
+ },
+ {
+  "input": "The box of chocolates fits inside the chest. The container is bigger than the box. The chest fits inside the suitcase. The container is bigger than the box. The box of chocolates is bigger than the chocolate.",
+  "target": "yes",
+  "question": "Is the chest bigger than the chocolate?"
+ },
+ {
+  "input": "The suitcase fits inside the box. The box is bigger than the chocolate. The box is bigger than the chocolate. The chest is bigger than the container. The box is bigger than the container. The container is bigger than the box of chocolates. The chocolate fits inside the chest. The box of chocolates fits inside the suitcase. The suitcase is bigger than the box of chocolates. The chest fits inside the box.",
+  "target": "yes",
+  "question": "Is the box bigger than the container?"
+ },
+ {
+  "input": "The box is bigger than the suitcase. The box fits inside the container. The chocolate fits inside the box of chocolates. The container is bigger than the box. The container is bigger than the box.",
+  "target": "yes",
+  "question": "Does the suitcase fit in the container?"
+ },
+ {
+  "input": "The box of chocolates fits inside the suitcase. The box is bigger than the box of chocolates. The suitcase fits inside the box. The box of chocolates fits inside the container. The box of chocolates fits inside the box.",
+  "target": "yes",
+  "question": "Does the box of chocolates fit in the box?"
+ },
+ {
+  "input": "The suitcase is bigger than the box. The container is bigger than the suitcase. The container is bigger than the chocolate. The box fits inside the chest. The container is bigger than the chocolate.",
+  "target": "yes",
+  "question": "Is the container bigger than the box?"
+ },
+ {
+  "input": "The container is bigger than the box. The chocolate fits inside the suitcase. The box is bigger than the box of chocolates. The container is bigger than the chocolate. The chocolate fits inside the container.",
+  "target": "no",
+  "question": "Is the box of chocolates bigger than the container?"
+ },
+ {
+  "input": "The box fits inside the container. The container is bigger than the suitcase. The box fits inside the container. The chocolate fits inside the container. The box of chocolates fits inside the suitcase.",
+  "target": "yes",
+  "question": "Is the container bigger than the box of chocolates?"
+ },
+ {
+  "input": "The chocolate fits inside the container. The chest fits inside the box. The container fits inside the box. The chocolate fits inside the box of chocolates. The chest is bigger than the suitcase.",
+  "target": "no",
+  "question": "Is the suitcase bigger than the box?"
+ },
+ {
+  "input": "The chest fits inside the box. The box is bigger than the chest. The chocolate fits inside the box of chocolates. The suitcase is bigger than the box. The box of chocolates is bigger than the chocolate.",
+  "target": "yes",
+  "question": "Is the suitcase bigger than the chest?"
+ },
+ {
+  "input": "The suitcase fits inside the box. The box is bigger than the chocolate. The box is bigger than the chocolate. The chest is bigger than the container. The box is bigger than the container. The container is bigger than the box of chocolates. The chocolate fits inside the chest. The box of chocolates fits inside the suitcase. The suitcase is bigger than the box of chocolates. The chest fits inside the box.",
+  "target": "yes",
+  "question": "Does the container fit in the box?"
+ },
+ {
+  "input": "The container is bigger than the chocolate. The box is bigger than the suitcase. The container is bigger than the chest. The suitcase is bigger than the box of chocolates. The box of chocolates fits inside the container.",
+  "target": "no",
+  "question": "Is the box of chocolates bigger than the box?"
+ },
+ {
+  "input": "The box fits inside the suitcase. The chest fits inside the box. The chest fits inside the box. The container fits inside the box. The chest fits inside the container.",
+  "target": "no",
+  "question": "Is the container bigger than the suitcase?"
+ },
+ {
+  "input": "The chocolate fits inside the suitcase. The container fits inside the chest. The chocolate fits inside the box. The chest is bigger than the chocolate. The suitcase fits inside the box.",
+  "target": "no",
+  "question": "Does the box fit in the chocolate?"
+ },
+ {
+  "input": "The chest is bigger than the chocolate. The chocolate fits inside the chest. The chest is bigger than the box. The box of chocolates fits inside the container. The chocolate fits inside the container. The suitcase is bigger than the box of chocolates. The box of chocolates fits inside the suitcase. The box is bigger than the box of chocolates. The suitcase is bigger than the box of chocolates. The chest is bigger than the box.",
+  "target": "yes",
+  "question": "Is the chest bigger than the box of chocolates?"
+ },
+ {
+  "input": "The box is bigger than the chocolate. The chocolate fits inside the suitcase. The box is bigger than the box of chocolates. The box of chocolates fits inside the suitcase. The box is bigger than the box of chocolates. The chocolate fits inside the chest. The chocolate fits inside the box. The box of chocolates fits inside the box. The suitcase is bigger than the chest. The suitcase is bigger than the chocolate.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the suitcase?"
+ },
+ {
+  "input": "The suitcase is bigger than the chocolate. The box fits inside the suitcase. The box fits inside the chest. The box fits inside the suitcase. The chocolate fits inside the container. The chest is bigger than the container. The chest is bigger than the chocolate. The suitcase is bigger than the box. The box fits inside the suitcase. The chest is bigger than the suitcase.",
+  "target": "yes",
+  "question": "Is the chest bigger than the chocolate?"
+ },
+ {
+  "input": "The chest fits inside the box. The box is bigger than the chest. The chocolate fits inside the box of chocolates. The suitcase is bigger than the box. The box of chocolates is bigger than the chocolate.",
+  "target": "yes",
+  "question": "Is the suitcase bigger than the chest?"
+ },
+ {
+  "input": "The box of chocolates fits inside the box. The box of chocolates fits inside the box. The box of chocolates is bigger than the chocolate. The box of chocolates fits inside the box. The chocolate fits inside the chest.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the box?"
+ },
+ {
+  "input": "The box is bigger than the suitcase. The chocolate fits inside the container. The box of chocolates is bigger than the chocolate. The chest fits inside the container. The chocolate fits inside the box. The suitcase fits inside the container. The container is bigger than the chest. The box of chocolates fits inside the box. The chocolate fits inside the box. The suitcase is bigger than the chocolate.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the box?"
+ },
+ {
+  "input": "The chocolate fits inside the box of chocolates. The container is bigger than the box of chocolates. The container is bigger than the chocolate. The box of chocolates fits inside the container. The box fits inside the suitcase.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the container?"
+ },
+ {
+  "input": "The suitcase is bigger than the chest. The container fits inside the suitcase. The suitcase is bigger than the chest. The box is bigger than the box of chocolates. The chest is bigger than the box of chocolates.",
+  "target": "no",
+  "question": "Is the box of chocolates bigger than the suitcase?"
+ },
+ {
+  "input": "The suitcase is bigger than the box. The container is bigger than the suitcase. The container is bigger than the chocolate. The box fits inside the chest. The container is bigger than the chocolate.",
+  "target": "yes",
+  "question": "Does the box fit in the container?"
+ },
+ {
+  "input": "The box is bigger than the chocolate. The chest is bigger than the box of chocolates. The box fits inside the chest. The chest is bigger than the chocolate. The box is bigger than the box of chocolates.",
+  "target": "yes",
+  "question": "Is the chest bigger than the chocolate?"
+ },
+ {
+  "input": "The box is bigger than the suitcase. The box of chocolates is bigger than the chocolate. The box is bigger than the box of chocolates. The box is bigger than the chest. The box is bigger than the chocolate.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the box?"
+ },
+ {
+  "input": "The container is bigger than the suitcase. The chest is bigger than the box. The chest is bigger than the suitcase. The suitcase is bigger than the box of chocolates. The container is bigger than the chest.",
+  "target": "yes",
+  "question": "Does the box fit in the container?"
+ },
+ {
+  "input": "The box is bigger than the chocolate. The box of chocolates fits inside the container. The chocolate fits inside the suitcase. The container is bigger than the suitcase. The box of chocolates fits inside the suitcase.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the container?"
+ },
+ {
+  "input": "The suitcase fits inside the box. The chest fits inside the box. The chocolate fits inside the box. The box is bigger than the container. The suitcase is bigger than the box of chocolates.",
+  "target": "yes",
+  "question": "Is the box bigger than the box of chocolates?"
+ },
+ {
+  "input": "The container is bigger than the suitcase. The container is bigger than the box. The chocolate fits inside the suitcase. The suitcase is bigger than the chocolate. The chest is bigger than the box of chocolates.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the container?"
+ },
+ {
+  "input": "The chocolate fits inside the container. The box is bigger than the chest. The container is bigger than the box of chocolates. The chest is bigger than the container. The suitcase fits inside the chest.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the chest?"
+ },
+ {
+  "input": "The box fits inside the chest. The box fits inside the suitcase. The chocolate fits inside the box. The box fits inside the container. The chocolate fits inside the box.",
+  "target": "no",
+  "question": "Is the chocolate bigger than the chest?"
+ },
+ {
+  "input": "The box of chocolates fits inside the box. The container fits inside the chest. The chocolate fits inside the suitcase. The chest is bigger than the chocolate. The suitcase fits inside the box.",
+  "target": "yes",
+  "question": "Does the chocolate fit in the box?"
+ },
+ {
+  "input": "The box of chocolates fits inside the suitcase. The container fits inside the suitcase. The chocolate fits inside the box. The chest is bigger than the box of chocolates. The suitcase fits inside the box.",
+  "target": "yes",
+  "question": "Does the box of chocolates fit in the box?"
+ },
+ {
+  "input": "The chocolate fits inside the chest. The suitcase is bigger than the chocolate. The box of chocolates fits inside the box. The box of chocolates is bigger than the chocolate. The box of chocolates fits inside the container.",
+  "target": "no",
+  "question": "Does the box fit in the chocolate?"
+ },
+ {
+  "input": "The suitcase fits inside the container. The box of chocolates fits inside the container. The chest is bigger than the box of chocolates. The suitcase fits inside the box. The box fits inside the container.",
+  "target": "yes",
+  "question": "Does the suitcase fit in the container?"
+ }
+]

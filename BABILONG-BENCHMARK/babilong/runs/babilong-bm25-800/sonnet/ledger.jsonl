@@ -1,0 +1,4 @@
+{"attempt":1,"attempt_id":"b4de4fe6ff6a4008b853bc0ec79c7601","key":"qa2-16k-000-bm25_800-sonnet","kind":"attempt","ts":"2026-08-24T18:28:24-0700"}
+{"attempt":2,"attempt_id":"b62ab8d19d724a43acec6433d75d1e49","key":"qa2-16k-000-bm25_800-sonnet","kind":"attempt","ts":"2026-08-24T18:28:48-0700"}
+{"attempt":3,"attempt_id":"513b4f45d1f8436a97922c349034710b","key":"qa2-16k-000-bm25_800-sonnet","kind":"attempt","ts":"2026-08-24T18:29:11-0700"}
+{"key":"qa2-16k-000-bm25_800-sonnet","kind":"failure","latency_s":0.0,"ok":false,"output_tokens":null,"prompt_tokens":null,"response":"","transport_error":"Expecting value: line 1 column 1 (char 0)","ts":"2026-08-24T18:29:30-0700","usage":{"output_tokens":null,"total_input_tokens":null}}

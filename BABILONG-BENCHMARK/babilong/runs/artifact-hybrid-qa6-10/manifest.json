@@ -1,0 +1,63 @@
+{
+ "completed_at": "2026-08-22T09:51:57-0700",
+ "config": {
+  "arms": [
+   "artifact_hybrid",
+   "full",
+   "bm25"
+  ],
+  "artifact_k": 5,
+  "artifact_retriever": "BM25+dense; QA1 recency; QA2/3 entity expansion",
+  "bm25_k": 5,
+  "conversation_id": "23103893304a4d8f9ea938651d247407",
+  "datapack_create_calls": 0,
+  "datapack_id": "bdec33d9-5e95-4611-bd63-f0482e80a955",
+  "dataset": "RMT-team/babilong",
+  "download_manifest": "data/data/download-manifest.json",
+  "lengths": [
+   "0k",
+   "4k",
+   "16k"
+  ],
+  "n": 100,
+  "readers": [
+   "sonnet",
+   "qwen"
+  ],
+  "reuses_run": "runs/artifact-hybrid-full/manifest.json",
+  "tasks": [
+   "qa6",
+   "qa7",
+   "qa8",
+   "qa9",
+   "qa10"
+  ]
+ },
+ "data_sha256": {
+  "qa10/0k": "0393eb21a629422f488cc96b0893a728636f13291fc5b4f0296e05eaf81f1f9e",
+  "qa10/16k": "b8a5a0693b92e37360b4c4eee7a4ec1c10a6ef92663910d6873bdd83c6831bba",
+  "qa10/4k": "ce71ed4a38fa6ebf2325646ea4bae14d13044404f05e50adf9e21a02e0c44eef",
+  "qa6/0k": "26dcae79f7daae93b8a7aba3a593f1b57d371ec81c0c108a41bce10f65261c8a",
+  "qa6/16k": "fe310394bb0a7143c75fb13badbd7c771bd5a71dd8322cd9f3bd61511f5e0426",
+  "qa6/4k": "a3d0bb15cd85636da918e9874b4b23628717d679fc28d962d594c2d3ec7b6499",
+  "qa7/0k": "2d1ffcb373fc04fdaaf70cfdece7f0de4fc5fbc6f65f7cc02ea44850d1a4a7bc",
+  "qa7/16k": "d16d495dba5849a23375e7134698c31acd1939d970e756fc184619b493476d49",
+  "qa7/4k": "1db1d5496741d9ab55c0619d7d681d2a6de21dafc8984409b322749ed03552d0",
+  "qa8/0k": "c92fe7b0dca669f6e3be2eadc81f6c0280c67944f896c939d0ae4327aefb89f2",
+  "qa8/16k": "91ae8bc271a15581486387ad8334ceb50c53a25c5e103ab7911a5b32d64036b5",
+  "qa8/4k": "33750a4f418580342a435937766bbceb5ee776d685e6ff9d19a3f0db89c75dd5",
+  "qa9/0k": "293d384cf03f1f2ca8c5744597a20236a8bafaff65f62d8a2403ac30481e0c0f",
+  "qa9/16k": "60bb6f93ed82414b5a016a733b6ac328d9f659bab8a713fef2fad86295bf3fc7",
+  "qa9/4k": "a4e09108ea1d7e8fb2d2374e2ec672ff1ec9abb83a0e25f90f9d036d8005637e"
+ },
+ "known_metric_limitations": [
+  "QA7 official compare_answers uses substring matching: target/response 'none' also matches label 'one', so the unmodified official score marks all 46/100 'none' targets wrong and has a 54% ceiling. Preserved for benchmark parity; any corrected score must be reported separately."
+ ],
+ "planned_trials": 9000,
+ "runner_sha256_history": [
+  "ff3fa90e67a3e9838ab2f800b34f387c77a0c1cd312558ea36c803a128e4c541",
+  "b8a717219cffd4d6b3cfab2f708928b51f613ce48a687fd14e64b51f494685be"
+ ],
+ "started_at": "2026-08-21T23:23:46-0700",
+ "status": "complete"
+}

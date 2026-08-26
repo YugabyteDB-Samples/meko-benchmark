@@ -1,0 +1,11 @@
+# Build junk and local secrets — never commit
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.venv/
+venv/
+
+# Local credential files (keep the *.env.example templates)
+.env
+*.local.env

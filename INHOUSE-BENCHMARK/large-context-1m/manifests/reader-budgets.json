@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "rule": "Each prepared packet is prefix-capped to that reader's compaction digest length.",
+  "readers": [
+    {
+      "label": "sonnet5",
+      "reader": "Claude Sonnet 5",
+      "digest": "digests/sonnet-5.txt",
+      "digest_sha256": "f20c916e3fde7211c1435fdbdf7d910edf765696502b51a55a6648545597dc43",
+      "context_chars_cap": 80372,
+      "evidence_ceiling": "290/290"
+    },
+    {
+      "label": "opus5",
+      "reader": "Claude Opus 5",
+      "digest": "digests/opus-5.txt",
+      "digest_sha256": "2eea4cfd6d799052366d204600d80df322a413a3fed67fee74a17745390dfdd4",
+      "context_chars_cap": 66643,
+      "evidence_ceiling": "290/290"
+    },
+    {
+      "label": "codex-55",
+      "reader": "GPT-5.5",
+      "digest": "digests/gpt-5.5.txt",
+      "digest_sha256": "4a08c3098bc02b74e1be67daacd7e280b7153617b599819076e77452f73f4b16",
+      "context_chars_cap": 42031,
+      "evidence_ceiling": "289/290"
+    },
+    {
+      "label": "codex-luna",
+      "reader": "GPT-5.6 Luna",
+      "digest": "digests/gpt-5.6-luna.txt",
+      "digest_sha256": "abcf4ff304f4d3a8296249302ddd0c36153839b98770055ad475f172b60a108b",
+      "context_chars_cap": 34226,
+      "evidence_ceiling": "289/290"
+    },
+    {
+      "label": "codex-terra",
+      "reader": "GPT-5.6 Terra",
+      "digest": "digests/gpt-5.6-terra.txt",
+      "digest_sha256": "a5ab75f718cee19ee3fb81af33015d0e6fef71e532c68ed2b37d1600a442ee2a",
+      "context_chars_cap": 46274,
+      "evidence_ceiling": "289/290"
+    },
+    {
+      "label": "codex-sol",
+      "reader": "GPT-5.6 Sol",
+      "digest": "digests/gpt-5.6-sol.txt",
+      "digest_sha256": "a4e3b96812de859756389bad10fe8ad48102d41506d32a6efa1b43432f82527f",
+      "context_chars_cap": 70899,
+      "evidence_ceiling": "290/290"
+    },
+    {
+      "label": "gemini-37",
+      "reader": "Gemini 3.7 Flash",
+      "digest": "digests/gemini-3.7-flash.txt",
+      "digest_sha256": "bd4c1b0259dcaff3094dceecd17cfd2bb3f7c5656af36cc711e30f2efce977e6",
+      "context_chars_cap": 84900,
+      "evidence_ceiling": "290/290"
+    },
+    {
+      "label": "glm",
+      "reader": "GLM 5.2",
+      "digest": "digests/glm-5.2.txt",
+      "digest_sha256": "ea8833156b535ba4bfa9014e739ec28a4c37e77347e63868c5a44f3b53c30d01",
+      "context_chars_cap": 82168,
+      "evidence_ceiling": "290/290"
+    }
+  ]
+}

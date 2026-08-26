@@ -1,0 +1,502 @@
+[
+ {
+  "input": "Mary and Sandra went back to the kitchen. Daniel and Mary moved to the bathroom. John and Daniel travelled to the office. John and Sandra went back to the bedroom. Daniel and Mary travelled to the garden. Daniel and Sandra moved to the office. Sandra and Mary journeyed to the hallway. John and Sandra journeyed to the office.",
+  "target": "hallway",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Mary and Sandra went to the kitchen. Daniel and John went back to the garden.",
+  "target": "garden",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "John and Daniel went back to the bedroom. Sandra and Mary went back to the garden.",
+  "target": "garden",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "Daniel and Mary went back to the office. Daniel and John travelled to the bedroom. Mary and John went to the kitchen. Daniel and Mary travelled to the bathroom.",
+  "target": "kitchen",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Daniel and Mary travelled to the kitchen. John and Mary went to the hallway. Mary and Sandra travelled to the office. Sandra and Mary travelled to the kitchen.",
+  "target": "kitchen",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Sandra and Mary moved to the kitchen. Mary and Sandra journeyed to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "John and Daniel moved to the hallway. Mary and John went back to the bedroom. Mary and John went to the hallway. Daniel and John travelled to the bedroom. Daniel and Sandra journeyed to the office. Sandra and Mary went back to the kitchen. Daniel and Mary moved to the bathroom. Mary and Daniel journeyed to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Sandra and Mary went back to the bedroom. Sandra and Daniel went back to the kitchen. Sandra and John journeyed to the bedroom. Sandra and John went back to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "Mary and John went back to the kitchen. Mary and Daniel went back to the hallway. Sandra and Daniel journeyed to the office. Daniel and Sandra journeyed to the garden. John and Sandra went back to the bathroom. John and Sandra moved to the hallway. John and Daniel went to the kitchen. Daniel and Sandra journeyed to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Mary and Daniel moved to the bedroom. John and Sandra journeyed to the bedroom. John and Sandra journeyed to the kitchen. Daniel and Sandra went to the office. Mary and Sandra went to the hallway. Daniel and Mary journeyed to the kitchen. Sandra and John travelled to the bedroom. Daniel and John journeyed to the hallway.",
+  "target": "hallway",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Daniel and Mary moved to the bedroom. John and Mary moved to the kitchen. John and Daniel went back to the hallway. Daniel and Mary travelled to the bedroom. Daniel and John went back to the garden. Sandra and Mary went back to the hallway. Mary and Sandra went back to the garden. Mary and John went back to the office. John and Sandra went back to the bathroom. John and Sandra travelled to the office.",
+  "target": "office",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "Daniel and Mary journeyed to the bedroom. Mary and Sandra moved to the bathroom. Sandra and John journeyed to the hallway. Mary and Sandra went back to the bedroom. Sandra and Mary went to the office. Sandra and Daniel went back to the bathroom. Mary and Daniel went to the bedroom. John and Mary travelled to the bathroom. Mary and Daniel went to the hallway. John and Daniel went back to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Sandra and Mary went back to the kitchen. Daniel and John moved to the kitchen.",
+  "target": "kitchen",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Daniel and Mary went back to the office. Daniel and Mary moved to the kitchen. Mary and Sandra journeyed to the office. Sandra and John went to the garden. Daniel and Sandra went to the office. John and Mary went to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Daniel and John went to the hallway. Daniel and John travelled to the bathroom. Daniel and Mary went back to the kitchen. John and Daniel went to the hallway.",
+  "target": "hallway",
+  "question": "Where is John? "
+ },
+ {
+  "input": "John and Mary went to the garden. Sandra and Mary went back to the bathroom. John and Sandra went back to the kitchen. Mary and Sandra travelled to the bedroom. Sandra and John moved to the bathroom. John and Sandra went to the office.",
+  "target": "office",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "John and Mary moved to the bedroom. Sandra and Daniel moved to the office. Daniel and Mary travelled to the hallway. Mary and Daniel went to the bedroom. John and Sandra went back to the garden. Sandra and Daniel travelled to the hallway. John and Daniel went to the bedroom. Sandra and Mary went back to the kitchen.",
+  "target": "bedroom",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "John and Sandra journeyed to the bedroom. John and Mary travelled to the hallway.",
+  "target": "hallway",
+  "question": "Where is John? "
+ },
+ {
+  "input": "John and Sandra went to the garden. Sandra and Daniel went to the bedroom. Sandra and Daniel went to the kitchen. Daniel and John travelled to the bedroom. John and Daniel travelled to the hallway. Sandra and John travelled to the office. Mary and John moved to the bathroom. John and Daniel went back to the office. John and Mary travelled to the garden. Sandra and John travelled to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is John? "
+ },
+ {
+  "input": "John and Mary journeyed to the hallway. Sandra and Mary moved to the kitchen. Mary and Sandra went back to the bedroom. John and Daniel went back to the bathroom. John and Daniel went to the bedroom. Sandra and John journeyed to the bathroom. John and Mary moved to the garden. John and Sandra moved to the kitchen.",
+  "target": "kitchen",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Daniel and Sandra travelled to the office. John and Daniel travelled to the kitchen. John and Daniel journeyed to the bathroom. Daniel and Sandra travelled to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "John and Daniel journeyed to the office. John and Mary moved to the garden.",
+  "target": "garden",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Mary and Daniel moved to the kitchen. Daniel and Mary went to the garden. Daniel and Mary journeyed to the bathroom. Sandra and Mary went back to the hallway. Sandra and Daniel went to the kitchen. Mary and Sandra went back to the bedroom. Sandra and Daniel went to the office. Mary and Sandra moved to the garden. Daniel and Sandra went back to the kitchen. Mary and Daniel journeyed to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Daniel and John moved to the kitchen. Mary and Sandra journeyed to the hallway. John and Daniel travelled to the bedroom. Sandra and Mary journeyed to the kitchen. Daniel and John travelled to the bathroom. Daniel and John journeyed to the kitchen. John and Daniel travelled to the bathroom. Mary and Sandra travelled to the bedroom. Daniel and Sandra moved to the garden. John and Daniel travelled to the office.",
+  "target": "office",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Daniel and Mary travelled to the office. Daniel and Mary travelled to the bathroom. Daniel and John journeyed to the kitchen. Daniel and John travelled to the office. John and Daniel went to the hallway. Daniel and Mary went back to the garden. John and Daniel went back to the kitchen. John and Sandra moved to the bathroom. Sandra and Daniel went back to the office. Daniel and Sandra journeyed to the garden.",
+  "target": "garden",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "Sandra and Daniel moved to the office. Daniel and Sandra moved to the garden. Sandra and Mary went to the office. Sandra and Mary moved to the hallway.",
+  "target": "hallway",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Sandra and John moved to the garden. Daniel and John moved to the bathroom. John and Mary journeyed to the garden. Mary and Sandra travelled to the bathroom. Daniel and John moved to the kitchen. Daniel and Mary moved to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "John and Daniel travelled to the office. John and Daniel went back to the hallway. Sandra and Mary went back to the garden. Mary and Daniel moved to the bathroom. John and Sandra moved to the bedroom. Sandra and Mary went back to the garden. Sandra and John journeyed to the kitchen. Mary and John travelled to the bathroom. Sandra and Daniel journeyed to the garden. Daniel and Mary moved to the hallway.",
+  "target": "hallway",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Mary and John journeyed to the office. Daniel and John journeyed to the hallway. John and Sandra went to the garden. Mary and John went back to the kitchen. Daniel and John went to the office. Daniel and Sandra went back to the kitchen. Sandra and Daniel went back to the bathroom. Daniel and Sandra went back to the hallway.",
+  "target": "hallway",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "John and Daniel went back to the kitchen. Sandra and John went back to the office.",
+  "target": "kitchen",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Mary and John went to the office. Daniel and Mary went back to the kitchen. Daniel and John journeyed to the garden. Daniel and John travelled to the hallway. Daniel and Mary moved to the office. Mary and Sandra moved to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "Daniel and Sandra went back to the kitchen. John and Mary moved to the hallway. Daniel and Sandra journeyed to the hallway. Mary and Daniel travelled to the kitchen.",
+  "target": "kitchen",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "John and Mary moved to the bedroom. Sandra and Daniel moved to the office. Daniel and Mary travelled to the hallway. Mary and Daniel went to the bedroom. John and Sandra went back to the garden. Sandra and Daniel travelled to the hallway.",
+  "target": "garden",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Daniel and John went to the hallway. John and Sandra travelled to the office.",
+  "target": "hallway",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Sandra and Daniel went back to the office. John and Mary travelled to the garden. John and Mary journeyed to the office. Daniel and Sandra went to the garden. Mary and John went to the hallway. Mary and John journeyed to the kitchen. Sandra and John journeyed to the bathroom. Sandra and John moved to the hallway.",
+  "target": "hallway",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Mary and Daniel travelled to the office. Daniel and Mary went to the bedroom. Sandra and Mary travelled to the kitchen. Sandra and Mary went to the bathroom. Mary and Sandra went to the bedroom. Daniel and Sandra moved to the garden. Mary and Sandra went to the bathroom. John and Mary went back to the hallway. Mary and Daniel journeyed to the office. John and Sandra went back to the kitchen.",
+  "target": "office",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Mary and John went back to the hallway. John and Sandra went to the garden. John and Sandra went to the hallway. Daniel and Mary moved to the garden. Daniel and Mary moved to the office. Sandra and John went back to the kitchen. Sandra and Daniel moved to the garden. Mary and John travelled to the hallway. Daniel and John went back to the office. Sandra and Mary went back to the bathroom.",
+  "target": "office",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Mary and Daniel travelled to the bathroom. Daniel and Sandra went to the kitchen. Mary and John journeyed to the garden. Daniel and John moved to the bedroom. Mary and Daniel journeyed to the office. Mary and Sandra went back to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Sandra and Daniel moved to the office. Daniel and Sandra moved to the garden. Sandra and Mary went to the office. Sandra and Mary moved to the hallway. Mary and Sandra travelled to the bathroom. John and Daniel went back to the hallway. John and Mary went to the bedroom. Daniel and John went back to the office.",
+  "target": "bedroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "John and Mary went to the garden. Sandra and Mary went back to the bathroom. John and Sandra went back to the kitchen. Mary and Sandra travelled to the bedroom. Sandra and John moved to the bathroom. John and Sandra went to the office. Sandra and John moved to the kitchen. Mary and Sandra moved to the office. Sandra and Daniel went back to the hallway. Daniel and Mary went to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Mary and John moved to the garden. Sandra and John went back to the office. Daniel and John moved to the bedroom. Daniel and John moved to the garden.",
+  "target": "garden",
+  "question": "Where is John? "
+ },
+ {
+  "input": "John and Mary went back to the garden. Daniel and John went back to the office. John and Daniel journeyed to the garden. Mary and Daniel journeyed to the office. John and Mary moved to the hallway. Mary and John journeyed to the kitchen.",
+  "target": "kitchen",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Sandra and Daniel journeyed to the bedroom. John and Sandra travelled to the garden. Sandra and John travelled to the bedroom. Mary and Sandra went back to the kitchen. Sandra and Mary travelled to the bedroom. John and Mary moved to the office. Mary and John travelled to the hallway. Mary and Sandra went to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Mary and John went to the office. Daniel and Mary went back to the kitchen. Daniel and John journeyed to the garden. Daniel and John travelled to the hallway. Daniel and Mary moved to the office. Mary and Sandra moved to the bedroom. Daniel and Sandra journeyed to the garden. John and Daniel travelled to the bedroom. John and Sandra journeyed to the hallway. John and Sandra went back to the office.",
+  "target": "bedroom",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Mary and Daniel moved to the hallway. Mary and Daniel moved to the bathroom. Mary and John journeyed to the garden. John and Sandra moved to the bathroom. John and Sandra went to the hallway. Daniel and John moved to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is John? "
+ },
+ {
+  "input": "John and Daniel went back to the kitchen. Sandra and John went back to the office. Sandra and John travelled to the garden. Daniel and Mary journeyed to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Daniel and Mary went back to the office. Daniel and Mary moved to the kitchen. Mary and Sandra journeyed to the office. Sandra and John went to the garden.",
+  "target": "garden",
+  "question": "Where is John? "
+ },
+ {
+  "input": "John and Daniel went back to the garden. John and Sandra moved to the hallway. Sandra and Daniel travelled to the kitchen. Daniel and Sandra travelled to the garden.",
+  "target": "garden",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "John and Sandra journeyed to the bedroom. Mary and Daniel journeyed to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Sandra and Daniel journeyed to the kitchen. Mary and Sandra moved to the hallway. Daniel and John went to the bedroom. Sandra and Daniel went to the bathroom. Sandra and Daniel went back to the hallway. Mary and Sandra moved to the garden. John and Daniel travelled to the garden. Mary and Sandra moved to the hallway. Mary and John travelled to the bedroom. John and Daniel journeyed to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Daniel and John went to the office. Sandra and Mary journeyed to the office. Daniel and Mary went to the garden. Mary and John went to the kitchen. John and Sandra moved to the bathroom. Sandra and John journeyed to the kitchen.",
+  "target": "kitchen",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Sandra and Mary went back to the bathroom. Daniel and Sandra moved to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "John and Sandra went to the kitchen. John and Mary moved to the hallway. Daniel and Sandra moved to the office. Sandra and John went to the bathroom. John and Mary went to the garden. John and Mary went back to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Mary and John went to the kitchen. Sandra and Daniel travelled to the hallway. Sandra and Daniel moved to the garden. Sandra and John journeyed to the office. Daniel and Mary moved to the hallway. John and Sandra went to the garden.",
+  "target": "hallway",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Daniel and Mary went back to the bedroom. Mary and Daniel went back to the bathroom. Sandra and Daniel went back to the bedroom. Sandra and Daniel travelled to the garden.",
+  "target": "garden",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "Daniel and John went back to the kitchen. John and Sandra journeyed to the garden. Sandra and John went back to the office. Daniel and Sandra went back to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "John and Daniel went back to the garden. Mary and Daniel travelled to the hallway. Mary and John went back to the bedroom. John and Sandra went back to the kitchen. Daniel and Sandra moved to the bathroom. Sandra and Mary moved to the kitchen.",
+  "target": "bathroom",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Mary and John journeyed to the hallway. John and Sandra went to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "John and Sandra moved to the office. Daniel and John travelled to the bathroom. Sandra and John went to the garden. Mary and Daniel journeyed to the office. Mary and John went to the bathroom. Mary and John went back to the office. John and Daniel moved to the bedroom. Sandra and Daniel travelled to the hallway. John and Mary went to the bathroom. John and Sandra went to the office.",
+  "target": "office",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "John and Sandra went to the bedroom. John and Daniel moved to the garden. John and Mary went to the hallway. Daniel and Mary travelled to the kitchen. Mary and Sandra moved to the hallway. Mary and Daniel travelled to the office. Sandra and Mary went to the garden. Mary and John went to the office. Daniel and John travelled to the kitchen. Daniel and John went back to the office.",
+  "target": "office",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Mary and John went to the bedroom. Mary and Sandra moved to the hallway. Mary and Sandra travelled to the office. Sandra and Mary went to the bedroom. John and Sandra moved to the bathroom. Mary and John went to the garden. Mary and John moved to the bathroom. Sandra and Daniel travelled to the kitchen.",
+  "target": "bathroom",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Sandra and Mary went back to the kitchen. Daniel and Sandra travelled to the office. Sandra and Mary went back to the bedroom. Daniel and Sandra moved to the bathroom.",
+  "target": "bedroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "John and Daniel went back to the bedroom. Sandra and Mary went back to the garden. Daniel and Sandra travelled to the kitchen. Daniel and Mary went back to the office. Mary and Sandra travelled to the hallway. Daniel and John went back to the garden. Daniel and John journeyed to the kitchen. Daniel and John journeyed to the office.",
+  "target": "office",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Daniel and Mary journeyed to the office. Mary and Sandra went back to the bedroom. Daniel and Sandra journeyed to the hallway. Mary and Sandra travelled to the bathroom. Mary and John travelled to the kitchen. Mary and Daniel journeyed to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "John and Sandra went to the bedroom. John and Mary went back to the hallway. John and Sandra went back to the garden. Daniel and Mary journeyed to the garden. Sandra and Mary moved to the kitchen. Mary and Sandra travelled to the office. Mary and Daniel moved to the kitchen. Mary and John went back to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Mary and Daniel moved to the kitchen. Mary and Daniel went to the office. Sandra and Mary journeyed to the hallway. Sandra and Daniel moved to the bathroom. Daniel and John journeyed to the bedroom. John and Mary journeyed to the bathroom. Mary and Sandra travelled to the bedroom. Daniel and Mary travelled to the kitchen.",
+  "target": "kitchen",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "John and Mary moved to the kitchen. Sandra and John journeyed to the bedroom. John and Mary went to the bathroom. Daniel and John went back to the office.",
+  "target": "office",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "John and Mary went to the kitchen. Daniel and Sandra journeyed to the garden. Sandra and Mary travelled to the bedroom. John and Daniel moved to the office. John and Daniel went back to the bedroom. Daniel and Mary travelled to the kitchen. Sandra and John travelled to the kitchen. John and Sandra travelled to the hallway. Sandra and John went back to the office. Sandra and Mary moved to the hallway.",
+  "target": "hallway",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Sandra and Daniel went to the office. Mary and John travelled to the hallway. John and Sandra went to the bedroom. John and Mary travelled to the kitchen. Sandra and John went to the garden. Sandra and Daniel went to the bedroom. Sandra and Daniel journeyed to the bathroom. Sandra and Mary went to the garden.",
+  "target": "garden",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "Sandra and John moved to the garden. Daniel and John moved to the bathroom. John and Mary journeyed to the garden. Mary and Sandra travelled to the bathroom.",
+  "target": "garden",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Sandra and Daniel journeyed to the garden. John and Daniel went back to the hallway. Mary and Daniel went to the office. Daniel and John travelled to the kitchen.",
+  "target": "kitchen",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "John and Daniel moved to the hallway. Mary and John went back to the bedroom. Mary and John went to the hallway. Daniel and John travelled to the bedroom.",
+  "target": "hallway",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Daniel and Sandra moved to the hallway. Mary and John travelled to the office. Sandra and Daniel travelled to the office. Sandra and John moved to the bedroom. Mary and Daniel journeyed to the kitchen. Mary and John travelled to the bathroom. Mary and John went to the office. Mary and Daniel went to the garden.",
+  "target": "garden",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Sandra and Mary went to the garden. John and Daniel went to the bedroom. Sandra and Daniel travelled to the hallway. Sandra and John travelled to the kitchen. Sandra and John moved to the bathroom. Mary and Daniel moved to the bedroom. John and Sandra travelled to the kitchen. Mary and Sandra went to the office. Daniel and Mary moved to the hallway. Mary and Daniel went to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Mary and John travelled to the bathroom. Daniel and Mary went to the office. Daniel and Mary went to the hallway. Mary and John went back to the kitchen.",
+  "target": "hallway",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Sandra and Daniel went back to the bedroom. John and Mary moved to the office. John and Sandra moved to the bathroom. John and Mary went to the bedroom. Sandra and John travelled to the kitchen. John and Mary went to the hallway. Mary and Sandra went back to the garden. Sandra and John went to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Mary and John went back to the hallway. John and Sandra went to the garden.",
+  "target": "garden",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "Mary and Sandra went back to the garden. Sandra and Mary went to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "John and Daniel journeyed to the office. John and Mary moved to the garden. Mary and John went back to the bedroom. Daniel and Mary moved to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Mary and John went to the bedroom. Mary and Sandra moved to the hallway. Mary and Sandra travelled to the office. Sandra and Mary went to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "Daniel and Sandra journeyed to the bedroom. John and Daniel went back to the hallway. Daniel and Mary travelled to the bathroom. Mary and Daniel travelled to the bedroom. Mary and Daniel went to the bathroom. Mary and John travelled to the kitchen. John and Daniel moved to the bedroom. John and Daniel moved to the office.",
+  "target": "office",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Mary and Daniel travelled to the office. Daniel and Mary went to the bedroom. Sandra and Mary travelled to the kitchen. Sandra and Mary went to the bathroom. Mary and Sandra went to the bedroom. Daniel and Sandra moved to the garden.",
+  "target": "garden",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "Sandra and Daniel went back to the kitchen. Daniel and John went back to the hallway. Daniel and John moved to the kitchen. Daniel and John moved to the bedroom. Mary and Daniel went back to the hallway. John and Daniel moved to the garden. Sandra and Mary travelled to the garden. Sandra and Mary travelled to the bathroom. Daniel and Mary journeyed to the hallway. Daniel and Mary went to the office.",
+  "target": "office",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Mary and Sandra went back to the kitchen. Sandra and John travelled to the garden. Daniel and Sandra went to the hallway. John and Mary went back to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Daniel and Mary journeyed to the hallway. Mary and Daniel went to the garden. Daniel and Sandra went back to the hallway. John and Daniel went to the bedroom. Mary and John moved to the office. John and Mary went to the hallway.",
+  "target": "hallway",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Sandra and Daniel journeyed to the bedroom. John and Sandra travelled to the garden. Sandra and John travelled to the bedroom. Mary and Sandra went back to the kitchen.",
+  "target": "kitchen",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "Sandra and Mary travelled to the garden. John and Sandra journeyed to the kitchen. Sandra and Daniel journeyed to the bedroom. John and Mary travelled to the bathroom. Sandra and Mary went back to the hallway. Daniel and Sandra travelled to the kitchen.",
+  "target": "hallway",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Mary and John journeyed to the bedroom. Daniel and John travelled to the bathroom. Sandra and Daniel moved to the kitchen. Mary and Sandra moved to the hallway.",
+  "target": "kitchen",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Sandra and John travelled to the bedroom. Mary and John went to the office. Mary and John went back to the bedroom. Sandra and Mary journeyed to the bathroom. Mary and Daniel went back to the bedroom. John and Mary went back to the hallway. Daniel and Sandra went back to the garden. John and Mary journeyed to the kitchen. Mary and John travelled to the bedroom. Mary and John journeyed to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Daniel and Mary went to the kitchen. Daniel and John moved to the garden. Mary and Sandra travelled to the garden. Mary and Daniel journeyed to the hallway. Daniel and John journeyed to the bedroom. John and Mary went back to the garden. John and Mary went back to the kitchen. Sandra and Mary went to the bathroom.",
+  "target": "bathroom",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Daniel and Sandra went to the garden. Mary and John travelled to the hallway. Sandra and Mary travelled to the bedroom. Sandra and Daniel went to the kitchen.",
+  "target": "hallway",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Sandra and Mary went to the garden. Sandra and Mary moved to the bathroom. John and Sandra went to the hallway. Sandra and Daniel travelled to the bathroom. Daniel and Mary went to the garden. Mary and Daniel moved to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "John and Daniel went to the hallway. John and Daniel journeyed to the bathroom. Daniel and Sandra journeyed to the hallway. John and Mary journeyed to the hallway. Daniel and John travelled to the bedroom. Sandra and Mary journeyed to the kitchen.",
+  "target": "bedroom",
+  "question": "Where is John? "
+ },
+ {
+  "input": "Daniel and Sandra went back to the kitchen. John and Mary moved to the hallway.",
+  "target": "hallway",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Sandra and Mary went back to the kitchen. Daniel and Sandra travelled to the office. Sandra and Mary went back to the bedroom. Daniel and Sandra moved to the bathroom. Mary and Daniel journeyed to the kitchen. John and Daniel went back to the hallway.",
+  "target": "hallway",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Sandra and John moved to the garden. Daniel and John moved to the bathroom. John and Mary journeyed to the garden. Mary and Sandra travelled to the bathroom. Daniel and John moved to the kitchen. Daniel and Mary moved to the bedroom. John and Daniel journeyed to the bathroom. Sandra and Mary moved to the hallway. Daniel and Mary went back to the kitchen. Mary and Daniel went back to the hallway.",
+  "target": "hallway",
+  "question": "Where is Daniel? "
+ },
+ {
+  "input": "Daniel and Sandra journeyed to the bedroom. Mary and Sandra travelled to the kitchen.",
+  "target": "kitchen",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "Mary and John went to the office. Daniel and Mary went back to the kitchen.",
+  "target": "kitchen",
+  "question": "Where is Mary? "
+ },
+ {
+  "input": "John and Sandra journeyed to the bedroom. John and Mary travelled to the hallway. Mary and John went back to the kitchen. Sandra and Daniel travelled to the hallway. Daniel and John journeyed to the bathroom. Daniel and Sandra journeyed to the bedroom.",
+  "target": "bedroom",
+  "question": "Where is Sandra? "
+ },
+ {
+  "input": "John and Daniel went back to the garden. John and Sandra moved to the hallway.",
+  "target": "hallway",
+  "question": "Where is Sandra? "
+ }
+]

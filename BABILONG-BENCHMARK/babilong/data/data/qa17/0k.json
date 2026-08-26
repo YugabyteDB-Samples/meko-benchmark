@@ -1,0 +1,502 @@
+[
+ {
+  "input": "The yellow square is above the blue square. The yellow square is to the left of the triangle.",
+  "target": "no",
+  "question": "Is the triangle to the left of the blue square?"
+ },
+ {
+  "input": "The triangle is above the pink rectangle. The triangle is to the right of the yellow square.",
+  "target": "no",
+  "question": "Is the pink rectangle to the left of the yellow square?"
+ },
+ {
+  "input": "The blue square is above the yellow square. The triangle is below the yellow square.",
+  "target": "no",
+  "question": "Is the triangle above the blue square?"
+ },
+ {
+  "input": "The triangle is to the left of the red square. The red sphere is below the red square.",
+  "target": "no",
+  "question": "Is the red sphere above the triangle?"
+ },
+ {
+  "input": "The triangle is to the left of the yellow square. The red square is to the left of the triangle.",
+  "target": "no",
+  "question": "Is the red square below the yellow square?"
+ },
+ {
+  "input": "The yellow square is to the left of the blue square. The blue square is above the red square.",
+  "target": "yes",
+  "question": "Is the yellow square above the red square?"
+ },
+ {
+  "input": "The pink rectangle is above the red square. The red square is to the right of the blue square.",
+  "target": "yes",
+  "question": "Is the blue square below the pink rectangle?"
+ },
+ {
+  "input": "The yellow square is to the left of the red square. The yellow square is to the right of the blue square.",
+  "target": "no",
+  "question": "Is the blue square to the right of the red square?"
+ },
+ {
+  "input": "The triangle is above the blue square. The triangle is below the red square.",
+  "target": "yes",
+  "question": "Is the blue square below the red square?"
+ },
+ {
+  "input": "The red sphere is to the left of the triangle. The triangle is to the left of the red square.",
+  "target": "no",
+  "question": "Is the red square below the red sphere?"
+ },
+ {
+  "input": "The triangle is to the right of the yellow square. The triangle is below the blue square.",
+  "target": "no",
+  "question": "Is the blue square below the yellow square?"
+ },
+ {
+  "input": "The blue square is above the pink rectangle. The triangle is to the left of the blue square.",
+  "target": "no",
+  "question": "Is the triangle below the pink rectangle?"
+ },
+ {
+  "input": "The yellow square is below the red square. The yellow square is to the left of the red sphere.",
+  "target": "yes",
+  "question": "Is the red square to the left of the red sphere?"
+ },
+ {
+  "input": "The yellow square is below the pink rectangle. The pink rectangle is below the red square.",
+  "target": "no",
+  "question": "Is the yellow square above the red square?"
+ },
+ {
+  "input": "The triangle is to the left of the red sphere. The pink rectangle is to the right of the red sphere.",
+  "target": "no",
+  "question": "Is the triangle to the right of the pink rectangle?"
+ },
+ {
+  "input": "The pink rectangle is to the left of the red square. The red square is to the left of the blue square.",
+  "target": "no",
+  "question": "Is the blue square to the left of the pink rectangle?"
+ },
+ {
+  "input": "The red square is to the left of the triangle. The triangle is to the left of the blue square.",
+  "target": "no",
+  "question": "Is the red square below the blue square?"
+ },
+ {
+  "input": "The pink rectangle is below the blue square. The red square is above the blue square.",
+  "target": "no",
+  "question": "Is the pink rectangle above the red square?"
+ },
+ {
+  "input": "The red sphere is below the red square. The pink rectangle is to the left of the red sphere.",
+  "target": "no",
+  "question": "Is the red square below the pink rectangle?"
+ },
+ {
+  "input": "The triangle is to the left of the yellow square. The triangle is below the red sphere.",
+  "target": "yes",
+  "question": "Is the red sphere above the yellow square?"
+ },
+ {
+  "input": "The red square is to the left of the pink rectangle. The red square is below the blue square.",
+  "target": "no",
+  "question": "Is the pink rectangle to the left of the blue square?"
+ },
+ {
+  "input": "The blue square is to the left of the triangle. The triangle is above the pink rectangle.",
+  "target": "no",
+  "question": "Is the blue square to the right of the pink rectangle?"
+ },
+ {
+  "input": "The red square is below the red sphere. The red sphere is below the triangle.",
+  "target": "no",
+  "question": "Is the red square to the left of the triangle?"
+ },
+ {
+  "input": "The yellow square is above the pink rectangle. The triangle is to the right of the pink rectangle.",
+  "target": "no",
+  "question": "Is the triangle to the left of the yellow square?"
+ },
+ {
+  "input": "The red square is above the red sphere. The triangle is to the right of the red sphere.",
+  "target": "yes",
+  "question": "Is the red square above the triangle?"
+ },
+ {
+  "input": "The triangle is above the blue square. The blue square is above the yellow square.",
+  "target": "yes",
+  "question": "Is the triangle above the yellow square?"
+ },
+ {
+  "input": "The yellow square is above the pink rectangle. The triangle is to the right of the pink rectangle.",
+  "target": "yes",
+  "question": "Is the yellow square to the left of the triangle?"
+ },
+ {
+  "input": "The red square is above the blue square. The blue square is to the left of the yellow square.",
+  "target": "no",
+  "question": "Is the yellow square to the left of the red square?"
+ },
+ {
+  "input": "The blue square is above the pink rectangle. The pink rectangle is above the red sphere.",
+  "target": "yes",
+  "question": "Is the red sphere below the blue square?"
+ },
+ {
+  "input": "The red square is above the red sphere. The triangle is to the right of the red sphere.",
+  "target": "yes",
+  "question": "Is the red square to the left of the triangle?"
+ },
+ {
+  "input": "The red square is to the left of the triangle. The triangle is to the left of the blue square.",
+  "target": "yes",
+  "question": "Is the red square to the left of the blue square?"
+ },
+ {
+  "input": "The yellow square is below the red sphere. The blue square is to the left of the yellow square.",
+  "target": "yes",
+  "question": "Is the blue square to the left of the red sphere?"
+ },
+ {
+  "input": "The pink rectangle is to the left of the blue square. The blue square is to the left of the triangle.",
+  "target": "yes",
+  "question": "Is the triangle to the right of the pink rectangle?"
+ },
+ {
+  "input": "The red square is to the left of the red sphere. The red sphere is above the yellow square.",
+  "target": "yes",
+  "question": "Is the red square above the yellow square?"
+ },
+ {
+  "input": "The triangle is above the blue square. The blue square is above the yellow square.",
+  "target": "yes",
+  "question": "Is the yellow square below the triangle?"
+ },
+ {
+  "input": "The pink rectangle is to the left of the red square. The red square is to the left of the blue square.",
+  "target": "yes",
+  "question": "Is the blue square to the right of the pink rectangle?"
+ },
+ {
+  "input": "The yellow square is to the right of the blue square. The yellow square is below the triangle.",
+  "target": "yes",
+  "question": "Is the triangle to the right of the blue square?"
+ },
+ {
+  "input": "The blue square is to the left of the red sphere. The blue square is to the right of the pink rectangle.",
+  "target": "no",
+  "question": "Is the pink rectangle above the red sphere?"
+ },
+ {
+  "input": "The yellow square is to the left of the blue square. The red square is below the yellow square.",
+  "target": "yes",
+  "question": "Is the blue square to the right of the red square?"
+ },
+ {
+  "input": "The red sphere is to the right of the red square. The red sphere is to the left of the pink rectangle.",
+  "target": "no",
+  "question": "Is the red square above the pink rectangle?"
+ },
+ {
+  "input": "The red square is below the yellow square. The red square is above the blue square.",
+  "target": "yes",
+  "question": "Is the yellow square above the blue square?"
+ },
+ {
+  "input": "The triangle is to the left of the red square. The pink rectangle is below the triangle.",
+  "target": "yes",
+  "question": "Is the pink rectangle to the left of the red square?"
+ },
+ {
+  "input": "The pink rectangle is above the red sphere. The pink rectangle is to the right of the yellow square.",
+  "target": "yes",
+  "question": "Is the red sphere to the right of the yellow square?"
+ },
+ {
+  "input": "The triangle is to the right of the red sphere. The triangle is above the blue square.",
+  "target": "yes",
+  "question": "Is the red sphere to the left of the blue square?"
+ },
+ {
+  "input": "The red square is below the pink rectangle. The pink rectangle is below the red sphere.",
+  "target": "no",
+  "question": "Is the red square to the left of the red sphere?"
+ },
+ {
+  "input": "The triangle is above the blue square. The triangle is below the red square.",
+  "target": "no",
+  "question": "Is the blue square to the left of the red square?"
+ },
+ {
+  "input": "The red square is to the left of the triangle. The red square is above the yellow square.",
+  "target": "no",
+  "question": "Is the yellow square to the right of the triangle?"
+ },
+ {
+  "input": "The blue square is above the red square. The red square is to the left of the triangle.",
+  "target": "yes",
+  "question": "Is the blue square to the left of the triangle?"
+ },
+ {
+  "input": "The yellow square is below the pink rectangle. The pink rectangle is below the red square.",
+  "target": "yes",
+  "question": "Is the red square above the yellow square?"
+ },
+ {
+  "input": "The triangle is to the left of the red square. The triangle is below the blue square.",
+  "target": "yes",
+  "question": "Is the red square below the blue square?"
+ },
+ {
+  "input": "The blue square is below the triangle. The blue square is above the yellow square.",
+  "target": "no",
+  "question": "Is the triangle to the left of the yellow square?"
+ },
+ {
+  "input": "The yellow square is to the right of the blue square. The blue square is above the triangle.",
+  "target": "no",
+  "question": "Is the triangle to the right of the yellow square?"
+ },
+ {
+  "input": "The red sphere is to the right of the yellow square. The yellow square is below the pink rectangle.",
+  "target": "yes",
+  "question": "Is the pink rectangle above the red sphere?"
+ },
+ {
+  "input": "The blue square is below the triangle. The triangle is to the right of the red sphere.",
+  "target": "no",
+  "question": "Is the blue square to the left of the red sphere?"
+ },
+ {
+  "input": "The triangle is to the right of the blue square. The triangle is to the left of the pink rectangle.",
+  "target": "yes",
+  "question": "Is the blue square to the left of the pink rectangle?"
+ },
+ {
+  "input": "The yellow square is to the right of the red sphere. The yellow square is to the left of the red square.",
+  "target": "yes",
+  "question": "Is the red sphere to the left of the red square?"
+ },
+ {
+  "input": "The blue square is below the yellow square. The red sphere is below the blue square.",
+  "target": "yes",
+  "question": "Is the red sphere below the yellow square?"
+ },
+ {
+  "input": "The triangle is to the right of the yellow square. The triangle is below the blue square.",
+  "target": "no",
+  "question": "Is the yellow square to the right of the blue square?"
+ },
+ {
+  "input": "The blue square is to the left of the red square. The blue square is above the pink rectangle.",
+  "target": "yes",
+  "question": "Is the pink rectangle to the left of the red square?"
+ },
+ {
+  "input": "The yellow square is to the right of the pink rectangle. The red sphere is below the yellow square.",
+  "target": "no",
+  "question": "Is the pink rectangle below the red sphere?"
+ },
+ {
+  "input": "The yellow square is above the blue square. The yellow square is to the left of the triangle.",
+  "target": "yes",
+  "question": "Is the triangle above the blue square?"
+ },
+ {
+  "input": "The triangle is above the red square. The red square is above the pink rectangle.",
+  "target": "yes",
+  "question": "Is the pink rectangle below the triangle?"
+ },
+ {
+  "input": "The red sphere is to the right of the blue square. The red sphere is below the red square.",
+  "target": "yes",
+  "question": "Is the blue square to the left of the red square?"
+ },
+ {
+  "input": "The red square is below the yellow square. The red square is above the blue square.",
+  "target": "yes",
+  "question": "Is the yellow square above the blue square?"
+ },
+ {
+  "input": "The red sphere is to the right of the yellow square. The red sphere is above the red square.",
+  "target": "yes",
+  "question": "Is the yellow square to the left of the red square?"
+ },
+ {
+  "input": "The red sphere is to the right of the blue square. The red sphere is below the red square.",
+  "target": "no",
+  "question": "Is the red square below the blue square?"
+ },
+ {
+  "input": "The red sphere is below the triangle. The blue square is below the red sphere.",
+  "target": "yes",
+  "question": "Is the triangle above the blue square?"
+ },
+ {
+  "input": "The red square is to the left of the blue square. The blue square is above the red sphere.",
+  "target": "yes",
+  "question": "Is the red square above the red sphere?"
+ },
+ {
+  "input": "The blue square is above the red square. The red square is to the left of the triangle.",
+  "target": "no",
+  "question": "Is the triangle above the blue square?"
+ },
+ {
+  "input": "The triangle is to the left of the red square. The pink rectangle is below the triangle.",
+  "target": "no",
+  "question": "Is the red square to the left of the pink rectangle?"
+ },
+ {
+  "input": "The red square is to the left of the red sphere. The red sphere is above the yellow square.",
+  "target": "no",
+  "question": "Is the red square to the right of the yellow square?"
+ },
+ {
+  "input": "The yellow square is to the right of the red square. The yellow square is below the blue square.",
+  "target": "yes",
+  "question": "Is the blue square above the red square?"
+ },
+ {
+  "input": "The pink rectangle is to the right of the blue square. The red sphere is below the blue square.",
+  "target": "yes",
+  "question": "Is the pink rectangle to the right of the red sphere?"
+ },
+ {
+  "input": "The red square is below the yellow square. The red square is above the blue square.",
+  "target": "yes",
+  "question": "Is the yellow square above the blue square?"
+ },
+ {
+  "input": "The red square is to the left of the triangle. The red square is below the red sphere.",
+  "target": "no",
+  "question": "Is the red sphere below the triangle?"
+ },
+ {
+  "input": "The red square is below the red sphere. The red sphere is below the triangle.",
+  "target": "yes",
+  "question": "Is the triangle above the red square?"
+ },
+ {
+  "input": "The red square is to the left of the pink rectangle. The red square is to the right of the red sphere.",
+  "target": "yes",
+  "question": "Is the red sphere to the left of the pink rectangle?"
+ },
+ {
+  "input": "The blue square is above the pink rectangle. The triangle is to the left of the blue square.",
+  "target": "no",
+  "question": "Is the triangle to the right of the pink rectangle?"
+ },
+ {
+  "input": "The triangle is above the pink rectangle. The triangle is to the right of the yellow square.",
+  "target": "yes",
+  "question": "Is the pink rectangle below the yellow square?"
+ },
+ {
+  "input": "The blue square is to the left of the triangle. The blue square is below the red square.",
+  "target": "yes",
+  "question": "Is the red square above the triangle?"
+ },
+ {
+  "input": "The blue square is below the triangle. The blue square is above the yellow square.",
+  "target": "no",
+  "question": "Is the yellow square to the right of the triangle?"
+ },
+ {
+  "input": "The red sphere is to the right of the red square. The red sphere is to the left of the pink rectangle.",
+  "target": "no",
+  "question": "Is the pink rectangle to the left of the red square?"
+ },
+ {
+  "input": "The pink rectangle is to the left of the blue square. The pink rectangle is below the red square.",
+  "target": "yes",
+  "question": "Is the blue square below the red square?"
+ },
+ {
+  "input": "The yellow square is to the right of the red sphere. The yellow square is to the left of the red square.",
+  "target": "no",
+  "question": "Is the red square to the left of the red sphere?"
+ },
+ {
+  "input": "The red square is below the red sphere. The red sphere is below the triangle.",
+  "target": "no",
+  "question": "Is the triangle to the right of the red square?"
+ },
+ {
+  "input": "The pink rectangle is to the right of the yellow square. The pink rectangle is to the left of the red sphere.",
+  "target": "yes",
+  "question": "Is the yellow square to the left of the red sphere?"
+ },
+ {
+  "input": "The red sphere is to the right of the yellow square. The red sphere is above the red square.",
+  "target": "no",
+  "question": "Is the yellow square to the right of the red square?"
+ },
+ {
+  "input": "The blue square is to the left of the red square. The red sphere is to the left of the blue square.",
+  "target": "yes",
+  "question": "Is the red sphere to the left of the red square?"
+ },
+ {
+  "input": "The red sphere is to the left of the triangle. The triangle is to the left of the red square.",
+  "target": "yes",
+  "question": "Is the red sphere to the left of the red square?"
+ },
+ {
+  "input": "The red square is to the right of the triangle. The pink rectangle is below the red square.",
+  "target": "yes",
+  "question": "Is the pink rectangle to the right of the triangle?"
+ },
+ {
+  "input": "The pink rectangle is to the left of the blue square. The pink rectangle is below the triangle.",
+  "target": "no",
+  "question": "Is the blue square above the triangle?"
+ },
+ {
+  "input": "The blue square is above the red square. The red square is to the left of the red sphere.",
+  "target": "yes",
+  "question": "Is the red sphere to the right of the blue square?"
+ },
+ {
+  "input": "The red square is below the yellow square. The red square is above the blue square.",
+  "target": "no",
+  "question": "Is the blue square to the right of the yellow square?"
+ },
+ {
+  "input": "The pink rectangle is to the left of the blue square. The pink rectangle is below the triangle.",
+  "target": "no",
+  "question": "Is the blue square to the left of the triangle?"
+ },
+ {
+  "input": "The red square is to the right of the triangle. The red square is above the pink rectangle.",
+  "target": "yes",
+  "question": "Is the pink rectangle below the triangle?"
+ },
+ {
+  "input": "The yellow square is above the pink rectangle. The triangle is to the right of the pink rectangle.",
+  "target": "yes",
+  "question": "Is the triangle to the right of the yellow square?"
+ },
+ {
+  "input": "The yellow square is to the left of the red square. The yellow square is to the right of the blue square.",
+  "target": "yes",
+  "question": "Is the blue square to the left of the red square?"
+ },
+ {
+  "input": "The blue square is above the pink rectangle. The triangle is to the left of the blue square.",
+  "target": "no",
+  "question": "Is the triangle below the pink rectangle?"
+ },
+ {
+  "input": "The triangle is below the red sphere. The yellow square is below the triangle.",
+  "target": "no",
+  "question": "Is the yellow square above the red sphere?"
+ },
+ {
+  "input": "The yellow square is to the right of the blue square. The yellow square is below the triangle.",
+  "target": "yes",
+  "question": "Is the triangle to the right of the blue square?"
+ }
+]

@@ -1,0 +1,451 @@
+{
+ "dataset": "RMT-team/babilong",
+ "files": {
+  "qa1/0k": {
+   "bytes": 25111,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa1/0k.json",
+   "rows": 100,
+   "sha256": "5907fbc4e29694bfab2dd752aa5da091b7d1ddadb70060c541605725f8be83a0",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa1&split=0k&offset=0&length=100"
+  },
+  "qa1/16k": {
+   "bytes": 6285035,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa1/16k.json",
+   "rows": 100,
+   "sha256": "3fb98362e77bb76ef330e9986ae1824ba5ec697e4e2bb03ab28eb154a675cf7e",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa1&split=16k&offset=0&length=100"
+  },
+  "qa1/1k": {
+   "bytes": 289407,
+   "path": "data/data/qa1/1k.json",
+   "rows": 100,
+   "sha256": "933a7ec57e18e085464a9504cd9e873de90b9b0785e9182223907dad2b6f10e1",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa1&split=1k&offset=0&length=100"
+  },
+  "qa1/2k": {
+   "bytes": 689312,
+   "path": "data/data/qa1/2k.json",
+   "rows": 100,
+   "sha256": "8e29d02922a3eb9ee8642b33fc2d2d97cdfb7a763c4ba84acbcd2b53e58f4333",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa1&split=2k&offset=0&length=100"
+  },
+  "qa1/32k": {
+   "bytes": 12787328,
+   "path": "data/data/qa1/32k.json",
+   "rows": 100,
+   "sha256": "6a9dfe9bb35e4abb0bba68061efdd0660c38d93616ad4269e6247cb40cc3b603",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa1&split=32k&offset=0&length=100"
+  },
+  "qa1/4k": {
+   "bytes": 1489925,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa1/4k.json",
+   "rows": 100,
+   "sha256": "7fed37fea1f19469354d8f22898d045221a5c083deaa842bae8d3fbf96205a37",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa1&split=4k&offset=0&length=100"
+  },
+  "qa1/8k": {
+   "bytes": 3094793,
+   "path": "data/data/qa1/8k.json",
+   "rows": 100,
+   "sha256": "f5279a0d939ebe524324e2bd1cab927a72a831ee854bc18024d3b7b562b23e60",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa1&split=8k&offset=0&length=100"
+  },
+  "qa10/0k": {
+   "bytes": 28137,
+   "path": "data/data/qa10/0k.json",
+   "rows": 100,
+   "sha256": "0393eb21a629422f488cc96b0893a728636f13291fc5b4f0296e05eaf81f1f9e",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa10&split=0k&offset=0&length=100"
+  },
+  "qa10/16k": {
+   "bytes": 6246658,
+   "path": "data/data/qa10/16k.json",
+   "rows": 100,
+   "sha256": "b8a5a0693b92e37360b4c4eee7a4ec1c10a6ef92663910d6873bdd83c6831bba",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa10&split=16k&offset=0&length=100"
+  },
+  "qa10/4k": {
+   "bytes": 1455848,
+   "path": "data/data/qa10/4k.json",
+   "rows": 100,
+   "sha256": "ce71ed4a38fa6ebf2325646ea4bae14d13044404f05e50adf9e21a02e0c44eef",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa10&split=4k&offset=0&length=100"
+  },
+  "qa11/0k": {
+   "bytes": 27390,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa11/0k.json",
+   "rows": 100,
+   "sha256": "21c9c44af298b2096a66bafd90425a6007bfe95409dfc996d0c8001ab8fa2d82",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=0k&split=qa11&offset=0&length=100"
+  },
+  "qa12/0k": {
+   "bytes": 31515,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa12/0k.json",
+   "rows": 100,
+   "sha256": "9b7d4524e73e91095e461fc331e706c99d15ea2c56928a246ecde23a2d71d40b",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=0k&split=qa12&offset=0&length=100"
+  },
+  "qa13/0k": {
+   "bytes": 32308,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa13/0k.json",
+   "rows": 100,
+   "sha256": "5b78466e5241a44fc1d8272834c59491b806547974fa5c283c9c5e42736767b6",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=0k&split=qa13&offset=0&length=100"
+  },
+  "qa14/0k": {
+   "bytes": 40092,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa14/0k.json",
+   "rows": 100,
+   "sha256": "721d1d09c41c2352ba9a1be4dc4841588b083d7d89350afacc3be55515051593",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=0k&split=qa14&offset=0&length=100"
+  },
+  "qa15/0k": {
+   "bytes": 26524,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa15/0k.json",
+   "rows": 100,
+   "sha256": "a35f2df5bf8571b8472ef514a0ec821e2c9eafafd8457fc40e10fe03a2cb6791",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=0k&split=qa15&offset=0&length=100"
+  },
+  "qa16/0k": {
+   "bytes": 23257,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa16/0k.json",
+   "rows": 100,
+   "sha256": "a7a33195ddb728527ce70c5c8246307fa57e7141e833eff9fea1e7bfd1cd703c",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=0k&split=qa16&offset=0&length=100"
+  },
+  "qa17/0k": {
+   "bytes": 19476,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa17/0k.json",
+   "rows": 100,
+   "sha256": "9061ab18446ada6c34f35b45778a4cdb33ec9e5d1cf22fc2ff1a89e9075f0d41",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=0k&split=qa17&offset=0&length=100"
+  },
+  "qa18/0k": {
+   "bytes": 34410,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa18/0k.json",
+   "rows": 100,
+   "sha256": "edb17e2817870e8e6c8a57c803824a914da343f625b427f7c72993dd9e50da4d",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=0k&split=qa18&offset=0&length=100"
+  },
+  "qa19/0k": {
+   "bytes": 28364,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa19/0k.json",
+   "rows": 100,
+   "sha256": "c2699a176915e9aeed044a13f0a95665d564264f809cbf8c004a2d1c91983612",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=0k&split=qa19&offset=0&length=100"
+  },
+  "qa2/0k": {
+   "bytes": 55817,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa2/0k.json",
+   "rows": 100,
+   "sha256": "07b39d1d2adc5ba0091f998059f4f776ba7b7a9a7fd4741a52468600860ab5f2",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa2&split=0k&offset=0&length=100"
+  },
+  "qa2/16k": {
+   "bytes": 6240683,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa2/16k.json",
+   "rows": 100,
+   "sha256": "652f67ddca3df3f9a469b7a65da0bbe675ea7c78b16deb0e81d299e519e18d4b",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa2&split=16k&offset=0&length=100"
+  },
+  "qa2/1k": {
+   "bytes": 291350,
+   "path": "data/data/qa2/1k.json",
+   "rows": 100,
+   "sha256": "b5095e46d0579dd3db2a74c6263f77a93c0cdee846e8d22c070ca569303134eb",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa2&split=1k&offset=0&length=100"
+  },
+  "qa2/2k": {
+   "bytes": 693196,
+   "path": "data/data/qa2/2k.json",
+   "rows": 100,
+   "sha256": "68035f804f79b40b5c735d71d6aac942a41ee4c40fbbbd9a8e5bae018af41198",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa2&split=2k&offset=0&length=100"
+  },
+  "qa2/32k": {
+   "bytes": 12744351,
+   "path": "data/data/qa2/32k.json",
+   "rows": 100,
+   "sha256": "8f85cc1f01baf8980c8af18229b3f1f1ab7a43bb00bf6c62b001302d5c9dd86c",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa2&split=32k&offset=0&length=100"
+  },
+  "qa2/4k": {
+   "bytes": 1480826,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa2/4k.json",
+   "rows": 100,
+   "sha256": "2a7237417d582c8d1e9ded1f1850ac33066269167aa148ee0393254c3bf9fc66",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa2&split=4k&offset=0&length=100"
+  },
+  "qa2/8k": {
+   "bytes": 3051501,
+   "path": "data/data/qa2/8k.json",
+   "rows": 100,
+   "sha256": "495bf75c6ef147a541c6cdb168ba8403217731f8d805f8d77c66c87522b5d814",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa2&split=8k&offset=0&length=100"
+  },
+  "qa20/0k": {
+   "bytes": 22521,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa20/0k.json",
+   "rows": 100,
+   "sha256": "98e1b3813bdedd948a5fbd470cbb12916b6ded02944cdc9e94d7a508b0eadb8a",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=0k&split=qa20&offset=0&length=100"
+  },
+  "qa3/0k": {
+   "bytes": 164833,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa3/0k.json",
+   "rows": 100,
+   "sha256": "5654ae7e7412f2d9201409e1d1c8df513096704e01f36a879b9762b76887aa7c",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa3&split=0k&offset=0&length=100"
+  },
+  "qa3/16k": {
+   "bytes": 6350820,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa3/16k.json",
+   "rows": 100,
+   "sha256": "7183be22c45d6b01ef60d96e3b3bad22a71cf14724d67b47486c4795cc4afcd4",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa3&split=16k&offset=0&length=100"
+  },
+  "qa3/1k": {
+   "bytes": 304513,
+   "path": "data/data/qa3/1k.json",
+   "rows": 100,
+   "sha256": "d046afa8afac5f1dcea8c25489081c13f53a83249b3be9616a1155f4cd15f4f5",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa3&split=1k&offset=0&length=100"
+  },
+  "qa3/2k": {
+   "bytes": 699784,
+   "path": "data/data/qa3/2k.json",
+   "rows": 100,
+   "sha256": "63f6937f167e53c4e44649c9ce29ae894ae3406a5cda13b6157615373c0eab27",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa3&split=2k&offset=0&length=100"
+  },
+  "qa3/32k": {
+   "bytes": 12783608,
+   "path": "data/data/qa3/32k.json",
+   "rows": 100,
+   "sha256": "9ea4848ead117536bad458ed21c96b521a7b4bb9922c3bbf1749784c9546b1b6",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa3&split=32k&offset=0&length=100"
+  },
+  "qa3/4k": {
+   "bytes": 1502916,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa3/4k.json",
+   "rows": 100,
+   "sha256": "63e8fecd0960d646ed7ce2d88a7b3680af64956fa92539b74e8324d3931f0f85",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa3&split=4k&offset=0&length=100"
+  },
+  "qa3/8k": {
+   "bytes": 3112570,
+   "path": "data/data/qa3/8k.json",
+   "rows": 100,
+   "sha256": "acab803f6703804600c8c5acb7536f0a8c3bc926097cc80b747a2c13dddb5196",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa3&split=8k&offset=0&length=100"
+  },
+  "qa4/0k": {
+   "bytes": 16190,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa4/0k.json",
+   "rows": 100,
+   "sha256": "5d378c47b2e48383587d1de6788b39da2d96ff51cb1718a8077d436b8023849b",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa4&split=0k&offset=0&length=100"
+  },
+  "qa4/16k": {
+   "bytes": 6263079,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa4/16k.json",
+   "rows": 100,
+   "sha256": "487d3cbf86a3ccf64fbb25da3c57897692d6c1abb02a8dc3bec17d0de11f1aa3",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa4&split=16k&offset=0&length=100"
+  },
+  "qa4/1k": {
+   "bytes": 289182,
+   "path": "data/data/qa4/1k.json",
+   "rows": 100,
+   "sha256": "3b636582880463b372fb92f65211adcf23328183084be973c34e977c5af36cb5",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa4&split=1k&offset=0&length=100"
+  },
+  "qa4/2k": {
+   "bytes": 688616,
+   "path": "data/data/qa4/2k.json",
+   "rows": 100,
+   "sha256": "be2ef8a7882459a887d1d6ded69f72249d798ab0e29556750f2549480f8d6cea",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa4&split=2k&offset=0&length=100"
+  },
+  "qa4/32k": {
+   "bytes": 12770864,
+   "path": "data/data/qa4/32k.json",
+   "rows": 100,
+   "sha256": "e027f1aeea931c864b3eb89fdc1ddab6496158568d275b26828629f986bbfe46",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa4&split=32k&offset=0&length=100"
+  },
+  "qa4/4k": {
+   "bytes": 1474601,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa4/4k.json",
+   "rows": 100,
+   "sha256": "9dfc48f2be3e551e123ccdba7f569de1c9233112106746ee929195b40fa79222",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa4&split=4k&offset=0&length=100"
+  },
+  "qa4/8k": {
+   "bytes": 3095463,
+   "path": "data/data/qa4/8k.json",
+   "rows": 100,
+   "sha256": "cd3d310de033e6a25b1396b424c50944d3242dd7e54c9c1b91a4baefb7f747d4",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa4&split=8k&offset=0&length=100"
+  },
+  "qa5/0k": {
+   "bytes": 62635,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa5/0k.json",
+   "rows": 100,
+   "sha256": "0bf947b6080b169588015b07e6bc35fe677f9aaaa59144a8118cd09b6e2caf60",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa5&split=0k&offset=0&length=100"
+  },
+  "qa5/16k": {
+   "bytes": 6214599,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa5/16k.json",
+   "rows": 100,
+   "sha256": "a873d8062a3f5fd3be443dde0f88cc75a2607a398035e1a7361b5853ad354df8",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa5&split=16k&offset=0&length=100"
+  },
+  "qa5/1k": {
+   "bytes": 291796,
+   "path": "data/data/qa5/1k.json",
+   "rows": 100,
+   "sha256": "ca739759ec14ca85ea3b0cb93a9138d3579c73d4c36a7311a3d124c00123db61",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa5&split=1k&offset=0&length=100"
+  },
+  "qa5/2k": {
+   "bytes": 690907,
+   "path": "data/data/qa5/2k.json",
+   "rows": 100,
+   "sha256": "cd78f73ee2cea3ba1d91c3e681fc68e86a4e6c451d18ad7d7ea0e12bbde2d711",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa5&split=2k&offset=0&length=100"
+  },
+  "qa5/32k": {
+   "bytes": 12785188,
+   "path": "data/data/qa5/32k.json",
+   "rows": 100,
+   "sha256": "f1aff186f81e3b4e3f10fd665c6aa7e93b7e879d6839b042ca93c23e1311ad8b",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa5&split=32k&offset=0&length=100"
+  },
+  "qa5/4k": {
+   "bytes": 1483724,
+   "dataset": "RMT-team/babilong",
+   "path": "data/data/qa5/4k.json",
+   "rows": 100,
+   "sha256": "124af77b525a79dab618c984cfdf6bd776ae2eaabaabf496a5af28483ca28773",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa5&split=4k&offset=0&length=100"
+  },
+  "qa5/8k": {
+   "bytes": 3082137,
+   "path": "data/data/qa5/8k.json",
+   "rows": 100,
+   "sha256": "aa8bb5ddcc0e71e029ce88d4254f1442a5b1285f8c6066f50a4c8b1114e6d00f",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa5&split=8k&offset=0&length=100"
+  },
+  "qa6/0k": {
+   "bytes": 27112,
+   "path": "data/data/qa6/0k.json",
+   "rows": 100,
+   "sha256": "26dcae79f7daae93b8a7aba3a593f1b57d371ec81c0c108a41bce10f65261c8a",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa6&split=0k&offset=0&length=100"
+  },
+  "qa6/16k": {
+   "bytes": 6296963,
+   "path": "data/data/qa6/16k.json",
+   "rows": 100,
+   "sha256": "fe310394bb0a7143c75fb13badbd7c771bd5a71dd8322cd9f3bd61511f5e0426",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa6&split=16k&offset=0&length=100"
+  },
+  "qa6/4k": {
+   "bytes": 1488628,
+   "path": "data/data/qa6/4k.json",
+   "rows": 100,
+   "sha256": "a3d0bb15cd85636da918e9874b4b23628717d679fc28d962d594c2d3ec7b6499",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa6&split=4k&offset=0&length=100"
+  },
+  "qa7/0k": {
+   "bytes": 34580,
+   "path": "data/data/qa7/0k.json",
+   "rows": 100,
+   "sha256": "2d1ffcb373fc04fdaaf70cfdece7f0de4fc5fbc6f65f7cc02ea44850d1a4a7bc",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa7&split=0k&offset=0&length=100"
+  },
+  "qa7/16k": {
+   "bytes": 6274913,
+   "path": "data/data/qa7/16k.json",
+   "rows": 100,
+   "sha256": "d16d495dba5849a23375e7134698c31acd1939d970e756fc184619b493476d49",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa7&split=16k&offset=0&length=100"
+  },
+  "qa7/4k": {
+   "bytes": 1468912,
+   "path": "data/data/qa7/4k.json",
+   "rows": 100,
+   "sha256": "1db1d5496741d9ab55c0619d7d681d2a6de21dafc8984409b322749ed03552d0",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa7&split=4k&offset=0&length=100"
+  },
+  "qa8/0k": {
+   "bytes": 36640,
+   "path": "data/data/qa8/0k.json",
+   "rows": 100,
+   "sha256": "c92fe7b0dca669f6e3be2eadc81f6c0280c67944f896c939d0ae4327aefb89f2",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa8&split=0k&offset=0&length=100"
+  },
+  "qa8/16k": {
+   "bytes": 6359841,
+   "path": "data/data/qa8/16k.json",
+   "rows": 100,
+   "sha256": "91ae8bc271a15581486387ad8334ceb50c53a25c5e103ab7911a5b32d64036b5",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa8&split=16k&offset=0&length=100"
+  },
+  "qa8/4k": {
+   "bytes": 1490146,
+   "path": "data/data/qa8/4k.json",
+   "rows": 100,
+   "sha256": "33750a4f418580342a435937766bbceb5ee776d685e6ff9d19a3f0db89c75dd5",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa8&split=4k&offset=0&length=100"
+  },
+  "qa9/0k": {
+   "bytes": 25636,
+   "path": "data/data/qa9/0k.json",
+   "rows": 100,
+   "sha256": "293d384cf03f1f2ca8c5744597a20236a8bafaff65f62d8a2403ac30481e0c0f",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa9&split=0k&offset=0&length=100"
+  },
+  "qa9/16k": {
+   "bytes": 6258503,
+   "path": "data/data/qa9/16k.json",
+   "rows": 100,
+   "sha256": "60bb6f93ed82414b5a016a733b6ac328d9f659bab8a713fef2fad86295bf3fc7",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa9&split=16k&offset=0&length=100"
+  },
+  "qa9/4k": {
+   "bytes": 1485030,
+   "path": "data/data/qa9/4k.json",
+   "rows": 100,
+   "sha256": "a4e09108ea1d7e8fb2d2374e2ec672ff1ec9abb83a0e25f90f9d036d8005637e",
+   "source_url": "https://datasets-server.huggingface.co/rows?dataset=RMT-team%2Fbabilong&config=qa9&split=4k&offset=0&length=100"
+  }
+ },
+ "updated_at": "2026-08-22T11:58:06-0700"
+}

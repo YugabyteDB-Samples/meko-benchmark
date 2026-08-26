@@ -1,0 +1,234 @@
+- Encoding: Each note value is exactly `VZ` + the person’s 2-digit prefix + the field suffix below. All values are current; no conflicting or changed-over-time values were provided.
+- Suffixes: staging dataset name=000; output bucket name=010; reconciliation threshold=020; preferred conference room=030; build pipeline id=040; service mesh cluster=050; cache namespace=060; metrics dashboard slug=070; runbook document id=080; deploy region code=090; test fixture seed=100; log retention days=110; alert routing channel=120; sprint board column=130; api gateway route=140; container registry path=150; secret vault mount=160; schema migration tag=170; load test profile=180; index shard key=190; queue partition name=200; cron schedule label=210; batch window minutes=220; config map key=230; storage class name=240; namespace quota label=250; audit stream id=260; replica set tag=270; backup vault suffix=280; trace sampler rate=290; primary project codename=500; on-call rotation name=510; feature flag name=520; canary cohort name=530; rollback checkpoint=540; throttle bucket size=550; worker pool name=560; ingress host alias=570; edge cache ttl=580; gpu reservation slot=590.
+- Aisha: prefix=06.
+- Amara: prefix=19.
+- Anton: prefix=32.
+- Bjorn: prefix=18.
+- Cyrus: prefix=36.
+- Dana: prefix=00.
+- Diego: prefix=14.
+- Elsa: prefix=25.
+- Felix: prefix=20.
+- Freya: prefix=35.
+- Hana: prefix=13.
+- Hugo: prefix=30.
+- Igor: prefix=22.
+- Ingrid: prefix=10.
+- Iris: prefix=33.
+- Kofi: prefix=24.
+- Kwame: prefix=09.
+- Lars: prefix=03.
+- Leila: prefix=29.
+- Lena: prefix=15.
+- Marco: prefix=26.
+- Maya: prefix=37.
+- Mei: prefix=04.
+- Nadia: prefix=27.
+- Nikolai: prefix=07.
+- Nora: prefix=17.
+- Omar: prefix=01.
+- Otto: prefix=38.
+- Pablo: prefix=34.
+- Petra: prefix=23.
+- Priya: prefix=02.
+- Rafael: prefix=11.
+- Ravi: prefix=16.
+- Sana: prefix=39.
+- Sofia: prefix=08.
+- Sven: prefix=28.
+- Tomas: prefix=05.
+- Vera: prefix=31.
+- Yuki: prefix=12.
+- Zara: prefix=21.
+- Channel quiet except for a deploy notification.
+- Tickets were triaged and assigned to the right queue.
+- Weekly syncs covered status with no decisions recorded.
+- Timeline questions received a rough estimate.
+- Pipeline retried flaky steps and then went green.
+- Retro notes were mostly about process tweaks.
+- c covered status with no decisions recorded.
+- The weekly sync covered status with no decisions recorded.
+- Notes from the retro were mostly about process tweaks.
+- The channel was quiet except for a deploy notification.
+- A pipeline retried a flaky step and then went green.
+- Someone asked about timelines and got a rough estimate.
+- A ticket was triaged and assigned to the right queue.
+- then went green.
+- A ticket was triaged and assigned to the right queue.
+- A pipeline retried a flaky step and then went green.
+- The channel was quiet except for a deploy notification.
+- Notes from the retro were mostly about process tweaks.
+- The weekly sync covered status with no decisions recorded.
+- Someone asked about timelines and got a rough estimate.
+- No named people, identifiers, numbers, code, or values were provided.
+- No named persons, specific identifiers, numbers, code, or values appear.
+- All notes are generic filler chatter without person-attributed facts or value changes.
+- The weekly sync covered status with no decisions recorded.
+- Notes from the retro were mostly about process tweaks.
+- The channel was quiet except for a deploy notification.
+- Someone asked about timelines and got a rough estimate.
+- A ticket was triaged and assigned to the right queue.
+- A pipeline retried a flaky step and then went green.
+- No named people, identifiers, numbers, codes, or values appear.
+- A ticket was triaged and assigned to the right queue.
+- A pipeline retried a flaky step and then went green.
+- The weekly sync covered status with no decisions recorded.
+- The channel was quiet except for a deploy notification.
+- Someone asked about timelines and got a rough estimate.
+- Notes from the retro were mostly about process tweaks.
+- line retried a flaky step and then went green.
+- A pipeline retried a flaky step and then went green.
+- Notes from the retro were mostly about process tweaks.
+- The weekly sync covered status with no decisions recorded.
+- Someone asked about timelines and got a rough estimate.
+- A ticket was triaged and assigned to the right queue.
+- The channel was quiet except for a deploy notification.
+- Notes from the retro were mostly about process tweaks.
+- The channel was quiet except for a deploy notification.
+- The weekly sync covered status with no decisions recorded.
+- Someone asked about timelines and got a rough estimate.
+- A pipeline retried a flaky step and then went green.
+- A ticket was triaged and assigned to the right queue.
+- No named persons, identifiers, numbers, code, or values appear.
+- “xcept for a deploy notification.”
+- “The channel was quiet except for a deploy notification.”
+- “A ticket was triaged and assigned to the right queue.”
+- “Notes from the retro were mostly about process tweaks.”
+- “Someone asked about timelines and got a rough estimate.”
+- “A pipeline retried a flaky step and then went green.”
+- “The weekly sync covered status with no decisions recorded.”
+- Nora (current): ingress host alias `VZ17571`; primary project codename `VZ17501`; edge cache ttl `VZ17581`; worker pool name `VZ17561`; gpu reservation slot `VZ17591`; rollback checkpoint `VZ17541`; on-call rotation name `VZ17511`; feature flag name `VZ17521`; canary cohort name `VZ17531`; throttle bucket size `VZ17551`.
+- Petra (current): ingress host alias `VZ23571`; primary project codename `VZ23501`; edge cache ttl `VZ23581`; worker pool name `VZ23561`; gpu reservation slot `VZ23591`; rollback checkpoint `VZ23541`; on-call rotation name `VZ23511`; feature flag name `VZ23521`; canary cohort name `VZ23531`; throttle bucket size `VZ23551`.
+- Nikolai (current): ingress host alias `VZ07571`; primary project codename `VZ07501`; edge cache ttl `VZ07581`; worker pool name `VZ07561`; gpu reservation slot `VZ07591`; rollback checkpoint `VZ07541`; on-call rotation name `VZ07511`; feature flag name `VZ07521`; canary cohort name `VZ07531`; throttle bucket size `VZ07551`.
+- Diego (current): ingress host alias `VZ14571`; primary project codename `VZ14501`; edge cache ttl `VZ14581`; worker pool name `VZ14561`; gpu reservation slot `VZ14591`; rollback checkpoint `VZ14541`; on-call rotation name `VZ14511`; feature flag name `VZ14521`; canary cohort name `VZ14531`; throttle bucket size `VZ14551`.
+- Tomas (current): ingress host alias `VZ05571`; primary project codename `VZ05501`; edge cache ttl `VZ05581`; worker pool name `VZ05561`; gpu reservation slot `VZ05591`; rollback checkpoint `VZ05541`; on-call rotation name `VZ05511`; feature flag name `VZ05521`; canary cohort name `VZ05531`; throttle bucket size `VZ05551`.
+- Sven (current): ingress host alias `VZ28571`; primary project codename `VZ28501`; edge cache ttl `VZ28581`; worker pool name `VZ28561`; gpu reservation slot `VZ28591`; rollback checkpoint `VZ28541`; on-call rotation name `VZ28511`; feature flag name `VZ28521`; canary cohort name `VZ28531`; throttle bucket size `VZ28551`.
+- Sofia (current): ingress host alias `VZ08571`; primary project codename `VZ08501`; edge cache ttl `VZ08581`; worker pool name `VZ08561`; gpu reservation slot `VZ08591`; rollback checkpoint `VZ08541`; on-call rotation name `VZ08511`; feature flag name `VZ08521`; canary cohort name `VZ08531`; throttle bucket size `VZ08551`.
+- Cyrus (current): ingress host alias `VZ36571`; primary project codename `VZ36501`; edge cache ttl `VZ36581`; worker pool name `VZ36561`; gpu reservation slot `VZ36591`; rollback checkpoint `VZ36541`; on-call rotation name `VZ36511`; feature flag name `VZ36521`; canary cohort name `VZ36531`; throttle bucket size `VZ36551`.
+- Iris (current): ingress host alias `VZ33571`; primary project codename `VZ33501`; edge cache ttl `VZ33581`; worker pool name `VZ33561`; gpu reservation slot `VZ33591`; rollback checkpoint `VZ33541`; on-call rotation name `VZ33511`; feature flag name `VZ33521`; canary cohort name `VZ33531`; throttle bucket size `VZ33551`.
+- Sana (current): ingress host alias `VZ39571`; primary project codename `VZ39501`; edge cache ttl `VZ39581`; worker pool name `VZ39561`; gpu reservation slot `VZ39591`; rollback checkpoint `VZ39541`; on-call rotation name `VZ39511`; feature flag name `VZ39521`; canary cohort name `VZ39531`; throttle bucket size `VZ39551`.
+- Ravi (current): ingress host alias `VZ16571`; primary project codename `VZ16501`; edge cache ttl `VZ16581`; worker pool name `VZ16561`; gpu reservation slot `VZ16591`; rollback checkpoint `VZ16541`; on-call rotation name `VZ16511`; feature flag name `VZ16521`; canary cohort name `VZ16531`; throttle bucket size `VZ16551`.
+- Lars (current): ingress host alias `VZ03571`; primary project codename `VZ03501`; edge cache ttl `VZ03581`; worker pool name `VZ03561`; gpu reservation slot `VZ03591`; rollback checkpoint `VZ03541`; on-call rotation name `VZ03511`; feature flag name `VZ03521`; canary cohort name `VZ03531`; throttle bucket size `VZ03551`.
+- Elsa (current): ingress host alias `VZ25571`; primary project codename `VZ25501`; edge cache ttl `VZ25581`; worker pool name `VZ25561`; gpu reservation slot `VZ25591`; rollback checkpoint `VZ25541`; on-call rotation name `VZ25511`; feature flag name `VZ25521`; canary cohort name `VZ25531`; throttle bucket size `VZ25551`.
+- Nadia (current): ingress host alias `VZ27571`; primary project codename `VZ27501`; edge cache ttl `VZ27581`; worker pool name `VZ27561`; gpu reservation slot `VZ27591`; rollback checkpoint `VZ27541`; on-call rotation name `VZ27511`; feature flag name `VZ27521`; canary cohort name `VZ27531`; throttle bucket size `VZ27551`.
+- Pablo (current): ingress host alias `VZ34571`; primary project codename `VZ34501`; edge cache ttl `VZ34581`; worker pool name `VZ34561`; gpu reservation slot `VZ34591`; rollback checkpoint `VZ34541`; on-call rotation name `VZ34511`; feature flag name `VZ34521`; canary cohort name `VZ34531`; throttle bucket size `VZ34551`.
+- Zara (current): ingress host alias `VZ21571`; primary project codename `VZ21501`; edge cache ttl `VZ21581`; worker pool name `VZ21561`; gpu reservation slot `VZ21591`; rollback checkpoint `VZ21541`; on-call rotation name `VZ21511`; feature flag name `VZ21521`; canary cohort name `VZ21531`; throttle bucket size `VZ21551`.
+- Lena (current): ingress host alias `VZ15571`; primary project codename `VZ15501`; edge cache ttl `VZ15581`; worker pool name `VZ15561`; gpu reservation slot `VZ15591`; rollback checkpoint `VZ15541`; on-call rotation name `VZ15511`; feature flag name `VZ15521`; canary cohort name `VZ15531`; throttle bucket size `VZ15551`.
+- Maya (current): ingress host alias `VZ37571`; primary project codename `VZ37501`; edge cache ttl `VZ37581`; worker pool name `VZ37561`; gpu reservation slot `VZ37591`; rollback checkpoint `VZ37541`; on-call rotation name `VZ37511`; feature flag name `VZ37521`; canary cohort name `VZ37531`; throttle bucket size `VZ37551`.
+- Priya (current): ingress host alias `VZ02571`; primary project codename `VZ02501`; edge cache ttl `VZ02581`; worker pool name `VZ02561`; gpu reservation slot `VZ02591`; rollback checkpoint `VZ02541`; on-call rotation name `VZ02511`; feature flag name `VZ02521`; canary cohort name `VZ02531`; throttle bucket size `VZ02551`.
+- Vera (current): ingress host alias `VZ31571`; primary project codename `VZ31501`; edge cache ttl `VZ31581`; worker pool name `VZ31561`; gpu reservation slot `VZ31591`; rollback checkpoint `VZ31541`; on-call rotation name `VZ31511`; feature flag name `VZ31521`; canary cohort name `VZ31531`; throttle bucket size `VZ31551`.
+- Hugo (current): ingress host alias `VZ30571`; primary project codename `VZ30501`; edge cache ttl `VZ30581`; worker pool name `VZ30561`; gpu reservation slot `VZ30591`; rollback checkpoint `VZ30541`; on-call rotation name `VZ30511`; feature flag name `VZ30521`; canary cohort name `VZ30531`; throttle bucket size `VZ30551`.
+- Omar (current): ingress host alias `VZ01571`; primary project codename `VZ01501`; edge cache ttl `VZ01581`; worker pool name `VZ01561`; gpu reservation slot `VZ01591`; rollback checkpoint `VZ01541`; on-call rotation name `VZ01511`; feature flag name `VZ01521`; canary cohort name `VZ01531`; throttle bucket size `VZ01551`.
+- Aisha (current): ingress host alias `VZ06571`; primary project codename `VZ06501`; edge cache ttl `VZ06581`; worker pool name `VZ06561`; gpu reservation slot `VZ06591`; rollback checkpoint `VZ06541`; on-call rotation name `VZ06511`; feature flag name `VZ06521`; canary cohort name `VZ06531`; throttle bucket size `VZ06551`.
+- Yuki (current): ingress host alias `VZ12571`; primary project codename `VZ12501`; edge cache ttl `VZ12581`; worker pool name `VZ12561`; gpu reservation slot `VZ12591`; rollback checkpoint `VZ12541`; on-call rotation name `VZ12511`; feature flag name `VZ12521`; canary cohort name `VZ12531`; throttle bucket size `VZ12551`.
+- Bjorn (current): ingress host alias `VZ18571`; primary project codename `VZ18501`; edge cache ttl `VZ18581`; worker pool name `VZ18561`; gpu reservation slot `VZ18591`; rollback checkpoint `VZ18541`; on-call rotation name `VZ18511`; feature flag name `VZ18521`; canary cohort name `VZ18531`; throttle bucket size `VZ18551`.
+- Hana (current): ingress host alias `VZ13571`; primary project codename `VZ13501`; edge cache ttl `VZ13581`; worker pool name `VZ13561`; gpu reservation slot `VZ13591`; rollback checkpoint `VZ13541`; on-call rotation name `VZ13511`; feature flag name `VZ13521`; canary cohort name `VZ13531`; throttle bucket size `VZ13551`.
+- Freya (current): ingress host alias `VZ35571`; primary project codename `VZ35501`; edge cache ttl `VZ35581`; worker pool name `VZ35561`; gpu reservation slot `VZ35591`; rollback checkpoint `VZ35541`; on-call rotation name `VZ35511`; feature flag name `VZ35521`; canary cohort name `VZ35531`; throttle bucket size `VZ35551`.
+- Kofi (current): ingress host alias `VZ24571`; primary project codename `VZ24501`; edge cache ttl `VZ24581`; worker pool name `VZ24561`; gpu reservation slot `VZ24591`; rollback checkpoint `VZ24541`; on-call rotation name `VZ24511`; feature flag name `VZ24521`; canary cohort name `VZ24531`; throttle bucket size `VZ24551`.
+- Rafael (current): ingress host alias `VZ11571`; primary project codename `VZ11501`; edge cache ttl `VZ11581`; worker pool name `VZ11561`; gpu reservation slot `VZ11591`; rollback checkpoint `VZ11541`; on-call rotation name `VZ11511`; feature flag name `VZ11521`; canary cohort name `VZ11531`; throttle bucket size `VZ11551`.
+- Felix (current): ingress host alias `VZ20571`; primary project codename `VZ20501`; edge cache ttl `VZ20581`; worker pool name `VZ20561`; gpu reservation slot `VZ20591`; rollback checkpoint `VZ20541`; on-call rotation name `VZ20511`; feature flag name `VZ20521`; canary cohort name `VZ20531`; throttle bucket size `VZ20551`.
+- Kwame (current): ingress host alias `VZ09571`; primary project codename `VZ09501`; edge cache ttl `VZ09581`; worker pool name `VZ09561`; gpu reservation slot `VZ09591`; rollback checkpoint `VZ09541`; on-call rotation name `VZ09511`; feature flag name `VZ09521`; canary cohort name `VZ09531`; throttle bucket size `VZ09551`.
+- Dana (current): ingress host alias `VZ00571`; primary project codename `VZ00501`; edge cache ttl `VZ00581`; worker pool name `VZ00561`; gpu reservation slot `VZ00591`; rollback checkpoint `VZ00541`; on-call rotation name `VZ00511`; feature flag name `VZ00521`; canary cohort name `VZ00531`; throttle bucket size `VZ00551`.
+- Marco (current): ingress host alias `VZ26571`; primary project codename `VZ26501`; edge cache ttl `VZ26581`; worker pool name `VZ26561`; gpu reservation slot `VZ26591`; rollback checkpoint `VZ26541`; on-call rotation name `VZ26511`; feature flag name `VZ26521`; canary cohort name `VZ26531`; throttle bucket size `VZ26551`.
+- Ingrid (current): ingress host alias `VZ10571`; primary project codename `VZ10501`; edge cache ttl `VZ10581`; worker pool name `VZ10561`; gpu reservation slot `VZ10591`; rollback checkpoint `VZ10541`; on-call rotation name `VZ10511`; feature flag name `VZ10521`; canary cohort name `VZ10531`; throttle bucket size `VZ10551`.
+- Amara (current): ingress host alias `VZ19571`; primary project codename `VZ19501`; edge cache ttl `VZ19581`; worker pool name `VZ19561`; gpu reservation slot `VZ19591`; rollback checkpoint `VZ19541`; on-call rotation name `VZ19511`; feature flag name `VZ19521`; canary cohort name `VZ19531`; throttle bucket size `VZ19551`.
+- Anton (current): ingress host alias `VZ32571`; primary project codename `VZ32501`; edge cache ttl `VZ32581`; worker pool name `VZ32561`; gpu reservation slot `VZ32591`; rollback checkpoint `VZ32541`; on-call rotation name `VZ32511`; feature flag name `VZ32521`; canary cohort name `VZ32531`; throttle bucket size `VZ32551`.
+- Otto (current): ingress host alias `VZ38571`; primary project codename `VZ38501`; edge cache ttl `VZ38581`; worker pool name `VZ38561`; gpu reservation slot `VZ38591`; rollback checkpoint `VZ38541`; on-call rotation name `VZ38511`; feature flag name `VZ38521`; canary cohort name `VZ38531`; throttle bucket size `VZ38551`.
+- Leila (current): ingress host alias `VZ29571`; primary project codename `VZ29501`; edge cache ttl `VZ29581`; worker pool name `VZ29561`; gpu reservation slot `VZ29591`; rollback checkpoint `VZ29541`; on-call rotation name `VZ29511`; feature flag name `VZ29521`; canary cohort name `VZ29531`; throttle bucket size `VZ29551`.
+- Mei (current): ingress host alias `VZ04571`; primary project codename `VZ04501`; edge cache ttl `VZ04581`; worker pool name `VZ04561`; gpu reservation slot `VZ04591`; rollback checkpoint `VZ04541`; on-call rotation name `VZ04511`; feature flag name `VZ04521`; canary cohort name `VZ04531`; throttle bucket size `VZ04551`.
+- Igor (current): ingress host alias `VZ22571`; primary project codename `VZ22501`; edge cache ttl `VZ22581`; worker pool name `VZ22561`; gpu reservation slot `VZ22591`; rollback checkpoint `VZ22541`; on-call rotation name `VZ22511`; feature flag name `VZ22521`; canary cohort name `VZ22531`; throttle bucket size `VZ22551`.
+- No named persons, identifiers, numbers, code, or values appear.
+- The channel was quiet except for a deploy notification.
+- A pipeline retried a flaky step and then went green.
+- Notes from the retro were mostly about process tweaks.
+- The weekly sync covered status with no decisions recorded.
+- Someone asked about timelines and got a rough estimate.
+- A ticket was triaged and assigned to the right queue.
+- Unattributed fragment: “ep and then went green.”
+- “A ticket was triaged and assigned to the right queue.”
+- “Someone asked about timelines and got a rough estimate.”
+- “The weekly sync covered status with no decisions recorded.”
+- “A pipeline retried a flaky step and then went green.”
+- “The channel was quiet except for a deploy notification.”
+- “Notes from the retro were mostly about process tweaks.”
+- No named people, identifiers, numbers, codes, values, or changes over time appear; all statements are unattributed and repetitive.
+- No named people, identifiers, numbers, code, or explicit values appear; no time-varying values or current value are provided.
+- “Someone asked about timelines and got a rough estimate.” No actual timeline or estimate value is specified.
+- “A pipeline retried a flaky step and then went green.” No pipeline name, step identifier, retry count, or run identifier is specified.
+- “Notes from the retro were mostly about process tweaks.” No specific notes or process changes are identified.
+- “A ticket was triaged and assigned to the right queue.” No ticket identifier or queue name is specified.
+- “The weekly sync covered status with no decisions recorded.” No status details, decision names, or dates are specified.
+- “The channel was quiet except for a deploy notification.” No channel name, deployment identifier, or deployment details are specified.
+- Someone asked about timelines and got a rough estimate.
+- A pipeline retried a flaky step and then went green.
+- Notes from the retro were mostly about process tweaks.
+- The weekly sync covered status with no decisions recorded.
+- The channel was quiet except for a deploy notification.
+- A ticket was triaged and assigned to the right queue.
+- Someone asked about timelines and got a rough estimate.
+- Notes from the retro were mostly about process tweaks.
+- A ticket was triaged and assigned to the right queue.
+- The channel was quiet except for a deploy notification.
+- A pipeline retried a flaky step and then went green.
+- The weekly sync covered status with no decisions recorded.
+- The weekly sync covered status with no decisions recorded.
+- Notes from the retro were mostly about process tweaks.
+- Someone asked about timelines and got a rough estimate.
+- The channel was quiet except for a deploy notification.
+- A pipeline retried a flaky step and then went green.
+- A ticket was triaged and assigned to the right queue.
+- No named people, identifiers, numbers, codes, or changing values were provided.
+- A ticket was triaged and assigned to the right queue.
+- Someone asked about timelines and got a rough estimate.
+- A pipeline retried a flaky step and then went green.
+- The channel was quiet except for a deploy notification.
+- Notes from the retro were mostly about process tweaks.
+- The weekly sync covered status with no decisions recorded.
+- Marco — throttle bucket size: VZ26552; canary cohort name: VZ26532; edge cache ttl: VZ26582; gpu reservation slot: VZ26592; on-call rotation name: VZ26512; primary project codename: VZ26502; rollback checkpoint: VZ26542; feature flag name: VZ26522; ingress host alias: VZ26572; worker pool name: VZ26562.
+- Cyrus — throttle bucket size: VZ36552; gpu reservation slot: VZ36592; edge cache ttl: VZ36582; ingress host alias: VZ36572; rollback checkpoint: VZ36542; worker pool name: VZ36562; primary project codename: VZ36502; canary cohort name: VZ36532; feature flag name: VZ36522; on-call rotation name: VZ36512.
+- Ingrid — ingress host alias: VZ10572; worker pool name: VZ10562; canary cohort name: VZ10532; on-call rotation name: VZ10512; gpu reservation slot: VZ10592; primary project codename: VZ10502; throttle bucket size: VZ10552; edge cache ttl: VZ10582; feature flag name: VZ10522; rollback checkpoint: VZ10542.
+- Mei — worker pool name: VZ04562; canary cohort name: VZ04532; edge cache ttl: VZ04582; feature flag name: VZ04522; gpu reservation slot: VZ04592; primary project codename: VZ04502; throttle bucket size: VZ04552; ingress host alias: VZ04572; rollback checkpoint: VZ04542; on-call rotation name: VZ04512.
+- Nadia — feature flag name: VZ27522; ingress host alias: VZ27572; throttle bucket size: VZ27552; primary project codename: VZ27502; rollback checkpoint: VZ27542; edge cache ttl: VZ27582; worker pool name: VZ27562; gpu reservation slot: VZ27592; on-call rotation name: VZ27512; canary cohort name: VZ27532.
+- Rafael — edge cache ttl: VZ11582; throttle bucket size: VZ11552; feature flag name: VZ11522; worker pool name: VZ11562; gpu reservation slot: VZ11592; primary project codename: VZ11502; on-call rotation name: VZ11512; rollback checkpoint: VZ11542; ingress host alias: VZ11572; canary cohort name: VZ11532.
+- Aisha — feature flag name: VZ06522; gpu reservation slot: VZ06592; on-call rotation name: VZ06512; worker pool name: VZ06562; ingress host alias: VZ06572; edge cache ttl: VZ06582; canary cohort name: VZ06532; throttle bucket size: VZ06552; primary project codename: VZ06502; rollback checkpoint: VZ06542.
+- Hana — rollback checkpoint: VZ13542; gpu reservation slot: VZ13592; ingress host alias: VZ13572; canary cohort name: VZ13532; on-call rotation name: VZ13512; primary project codename: VZ13502; edge cache ttl: VZ13582; feature flag name: VZ13522; worker pool name: VZ13562; throttle bucket size: VZ13552.
+- Pablo — rollback checkpoint: VZ34542; ingress host alias: VZ34572; primary project codename: VZ34502; worker pool name: VZ34562; edge cache ttl: VZ34582; throttle bucket size: VZ34552; canary cohort name: VZ34532; gpu reservation slot: VZ34592; on-call rotation name: VZ34512; feature flag name: VZ34522.
+- Dana — rollback checkpoint: VZ00542; primary project codename: VZ00502; on-call rotation name: VZ00512; edge cache ttl: VZ00582; feature flag name: VZ00522; ingress host alias: VZ00572; worker pool name: VZ00562; gpu reservation slot: VZ00592; throttle bucket size: VZ00552; canary cohort name: VZ00532.
+- Sana — rollback checkpoint: VZ39542; canary cohort name: VZ39532; worker pool name: VZ39562; gpu reservation slot: VZ39592; primary project codename: VZ39502; ingress host alias: VZ39572; throttle bucket size: VZ39552; feature flag name: VZ39522; edge cache ttl: VZ39582; on-call rotation name: VZ39512.
+- Zara — on-call rotation name: VZ21512; worker pool name: VZ21562; ingress host alias: VZ21572; feature flag name: VZ21522; primary project codename: VZ21502; gpu reservation slot: VZ21592; throttle bucket size: VZ21552; edge cache ttl: VZ21582; rollback checkpoint: VZ21542; canary cohort name: VZ21532.
+- Maya — primary project codename: VZ37502; throttle bucket size: VZ37552; edge cache ttl: VZ37582; ingress host alias: VZ37572; worker pool name: VZ37562; on-call rotation name: VZ37512; feature flag name: VZ37522; gpu reservation slot: VZ37592; canary cohort name: VZ37532; rollback checkpoint: VZ37542.
+- Kofi — ingress host alias: VZ24572; worker pool name: VZ24562; rollback checkpoint: VZ24542; edge cache ttl: VZ24582; primary project codename: VZ24502; canary cohort name: VZ24532; on-call rotation name: VZ24512; throttle bucket size: VZ24552; gpu reservation slot: VZ24592; feature flag name: VZ24522.
+- Iris — gpu reservation slot: VZ33592; worker pool name: VZ33562; edge cache ttl: VZ33582; canary cohort name: VZ33532; on-call rotation name: VZ33512; feature flag name: VZ33522; primary project codename: VZ33502; ingress host alias: VZ33572; rollback checkpoint: VZ33542; throttle bucket size: VZ33552.
+- Nora — ingress host alias: VZ17572; primary project codename: VZ17502; throttle bucket size: VZ17552; rollback checkpoint: VZ17542; edge cache ttl: VZ17582; on-call rotation name: VZ17512; feature flag name: VZ17522; worker pool name: VZ17562; gpu reservation slot: VZ17592; canary cohort name: VZ17532.
+- Diego — throttle bucket size: VZ14552; edge cache ttl: VZ14582; worker pool name: VZ14562; canary cohort name: VZ14532; feature flag name: VZ14522; on-call rotation name: VZ14512; gpu reservation slot: VZ14592; rollback checkpoint: VZ14542; ingress host alias: VZ14572; primary project codename: VZ14502.
+- Bjorn — throttle bucket size: VZ18552; gpu reservation slot: VZ18592; feature flag name: VZ18522; primary project codename: VZ18502; edge cache ttl: VZ18582; on-call rotation name: VZ18512; ingress host alias: VZ18572; rollback checkpoint: VZ18542; worker pool name: VZ18562; canary cohort name: VZ18532.
+- Nikolai — throttle bucket size: VZ07552; gpu reservation slot: VZ07592; ingress host alias: VZ07572; worker pool name: VZ07562; primary project codename: VZ07502; on-call rotation name: VZ07512; edge cache ttl: VZ07582; rollback checkpoint: VZ07542; feature flag name: VZ07522; canary cohort name: VZ07532.
+- Sven — rollback checkpoint: VZ28542; gpu reservation slot: VZ28592; throttle bucket size: VZ28552; on-call rotation name: VZ28512; canary cohort name: VZ28532; worker pool name: VZ28562; ingress host alias: VZ28572; feature flag name: VZ28522; edge cache ttl: VZ28582; primary project codename: VZ28502.
+- Leila — throttle bucket size: VZ29552; primary project codename: VZ29502; gpu reservation slot: VZ29592; edge cache ttl: VZ29582; canary cohort name: VZ29532; feature flag name: VZ29522; worker pool name: VZ29562; ingress host alias: VZ29572; rollback checkpoint: VZ29542; on-call rotation name: VZ29512.
+- Amara — edge cache ttl: VZ19582; primary project codename: VZ19502; ingress host alias: VZ19572; feature flag name: VZ19522; canary cohort name: VZ19532; on-call rotation name: VZ19512; gpu reservation slot: VZ19592; rollback checkpoint: VZ19542; throttle bucket size: VZ19552; worker pool name: VZ19562.
+- Freya — ingress host alias: VZ35572; worker pool name: VZ35562; canary cohort name: VZ35532; rollback checkpoint: VZ35542; feature flag name: VZ35522; primary project codename: VZ35502; gpu reservation slot: VZ35592; edge cache ttl: VZ35582; throttle bucket size: VZ35552; on-call rotation name: VZ35512.
+- Yuki — throttle bucket size: VZ12552; canary cohort name: VZ12532; worker pool name: VZ12562; primary project codename: VZ12502; gpu reservation slot: VZ12592; rollback checkpoint: VZ12542; edge cache ttl: VZ12582; on-call rotation name: VZ12512; feature flag name: VZ12522; ingress host alias: VZ12572.
+- Kwame — edge cache ttl: VZ09582; throttle bucket size: VZ09552; canary cohort name: VZ09532; worker pool name: VZ09562; primary project codename: VZ09502; feature flag name: VZ09522; on-call rotation name: VZ09512; gpu reservation slot: VZ09592; ingress host alias: VZ09572; rollback checkpoint: VZ09542.
+- Elsa — worker pool name: VZ25562; gpu reservation slot: VZ25592; edge cache ttl: VZ25582; feature flag name: VZ25522; throttle bucket size: VZ25552; canary cohort name: VZ25532; primary project codename: VZ25502; rollback checkpoint: VZ25542; ingress host alias: VZ25572; on-call rotation name: VZ25512.
+- Lars — rollback checkpoint: VZ03542; primary project codename: VZ03502; feature flag name: VZ03522; throttle bucket size: VZ03552; worker pool name: VZ03562; canary cohort name: VZ03532; on-call rotation name: VZ03512; ingress host alias: VZ03572; edge cache ttl: VZ03582; gpu reservation slot: VZ03592.
+- Felix — rollback checkpoint: VZ20542; primary project codename: VZ20502; throttle bucket size: VZ20552; edge cache ttl: VZ20582; ingress host alias: VZ20572; feature flag name: VZ20522; on-call rotation name: VZ20512; gpu reservation slot: VZ20592; worker pool name: VZ20562; canary cohort name: VZ20532.
+- Otto — primary project codename: VZ38502; rollback checkpoint: VZ38542; feature flag name: VZ38522; edge cache ttl: VZ38582; gpu reservation slot: VZ38592; worker pool name: VZ38562; ingress host alias: VZ38572; throttle bucket size: VZ38552; canary cohort name: VZ38532; on-call rotation name: VZ38512.
+- Sofia — ingress host alias: VZ08572; on-call rotation name: VZ08512; rollback checkpoint: VZ08542; gpu reservation slot: VZ08592; edge cache ttl: VZ08582; throttle bucket size: VZ08552; primary project codename: VZ08502; canary cohort name: VZ08532; worker pool name: VZ08562; feature flag name: VZ08522.
+- Hugo — worker pool name: VZ30562; feature flag name: VZ30522; ingress host alias: VZ30572; edge cache ttl: VZ30582; rollback checkpoint: VZ30542; on-call rotation name: VZ30512; primary project codename: VZ30502; gpu reservation slot: VZ30592; throttle bucket size: VZ30552; canary cohort name: VZ30532.
+- Lena — throttle bucket size: VZ15552; edge cache ttl: VZ15582; gpu reservation slot: VZ15592; ingress host alias: VZ15572; primary project codename: VZ15502; on-call rotation name: VZ15512; canary cohort name: VZ15532; rollback checkpoint: VZ15542; feature flag name: VZ15522; worker pool name: VZ15562.
+- Omar — worker pool name: VZ01562; canary cohort name: VZ01532; on-call rotation name: VZ01512; edge cache ttl: VZ01582; throttle bucket size: VZ01552; gpu reservation slot: VZ01592; rollback checkpoint: VZ01542; primary project codename: VZ01502; ingress host alias: VZ01572; feature flag name: VZ01522.
+- Priya — on-call rotation name: VZ02512; canary cohort name: VZ02532; ingress host alias: VZ02572; gpu reservation slot: VZ02592; rollback checkpoint: VZ02542; feature flag name: VZ02522; primary project codename: VZ02502; worker pool name: VZ02562; throttle bucket size: VZ02552; edge cache ttl: VZ02582.
+- Igor — feature flag name: VZ22522; rollback checkpoint: VZ22542; primary project codename: VZ22502; on-call rotation name: VZ22512; worker pool name: VZ22562; throttle bucket size: VZ22552; gpu reservation slot: VZ22592; ingress host alias: VZ22572; canary cohort name: VZ22532; edge cache ttl: VZ22582.
+- Anton — canary cohort name: VZ32532; feature flag name: VZ32522; throttle bucket size: VZ32552; edge cache ttl: VZ32582; worker pool name: VZ32562; on-call rotation name: VZ32512; rollback checkpoint: VZ32542; gpu reservation slot: VZ32592; primary project codename: VZ32502; ingress host alias: VZ32572.
+- Tomas — throttle bucket size: VZ05552; edge cache ttl: VZ05582; rollback checkpoint: VZ05542; primary project codename: VZ05502; canary cohort name: VZ05532; feature flag name: VZ05522; worker pool name: VZ05562; on-call rotation name: VZ05512; gpu reservation slot: VZ05592; ingress host alias: VZ05572.
+- Vera — edge cache ttl: VZ31582; feature flag name: VZ31522; gpu reservation slot: VZ31592; worker pool name: VZ31562; rollback checkpoint: VZ31542; on-call rotation name: VZ31512; canary cohort name: VZ31532; primary project codename: VZ31502; ingress host alias: VZ31572; throttle bucket size: VZ31552.
+- Ravi — edge cache ttl: VZ16582; on-call rotation name: VZ16512; feature flag name: VZ16522; worker pool name: VZ16562; canary cohort name: VZ16532; primary project codename: VZ16502; rollback checkpoint: VZ16542; throttle bucket size: VZ16552; ingress host alias: VZ16572; gpu reservation slot: VZ16592.
+- Petra — throttle bucket size: VZ23552; primary project codename: VZ23502; worker pool name: VZ23562; on-call rotation name: VZ23512; edge cache ttl: VZ23582; gpu reservation slot: VZ23592; canary cohort name: VZ23532; rollback checkpoint: VZ23542; feature flag name: VZ23522; ingress host alias: VZ23572.
+- A ticket was triaged and assigned to the right queue.
+- The channel was quiet except for a deploy notification.
+- Notes from the retro were mostly about process tweaks.
+- The weekly sync covered status with no decisions recorded.
+- Someone asked about timelines and got a rough estimate.
+- A pipeline retried a flaky step and then went green.
+- No named people, specific identifiers, numbers, code, or values were provided.
+- “cisions recorded.”

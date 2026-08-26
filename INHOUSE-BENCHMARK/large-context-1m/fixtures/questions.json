@@ -1,0 +1,2802 @@
+[
+  {
+    "kind": "Lena audit stream id",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Lena's audit stream id?",
+    "answer": "VZ15260",
+    "answer_list": null
+  },
+  {
+    "kind": "Igor secret vault mount",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Igor's secret vault mount?",
+    "answer": "VZ22160",
+    "answer_list": null
+  },
+  {
+    "kind": "Aisha audit stream id",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Aisha's audit stream id?",
+    "answer": "VZ06260",
+    "answer_list": null
+  },
+  {
+    "kind": "Mei staging dataset name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Mei's staging dataset name?",
+    "answer": "VZ04000",
+    "answer_list": null
+  },
+  {
+    "kind": "Dana output bucket name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Dana's output bucket name?",
+    "answer": "VZ00010",
+    "answer_list": null
+  },
+  {
+    "kind": "Bjorn output bucket name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Bjorn's output bucket name?",
+    "answer": "VZ18010",
+    "answer_list": null
+  },
+  {
+    "kind": "Sofia load test profile",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Sofia's load test profile?",
+    "answer": "VZ08180",
+    "answer_list": null
+  },
+  {
+    "kind": "Diego replica set tag",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Diego's replica set tag?",
+    "answer": "VZ14270",
+    "answer_list": null
+  },
+  {
+    "kind": "Petra metrics dashboard slug",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Petra's metrics dashboard slug?",
+    "answer": "VZ23070",
+    "answer_list": null
+  },
+  {
+    "kind": "Amara build pipeline id",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Amara's build pipeline id?",
+    "answer": "VZ19040",
+    "answer_list": null
+  },
+  {
+    "kind": "Zara queue partition name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Zara's queue partition name?",
+    "answer": "VZ21200",
+    "answer_list": null
+  },
+  {
+    "kind": "Bjorn reconciliation threshold",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Bjorn's reconciliation threshold?",
+    "answer": "VZ18020",
+    "answer_list": null
+  },
+  {
+    "kind": "Aisha load test profile",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Aisha's load test profile?",
+    "answer": "VZ06180",
+    "answer_list": null
+  },
+  {
+    "kind": "Maya storage class name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Maya's storage class name?",
+    "answer": "VZ37240",
+    "answer_list": null
+  },
+  {
+    "kind": "Kofi metrics dashboard slug",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Kofi's metrics dashboard slug?",
+    "answer": "VZ24070",
+    "answer_list": null
+  },
+  {
+    "kind": "Tomas preferred conference room",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Tomas's preferred conference room?",
+    "answer": "VZ05030",
+    "answer_list": null
+  },
+  {
+    "kind": "Lars load test profile",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Lars's load test profile?",
+    "answer": "VZ03180",
+    "answer_list": null
+  },
+  {
+    "kind": "Amara alert routing channel",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Amara's alert routing channel?",
+    "answer": "VZ19120",
+    "answer_list": null
+  },
+  {
+    "kind": "Rafael log retention days",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Rafael's log retention days?",
+    "answer": "VZ11110",
+    "answer_list": null
+  },
+  {
+    "kind": "Hana preferred conference room",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Hana's preferred conference room?",
+    "answer": "VZ13030",
+    "answer_list": null
+  },
+  {
+    "kind": "Diego output bucket name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Diego's output bucket name?",
+    "answer": "VZ14010",
+    "answer_list": null
+  },
+  {
+    "kind": "Bjorn config map key",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Bjorn's config map key?",
+    "answer": "VZ18230",
+    "answer_list": null
+  },
+  {
+    "kind": "Elsa trace sampler rate",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Elsa's trace sampler rate?",
+    "answer": "VZ25290",
+    "answer_list": null
+  },
+  {
+    "kind": "Aisha sprint board column",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Aisha's sprint board column?",
+    "answer": "VZ06130",
+    "answer_list": null
+  },
+  {
+    "kind": "Hugo service mesh cluster",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Hugo's service mesh cluster?",
+    "answer": "VZ30050",
+    "answer_list": null
+  },
+  {
+    "kind": "Iris cron schedule label",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Iris's cron schedule label?",
+    "answer": "VZ33210",
+    "answer_list": null
+  },
+  {
+    "kind": "Sven container registry path",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Sven's container registry path?",
+    "answer": "VZ28150",
+    "answer_list": null
+  },
+  {
+    "kind": "Sana service mesh cluster",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Sana's service mesh cluster?",
+    "answer": "VZ39050",
+    "answer_list": null
+  },
+  {
+    "kind": "Felix container registry path",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Felix's container registry path?",
+    "answer": "VZ20150",
+    "answer_list": null
+  },
+  {
+    "kind": "Aisha trace sampler rate",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Aisha's trace sampler rate?",
+    "answer": "VZ06290",
+    "answer_list": null
+  },
+  {
+    "kind": "Amara reconciliation threshold",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Amara's reconciliation threshold?",
+    "answer": "VZ19020",
+    "answer_list": null
+  },
+  {
+    "kind": "Nora metrics dashboard slug",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Nora's metrics dashboard slug?",
+    "answer": "VZ17070",
+    "answer_list": null
+  },
+  {
+    "kind": "Marco queue partition name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Marco's queue partition name?",
+    "answer": "VZ26200",
+    "answer_list": null
+  },
+  {
+    "kind": "Elsa alert routing channel",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Elsa's alert routing channel?",
+    "answer": "VZ25120",
+    "answer_list": null
+  },
+  {
+    "kind": "Omar reconciliation threshold",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Omar's reconciliation threshold?",
+    "answer": "VZ01020",
+    "answer_list": null
+  },
+  {
+    "kind": "Felix index shard key",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Felix's index shard key?",
+    "answer": "VZ20190",
+    "answer_list": null
+  },
+  {
+    "kind": "Vera backup vault suffix",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Vera's backup vault suffix?",
+    "answer": "VZ31280",
+    "answer_list": null
+  },
+  {
+    "kind": "Priya preferred conference room",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Priya's preferred conference room?",
+    "answer": "VZ02030",
+    "answer_list": null
+  },
+  {
+    "kind": "Kwame reconciliation threshold",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Kwame's reconciliation threshold?",
+    "answer": "VZ09020",
+    "answer_list": null
+  },
+  {
+    "kind": "Rafael api gateway route",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Rafael's api gateway route?",
+    "answer": "VZ11140",
+    "answer_list": null
+  },
+  {
+    "kind": "Aisha test fixture seed",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Aisha's test fixture seed?",
+    "answer": "VZ06100",
+    "answer_list": null
+  },
+  {
+    "kind": "Yuki config map key",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Yuki's config map key?",
+    "answer": "VZ12230",
+    "answer_list": null
+  },
+  {
+    "kind": "Cyrus backup vault suffix",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Cyrus's backup vault suffix?",
+    "answer": "VZ36280",
+    "answer_list": null
+  },
+  {
+    "kind": "Lars sprint board column",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Lars's sprint board column?",
+    "answer": "VZ03130",
+    "answer_list": null
+  },
+  {
+    "kind": "Freya batch window minutes",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Freya's batch window minutes?",
+    "answer": "VZ35220",
+    "answer_list": null
+  },
+  {
+    "kind": "Felix batch window minutes",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Felix's batch window minutes?",
+    "answer": "VZ20220",
+    "answer_list": null
+  },
+  {
+    "kind": "Anton batch window minutes",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Anton's batch window minutes?",
+    "answer": "VZ32220",
+    "answer_list": null
+  },
+  {
+    "kind": "Freya runbook document id",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Freya's runbook document id?",
+    "answer": "VZ35080",
+    "answer_list": null
+  },
+  {
+    "kind": "Omar cache namespace",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Omar's cache namespace?",
+    "answer": "VZ01060",
+    "answer_list": null
+  },
+  {
+    "kind": "Hana namespace quota label",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Hana's namespace quota label?",
+    "answer": "VZ13250",
+    "answer_list": null
+  },
+  {
+    "kind": "Dana queue partition name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Dana's queue partition name?",
+    "answer": "VZ00200",
+    "answer_list": null
+  },
+  {
+    "kind": "Kofi batch window minutes",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Kofi's batch window minutes?",
+    "answer": "VZ24220",
+    "answer_list": null
+  },
+  {
+    "kind": "Ravi queue partition name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Ravi's queue partition name?",
+    "answer": "VZ16200",
+    "answer_list": null
+  },
+  {
+    "kind": "Hana storage class name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Hana's storage class name?",
+    "answer": "VZ13240",
+    "answer_list": null
+  },
+  {
+    "kind": "Diego alert routing channel",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Diego's alert routing channel?",
+    "answer": "VZ14120",
+    "answer_list": null
+  },
+  {
+    "kind": "Ingrid config map key",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Ingrid's config map key?",
+    "answer": "VZ10230",
+    "answer_list": null
+  },
+  {
+    "kind": "Pablo preferred conference room",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Pablo's preferred conference room?",
+    "answer": "VZ34030",
+    "answer_list": null
+  },
+  {
+    "kind": "Hugo sprint board column",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Hugo's sprint board column?",
+    "answer": "VZ30130",
+    "answer_list": null
+  },
+  {
+    "kind": "Sofia alert routing channel",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Sofia's alert routing channel?",
+    "answer": "VZ08120",
+    "answer_list": null
+  },
+  {
+    "kind": "Pablo alert routing channel",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Pablo's alert routing channel?",
+    "answer": "VZ34120",
+    "answer_list": null
+  },
+  {
+    "kind": "Petra cron schedule label",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Petra's cron schedule label?",
+    "answer": "VZ23210",
+    "answer_list": null
+  },
+  {
+    "kind": "Dana container registry path",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Dana's container registry path?",
+    "answer": "VZ00150",
+    "answer_list": null
+  },
+  {
+    "kind": "Sana metrics dashboard slug",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Sana's metrics dashboard slug?",
+    "answer": "VZ39070",
+    "answer_list": null
+  },
+  {
+    "kind": "Bjorn cron schedule label",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Bjorn's cron schedule label?",
+    "answer": "VZ18210",
+    "answer_list": null
+  },
+  {
+    "kind": "Sofia cache namespace",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Sofia's cache namespace?",
+    "answer": "VZ08060",
+    "answer_list": null
+  },
+  {
+    "kind": "Petra backup vault suffix",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Petra's backup vault suffix?",
+    "answer": "VZ23280",
+    "answer_list": null
+  },
+  {
+    "kind": "Otto reconciliation threshold",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Otto's reconciliation threshold?",
+    "answer": "VZ38020",
+    "answer_list": null
+  },
+  {
+    "kind": "Elsa sprint board column",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Elsa's sprint board column?",
+    "answer": "VZ25130",
+    "answer_list": null
+  },
+  {
+    "kind": "Omar sprint board column",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Omar's sprint board column?",
+    "answer": "VZ01130",
+    "answer_list": null
+  },
+  {
+    "kind": "Maya queue partition name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Maya's queue partition name?",
+    "answer": "VZ37200",
+    "answer_list": null
+  },
+  {
+    "kind": "Cyrus storage class name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Cyrus's storage class name?",
+    "answer": "VZ36240",
+    "answer_list": null
+  },
+  {
+    "kind": "Aisha cron schedule label",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Aisha's cron schedule label?",
+    "answer": "VZ06210",
+    "answer_list": null
+  },
+  {
+    "kind": "Sofia preferred conference room",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Sofia's preferred conference room?",
+    "answer": "VZ08030",
+    "answer_list": null
+  },
+  {
+    "kind": "Marco log retention days",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Marco's log retention days?",
+    "answer": "VZ26110",
+    "answer_list": null
+  },
+  {
+    "kind": "Hana staging dataset name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Hana's staging dataset name?",
+    "answer": "VZ13000",
+    "answer_list": null
+  },
+  {
+    "kind": "Maya trace sampler rate",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Maya's trace sampler rate?",
+    "answer": "VZ37290",
+    "answer_list": null
+  },
+  {
+    "kind": "Rafael container registry path",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Rafael's container registry path?",
+    "answer": "VZ11150",
+    "answer_list": null
+  },
+  {
+    "kind": "Maya backup vault suffix",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Maya's backup vault suffix?",
+    "answer": "VZ37280",
+    "answer_list": null
+  },
+  {
+    "kind": "Amara metrics dashboard slug",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Amara's metrics dashboard slug?",
+    "answer": "VZ19070",
+    "answer_list": null
+  },
+  {
+    "kind": "Felix runbook document id",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Felix's runbook document id?",
+    "answer": "VZ20080",
+    "answer_list": null
+  },
+  {
+    "kind": "Lars sprint board column",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Lars's sprint board column?",
+    "answer": "VZ03130",
+    "answer_list": null
+  },
+  {
+    "kind": "Nora reconciliation threshold",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Nora's reconciliation threshold?",
+    "answer": "VZ17020",
+    "answer_list": null
+  },
+  {
+    "kind": "Felix index shard key",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Felix's index shard key?",
+    "answer": "VZ20190",
+    "answer_list": null
+  },
+  {
+    "kind": "Nadia api gateway route",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Nadia's api gateway route?",
+    "answer": "VZ27140",
+    "answer_list": null
+  },
+  {
+    "kind": "Yuki namespace quota label",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Yuki's namespace quota label?",
+    "answer": "VZ12250",
+    "answer_list": null
+  },
+  {
+    "kind": "Pablo index shard key",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Pablo's index shard key?",
+    "answer": "VZ34190",
+    "answer_list": null
+  },
+  {
+    "kind": "Sofia secret vault mount",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Sofia's secret vault mount?",
+    "answer": "VZ08160",
+    "answer_list": null
+  },
+  {
+    "kind": "Tomas log retention days",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Tomas's log retention days?",
+    "answer": "VZ05110",
+    "answer_list": null
+  },
+  {
+    "kind": "Cyrus cron schedule label",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Cyrus's cron schedule label?",
+    "answer": "VZ36210",
+    "answer_list": null
+  },
+  {
+    "kind": "Aisha batch window minutes",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Aisha's batch window minutes?",
+    "answer": "VZ06220",
+    "answer_list": null
+  },
+  {
+    "kind": "Otto storage class name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Otto's storage class name?",
+    "answer": "VZ38240",
+    "answer_list": null
+  },
+  {
+    "kind": "Iris trace sampler rate",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Iris's trace sampler rate?",
+    "answer": "VZ33290",
+    "answer_list": null
+  },
+  {
+    "kind": "Cyrus namespace quota label",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Cyrus's namespace quota label?",
+    "answer": "VZ36250",
+    "answer_list": null
+  },
+  {
+    "kind": "Lena service mesh cluster",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Lena's service mesh cluster?",
+    "answer": "VZ15050",
+    "answer_list": null
+  },
+  {
+    "kind": "Dana reconciliation threshold",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Dana's reconciliation threshold?",
+    "answer": "VZ00020",
+    "answer_list": null
+  },
+  {
+    "kind": "Sana deploy region code",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Sana's deploy region code?",
+    "answer": "VZ39090",
+    "answer_list": null
+  },
+  {
+    "kind": "Priya alert routing channel",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Priya's alert routing channel?",
+    "answer": "VZ02120",
+    "answer_list": null
+  },
+  {
+    "kind": "Kofi metrics dashboard slug",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Kofi's metrics dashboard slug?",
+    "answer": "VZ24070",
+    "answer_list": null
+  },
+  {
+    "kind": "Felix audit stream id",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Felix's audit stream id?",
+    "answer": "VZ20260",
+    "answer_list": null
+  },
+  {
+    "kind": "Leila queue partition name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Leila's queue partition name?",
+    "answer": "VZ29200",
+    "answer_list": null
+  },
+  {
+    "kind": "Dana namespace quota label",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Dana's namespace quota label?",
+    "answer": "VZ00250",
+    "answer_list": null
+  },
+  {
+    "kind": "Tomas namespace quota label",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Tomas's namespace quota label?",
+    "answer": "VZ05250",
+    "answer_list": null
+  },
+  {
+    "kind": "Zara backup vault suffix",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Zara's backup vault suffix?",
+    "answer": "VZ21280",
+    "answer_list": null
+  },
+  {
+    "kind": "Mei metrics dashboard slug",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Mei's metrics dashboard slug?",
+    "answer": "VZ04070",
+    "answer_list": null
+  },
+  {
+    "kind": "Pablo schema migration tag",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Pablo's schema migration tag?",
+    "answer": "VZ34170",
+    "answer_list": null
+  },
+  {
+    "kind": "Kofi load test profile",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Kofi's load test profile?",
+    "answer": "VZ24180",
+    "answer_list": null
+  },
+  {
+    "kind": "Maya schema migration tag",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Maya's schema migration tag?",
+    "answer": "VZ37170",
+    "answer_list": null
+  },
+  {
+    "kind": "Leila service mesh cluster",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Leila's service mesh cluster?",
+    "answer": "VZ29050",
+    "answer_list": null
+  },
+  {
+    "kind": "Elsa metrics dashboard slug",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Elsa's metrics dashboard slug?",
+    "answer": "VZ25070",
+    "answer_list": null
+  },
+  {
+    "kind": "Sana batch window minutes",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Sana's batch window minutes?",
+    "answer": "VZ39220",
+    "answer_list": null
+  },
+  {
+    "kind": "Zara cache namespace",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Zara's cache namespace?",
+    "answer": "VZ21060",
+    "answer_list": null
+  },
+  {
+    "kind": "Kofi alert routing channel",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Kofi's alert routing channel?",
+    "answer": "VZ24120",
+    "answer_list": null
+  },
+  {
+    "kind": "Nadia replica set tag",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Nadia's replica set tag?",
+    "answer": "VZ27270",
+    "answer_list": null
+  },
+  {
+    "kind": "Hugo test fixture seed",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Hugo's test fixture seed?",
+    "answer": "VZ30100",
+    "answer_list": null
+  },
+  {
+    "kind": "Ingrid api gateway route",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Ingrid's api gateway route?",
+    "answer": "VZ10140",
+    "answer_list": null
+  },
+  {
+    "kind": "Cyrus replica set tag",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Cyrus's replica set tag?",
+    "answer": "VZ36270",
+    "answer_list": null
+  },
+  {
+    "kind": "Anton runbook document id",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Anton's runbook document id?",
+    "answer": "VZ32080",
+    "answer_list": null
+  },
+  {
+    "kind": "Nora queue partition name",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Nora's queue partition name?",
+    "answer": "VZ17200",
+    "answer_list": null
+  },
+  {
+    "kind": "Tomas deploy region code",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Tomas's deploy region code?",
+    "answer": "VZ05090",
+    "answer_list": null
+  },
+  {
+    "kind": "Sana test fixture seed",
+    "type": "FACT",
+    "score": "contains",
+    "question": "What is Sana's test fixture seed?",
+    "answer": "VZ39100",
+    "answer_list": null
+  },
+  {
+    "kind": "Felix throttle bucket size",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Felix's current throttle bucket size?",
+    "answer": "VZ20552",
+    "answer_list": null
+  },
+  {
+    "kind": "Yuki gpu reservation slot",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Yuki's current gpu reservation slot?",
+    "answer": "VZ12592",
+    "answer_list": null
+  },
+  {
+    "kind": "Aisha feature flag name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Aisha's current feature flag name?",
+    "answer": "VZ06522",
+    "answer_list": null
+  },
+  {
+    "kind": "Dana feature flag name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Dana's current feature flag name?",
+    "answer": "VZ00522",
+    "answer_list": null
+  },
+  {
+    "kind": "Leila worker pool name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Leila's current worker pool name?",
+    "answer": "VZ29562",
+    "answer_list": null
+  },
+  {
+    "kind": "Nora gpu reservation slot",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Nora's current gpu reservation slot?",
+    "answer": "VZ17592",
+    "answer_list": null
+  },
+  {
+    "kind": "Sofia primary project codename",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Sofia's current primary project codename?",
+    "answer": "VZ08502",
+    "answer_list": null
+  },
+  {
+    "kind": "Priya canary cohort name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Priya's current canary cohort name?",
+    "answer": "VZ02532",
+    "answer_list": null
+  },
+  {
+    "kind": "Felix on-call rotation name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Felix's current on-call rotation name?",
+    "answer": "VZ20512",
+    "answer_list": null
+  },
+  {
+    "kind": "Maya gpu reservation slot",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Maya's current gpu reservation slot?",
+    "answer": "VZ37592",
+    "answer_list": null
+  },
+  {
+    "kind": "Bjorn canary cohort name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Bjorn's current canary cohort name?",
+    "answer": "VZ18532",
+    "answer_list": null
+  },
+  {
+    "kind": "Marco on-call rotation name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Marco's current on-call rotation name?",
+    "answer": "VZ26512",
+    "answer_list": null
+  },
+  {
+    "kind": "Freya canary cohort name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Freya's current canary cohort name?",
+    "answer": "VZ35532",
+    "answer_list": null
+  },
+  {
+    "kind": "Diego gpu reservation slot",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Diego's current gpu reservation slot?",
+    "answer": "VZ14592",
+    "answer_list": null
+  },
+  {
+    "kind": "Sofia on-call rotation name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Sofia's current on-call rotation name?",
+    "answer": "VZ08512",
+    "answer_list": null
+  },
+  {
+    "kind": "Amara throttle bucket size",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Amara's current throttle bucket size?",
+    "answer": "VZ19552",
+    "answer_list": null
+  },
+  {
+    "kind": "Zara edge cache ttl",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Zara's current edge cache ttl?",
+    "answer": "VZ21582",
+    "answer_list": null
+  },
+  {
+    "kind": "Iris feature flag name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Iris's current feature flag name?",
+    "answer": "VZ33522",
+    "answer_list": null
+  },
+  {
+    "kind": "Tomas gpu reservation slot",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Tomas's current gpu reservation slot?",
+    "answer": "VZ05592",
+    "answer_list": null
+  },
+  {
+    "kind": "Igor on-call rotation name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Igor's current on-call rotation name?",
+    "answer": "VZ22512",
+    "answer_list": null
+  },
+  {
+    "kind": "Diego worker pool name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Diego's current worker pool name?",
+    "answer": "VZ14562",
+    "answer_list": null
+  },
+  {
+    "kind": "Omar worker pool name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Omar's current worker pool name?",
+    "answer": "VZ01562",
+    "answer_list": null
+  },
+  {
+    "kind": "Sana feature flag name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Sana's current feature flag name?",
+    "answer": "VZ39522",
+    "answer_list": null
+  },
+  {
+    "kind": "Leila on-call rotation name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Leila's current on-call rotation name?",
+    "answer": "VZ29512",
+    "answer_list": null
+  },
+  {
+    "kind": "Sven edge cache ttl",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Sven's current edge cache ttl?",
+    "answer": "VZ28582",
+    "answer_list": null
+  },
+  {
+    "kind": "Ravi throttle bucket size",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Ravi's current throttle bucket size?",
+    "answer": "VZ16552",
+    "answer_list": null
+  },
+  {
+    "kind": "Hana rollback checkpoint",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Hana's current rollback checkpoint?",
+    "answer": "VZ13542",
+    "answer_list": null
+  },
+  {
+    "kind": "Ravi ingress host alias",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Ravi's current ingress host alias?",
+    "answer": "VZ16572",
+    "answer_list": null
+  },
+  {
+    "kind": "Aisha rollback checkpoint",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Aisha's current rollback checkpoint?",
+    "answer": "VZ06542",
+    "answer_list": null
+  },
+  {
+    "kind": "Igor primary project codename",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Igor's current primary project codename?",
+    "answer": "VZ22502",
+    "answer_list": null
+  },
+  {
+    "kind": "Tomas gpu reservation slot",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Tomas's current gpu reservation slot?",
+    "answer": "VZ05592",
+    "answer_list": null
+  },
+  {
+    "kind": "Amara rollback checkpoint",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Amara's current rollback checkpoint?",
+    "answer": "VZ19542",
+    "answer_list": null
+  },
+  {
+    "kind": "Priya rollback checkpoint",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Priya's current rollback checkpoint?",
+    "answer": "VZ02542",
+    "answer_list": null
+  },
+  {
+    "kind": "Felix gpu reservation slot",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Felix's current gpu reservation slot?",
+    "answer": "VZ20592",
+    "answer_list": null
+  },
+  {
+    "kind": "Hana ingress host alias",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Hana's current ingress host alias?",
+    "answer": "VZ13572",
+    "answer_list": null
+  },
+  {
+    "kind": "Maya edge cache ttl",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Maya's current edge cache ttl?",
+    "answer": "VZ37582",
+    "answer_list": null
+  },
+  {
+    "kind": "Marco edge cache ttl",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Marco's current edge cache ttl?",
+    "answer": "VZ26582",
+    "answer_list": null
+  },
+  {
+    "kind": "Hana gpu reservation slot",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Hana's current gpu reservation slot?",
+    "answer": "VZ13592",
+    "answer_list": null
+  },
+  {
+    "kind": "Rafael primary project codename",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Rafael's current primary project codename?",
+    "answer": "VZ11502",
+    "answer_list": null
+  },
+  {
+    "kind": "Sofia canary cohort name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Sofia's current canary cohort name?",
+    "answer": "VZ08532",
+    "answer_list": null
+  },
+  {
+    "kind": "Kwame throttle bucket size",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Kwame's current throttle bucket size?",
+    "answer": "VZ09552",
+    "answer_list": null
+  },
+  {
+    "kind": "Zara throttle bucket size",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Zara's current throttle bucket size?",
+    "answer": "VZ21552",
+    "answer_list": null
+  },
+  {
+    "kind": "Petra rollback checkpoint",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Petra's current rollback checkpoint?",
+    "answer": "VZ23542",
+    "answer_list": null
+  },
+  {
+    "kind": "Otto feature flag name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Otto's current feature flag name?",
+    "answer": "VZ38522",
+    "answer_list": null
+  },
+  {
+    "kind": "Cyrus primary project codename",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Cyrus's current primary project codename?",
+    "answer": "VZ36502",
+    "answer_list": null
+  },
+  {
+    "kind": "Felix primary project codename",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Felix's current primary project codename?",
+    "answer": "VZ20502",
+    "answer_list": null
+  },
+  {
+    "kind": "Petra gpu reservation slot",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Petra's current gpu reservation slot?",
+    "answer": "VZ23592",
+    "answer_list": null
+  },
+  {
+    "kind": "Mei canary cohort name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Mei's current canary cohort name?",
+    "answer": "VZ04532",
+    "answer_list": null
+  },
+  {
+    "kind": "Dana worker pool name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Dana's current worker pool name?",
+    "answer": "VZ00562",
+    "answer_list": null
+  },
+  {
+    "kind": "Yuki gpu reservation slot",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Yuki's current gpu reservation slot?",
+    "answer": "VZ12592",
+    "answer_list": null
+  },
+  {
+    "kind": "Lars worker pool name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Lars's current worker pool name?",
+    "answer": "VZ03562",
+    "answer_list": null
+  },
+  {
+    "kind": "Freya edge cache ttl",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Freya's current edge cache ttl?",
+    "answer": "VZ35582",
+    "answer_list": null
+  },
+  {
+    "kind": "Anton canary cohort name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Anton's current canary cohort name?",
+    "answer": "VZ32532",
+    "answer_list": null
+  },
+  {
+    "kind": "Rafael ingress host alias",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Rafael's current ingress host alias?",
+    "answer": "VZ11572",
+    "answer_list": null
+  },
+  {
+    "kind": "Igor edge cache ttl",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Igor's current edge cache ttl?",
+    "answer": "VZ22582",
+    "answer_list": null
+  },
+  {
+    "kind": "Anton feature flag name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Anton's current feature flag name?",
+    "answer": "VZ32522",
+    "answer_list": null
+  },
+  {
+    "kind": "Rafael edge cache ttl",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Rafael's current edge cache ttl?",
+    "answer": "VZ11582",
+    "answer_list": null
+  },
+  {
+    "kind": "Otto on-call rotation name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Otto's current on-call rotation name?",
+    "answer": "VZ38512",
+    "answer_list": null
+  },
+  {
+    "kind": "Omar rollback checkpoint",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Omar's current rollback checkpoint?",
+    "answer": "VZ01542",
+    "answer_list": null
+  },
+  {
+    "kind": "Maya on-call rotation name",
+    "type": "CURRENT",
+    "score": "contains",
+    "question": "What is Maya's current on-call rotation name?",
+    "answer": "VZ37512",
+    "answer_list": null
+  },
+  {
+    "kind": "Rafael canary cohort name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Rafael's canary cohort name immediately before the most recent change?",
+    "answer": "VZ11531",
+    "answer_list": null
+  },
+  {
+    "kind": "Diego gpu reservation slot",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Diego's gpu reservation slot immediately before the most recent change?",
+    "answer": "VZ14591",
+    "answer_list": null
+  },
+  {
+    "kind": "Priya on-call rotation name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Priya's on-call rotation name immediately before the most recent change?",
+    "answer": "VZ02511",
+    "answer_list": null
+  },
+  {
+    "kind": "Ingrid on-call rotation name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Ingrid's on-call rotation name immediately before the most recent change?",
+    "answer": "VZ10511",
+    "answer_list": null
+  },
+  {
+    "kind": "Sofia canary cohort name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Sofia's canary cohort name immediately before the most recent change?",
+    "answer": "VZ08531",
+    "answer_list": null
+  },
+  {
+    "kind": "Sven worker pool name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Sven's worker pool name immediately before the most recent change?",
+    "answer": "VZ28561",
+    "answer_list": null
+  },
+  {
+    "kind": "Diego rollback checkpoint",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Diego's rollback checkpoint immediately before the most recent change?",
+    "answer": "VZ14541",
+    "answer_list": null
+  },
+  {
+    "kind": "Omar gpu reservation slot",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Omar's gpu reservation slot immediately before the most recent change?",
+    "answer": "VZ01591",
+    "answer_list": null
+  },
+  {
+    "kind": "Cyrus canary cohort name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Cyrus's canary cohort name immediately before the most recent change?",
+    "answer": "VZ36531",
+    "answer_list": null
+  },
+  {
+    "kind": "Freya feature flag name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Freya's feature flag name immediately before the most recent change?",
+    "answer": "VZ35521",
+    "answer_list": null
+  },
+  {
+    "kind": "Igor ingress host alias",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Igor's ingress host alias immediately before the most recent change?",
+    "answer": "VZ22571",
+    "answer_list": null
+  },
+  {
+    "kind": "Rafael edge cache ttl",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Rafael's edge cache ttl immediately before the most recent change?",
+    "answer": "VZ11581",
+    "answer_list": null
+  },
+  {
+    "kind": "Kwame throttle bucket size",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Kwame's throttle bucket size immediately before the most recent change?",
+    "answer": "VZ09551",
+    "answer_list": null
+  },
+  {
+    "kind": "Otto on-call rotation name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Otto's on-call rotation name immediately before the most recent change?",
+    "answer": "VZ38511",
+    "answer_list": null
+  },
+  {
+    "kind": "Sana primary project codename",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Sana's primary project codename immediately before the most recent change?",
+    "answer": "VZ39501",
+    "answer_list": null
+  },
+  {
+    "kind": "Nora worker pool name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Nora's worker pool name immediately before the most recent change?",
+    "answer": "VZ17561",
+    "answer_list": null
+  },
+  {
+    "kind": "Igor primary project codename",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Igor's primary project codename immediately before the most recent change?",
+    "answer": "VZ22501",
+    "answer_list": null
+  },
+  {
+    "kind": "Anton throttle bucket size",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Anton's throttle bucket size immediately before the most recent change?",
+    "answer": "VZ32551",
+    "answer_list": null
+  },
+  {
+    "kind": "Ravi worker pool name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Ravi's worker pool name immediately before the most recent change?",
+    "answer": "VZ16561",
+    "answer_list": null
+  },
+  {
+    "kind": "Ravi feature flag name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Ravi's feature flag name immediately before the most recent change?",
+    "answer": "VZ16521",
+    "answer_list": null
+  },
+  {
+    "kind": "Freya ingress host alias",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Freya's ingress host alias immediately before the most recent change?",
+    "answer": "VZ35571",
+    "answer_list": null
+  },
+  {
+    "kind": "Igor ingress host alias",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Igor's ingress host alias immediately before the most recent change?",
+    "answer": "VZ22571",
+    "answer_list": null
+  },
+  {
+    "kind": "Zara throttle bucket size",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Zara's throttle bucket size immediately before the most recent change?",
+    "answer": "VZ21551",
+    "answer_list": null
+  },
+  {
+    "kind": "Ravi throttle bucket size",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Ravi's throttle bucket size immediately before the most recent change?",
+    "answer": "VZ16551",
+    "answer_list": null
+  },
+  {
+    "kind": "Omar gpu reservation slot",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Omar's gpu reservation slot immediately before the most recent change?",
+    "answer": "VZ01591",
+    "answer_list": null
+  },
+  {
+    "kind": "Amara worker pool name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Amara's worker pool name immediately before the most recent change?",
+    "answer": "VZ19561",
+    "answer_list": null
+  },
+  {
+    "kind": "Tomas feature flag name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Tomas's feature flag name immediately before the most recent change?",
+    "answer": "VZ05521",
+    "answer_list": null
+  },
+  {
+    "kind": "Nora edge cache ttl",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Nora's edge cache ttl immediately before the most recent change?",
+    "answer": "VZ17581",
+    "answer_list": null
+  },
+  {
+    "kind": "Mei on-call rotation name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Mei's on-call rotation name immediately before the most recent change?",
+    "answer": "VZ04511",
+    "answer_list": null
+  },
+  {
+    "kind": "Kofi edge cache ttl",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Kofi's edge cache ttl immediately before the most recent change?",
+    "answer": "VZ24581",
+    "answer_list": null
+  },
+  {
+    "kind": "Rafael ingress host alias",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Rafael's ingress host alias immediately before the most recent change?",
+    "answer": "VZ11571",
+    "answer_list": null
+  },
+  {
+    "kind": "Ravi on-call rotation name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Ravi's on-call rotation name immediately before the most recent change?",
+    "answer": "VZ16511",
+    "answer_list": null
+  },
+  {
+    "kind": "Hugo gpu reservation slot",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Hugo's gpu reservation slot immediately before the most recent change?",
+    "answer": "VZ30591",
+    "answer_list": null
+  },
+  {
+    "kind": "Mei canary cohort name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Mei's canary cohort name immediately before the most recent change?",
+    "answer": "VZ04531",
+    "answer_list": null
+  },
+  {
+    "kind": "Vera feature flag name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Vera's feature flag name immediately before the most recent change?",
+    "answer": "VZ31521",
+    "answer_list": null
+  },
+  {
+    "kind": "Hana gpu reservation slot",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Hana's gpu reservation slot immediately before the most recent change?",
+    "answer": "VZ13591",
+    "answer_list": null
+  },
+  {
+    "kind": "Petra gpu reservation slot",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Petra's gpu reservation slot immediately before the most recent change?",
+    "answer": "VZ23591",
+    "answer_list": null
+  },
+  {
+    "kind": "Omar throttle bucket size",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Omar's throttle bucket size immediately before the most recent change?",
+    "answer": "VZ01551",
+    "answer_list": null
+  },
+  {
+    "kind": "Amara throttle bucket size",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Amara's throttle bucket size immediately before the most recent change?",
+    "answer": "VZ19551",
+    "answer_list": null
+  },
+  {
+    "kind": "Aisha feature flag name",
+    "type": "PREVIOUS",
+    "score": "contains",
+    "question": "What was Aisha's feature flag name immediately before the most recent change?",
+    "answer": "VZ06521",
+    "answer_list": null
+  },
+  {
+    "kind": "Sofia worker pool name",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Sofia's worker pool name has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ08560",
+      "VZ08561",
+      "VZ08562"
+    ]
+  },
+  {
+    "kind": "Diego edge cache ttl",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Diego's edge cache ttl has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ14580",
+      "VZ14581",
+      "VZ14582"
+    ]
+  },
+  {
+    "kind": "Mei worker pool name",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Mei's worker pool name has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ04560",
+      "VZ04561",
+      "VZ04562"
+    ]
+  },
+  {
+    "kind": "Petra rollback checkpoint",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Petra's rollback checkpoint has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ23540",
+      "VZ23541",
+      "VZ23542"
+    ]
+  },
+  {
+    "kind": "Dana ingress host alias",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Dana's ingress host alias has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ00570",
+      "VZ00571",
+      "VZ00572"
+    ]
+  },
+  {
+    "kind": "Nora primary project codename",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Nora's primary project codename has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ17500",
+      "VZ17501",
+      "VZ17502"
+    ]
+  },
+  {
+    "kind": "Ingrid throttle bucket size",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Ingrid's throttle bucket size has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ10550",
+      "VZ10551",
+      "VZ10552"
+    ]
+  },
+  {
+    "kind": "Kofi feature flag name",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Kofi's feature flag name has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ24520",
+      "VZ24521",
+      "VZ24522"
+    ]
+  },
+  {
+    "kind": "Leila feature flag name",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Leila's feature flag name has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ29520",
+      "VZ29521",
+      "VZ29522"
+    ]
+  },
+  {
+    "kind": "Bjorn worker pool name",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Bjorn's worker pool name has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ18560",
+      "VZ18561",
+      "VZ18562"
+    ]
+  },
+  {
+    "kind": "Dana primary project codename",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Dana's primary project codename has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ00500",
+      "VZ00501",
+      "VZ00502"
+    ]
+  },
+  {
+    "kind": "Cyrus worker pool name",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Cyrus's worker pool name has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ36560",
+      "VZ36561",
+      "VZ36562"
+    ]
+  },
+  {
+    "kind": "Diego throttle bucket size",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Diego's throttle bucket size has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ14550",
+      "VZ14551",
+      "VZ14552"
+    ]
+  },
+  {
+    "kind": "Maya ingress host alias",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Maya's ingress host alias has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ37570",
+      "VZ37571",
+      "VZ37572"
+    ]
+  },
+  {
+    "kind": "Amara throttle bucket size",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Amara's throttle bucket size has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ19550",
+      "VZ19551",
+      "VZ19552"
+    ]
+  },
+  {
+    "kind": "Felix rollback checkpoint",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Felix's rollback checkpoint has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ20540",
+      "VZ20541",
+      "VZ20542"
+    ]
+  },
+  {
+    "kind": "Iris rollback checkpoint",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Iris's rollback checkpoint has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ33540",
+      "VZ33541",
+      "VZ33542"
+    ]
+  },
+  {
+    "kind": "Diego feature flag name",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Diego's feature flag name has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ14520",
+      "VZ14521",
+      "VZ14522"
+    ]
+  },
+  {
+    "kind": "Nikolai rollback checkpoint",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Nikolai's rollback checkpoint has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ07540",
+      "VZ07541",
+      "VZ07542"
+    ]
+  },
+  {
+    "kind": "Rafael on-call rotation name",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Rafael's on-call rotation name has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ11510",
+      "VZ11511",
+      "VZ11512"
+    ]
+  },
+  {
+    "kind": "Petra rollback checkpoint",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Petra's rollback checkpoint has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ23540",
+      "VZ23541",
+      "VZ23542"
+    ]
+  },
+  {
+    "kind": "Diego on-call rotation name",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Diego's on-call rotation name has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ14510",
+      "VZ14511",
+      "VZ14512"
+    ]
+  },
+  {
+    "kind": "Ravi canary cohort name",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Ravi's canary cohort name has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ16530",
+      "VZ16531",
+      "VZ16532"
+    ]
+  },
+  {
+    "kind": "Bjorn feature flag name",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Bjorn's feature flag name has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ18520",
+      "VZ18521",
+      "VZ18522"
+    ]
+  },
+  {
+    "kind": "Tomas ingress host alias",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Tomas's ingress host alias has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ05570",
+      "VZ05571",
+      "VZ05572"
+    ]
+  },
+  {
+    "kind": "Nikolai rollback checkpoint",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Nikolai's rollback checkpoint has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ07540",
+      "VZ07541",
+      "VZ07542"
+    ]
+  },
+  {
+    "kind": "Vera on-call rotation name",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Vera's on-call rotation name has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ31510",
+      "VZ31511",
+      "VZ31512"
+    ]
+  },
+  {
+    "kind": "Anton gpu reservation slot",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Anton's gpu reservation slot has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ32590",
+      "VZ32591",
+      "VZ32592"
+    ]
+  },
+  {
+    "kind": "Sana rollback checkpoint",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Sana's rollback checkpoint has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ39540",
+      "VZ39541",
+      "VZ39542"
+    ]
+  },
+  {
+    "kind": "Tomas canary cohort name",
+    "type": "EVOLUTION",
+    "score": "contains_all",
+    "question": "List every value Tomas's canary cohort name has had, oldest to newest.",
+    "answer": null,
+    "answer_list": [
+      "VZ05530",
+      "VZ05531",
+      "VZ05532"
+    ]
+  },
+  {
+    "kind": "Mei reconciliation threshold+container registry path",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Mei's reconciliation threshold and their container registry path.",
+    "answer": null,
+    "answer_list": [
+      "VZ04020",
+      "VZ04150"
+    ]
+  },
+  {
+    "kind": "Priya cache namespace+log retention days",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Priya's cache namespace and their log retention days.",
+    "answer": null,
+    "answer_list": [
+      "VZ02060",
+      "VZ02110"
+    ]
+  },
+  {
+    "kind": "Anton load test profile+audit stream id",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Anton's load test profile and their audit stream id.",
+    "answer": null,
+    "answer_list": [
+      "VZ32180",
+      "VZ32260"
+    ]
+  },
+  {
+    "kind": "Freya preferred conference room+service mesh cluster",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Freya's preferred conference room and their service mesh cluster.",
+    "answer": null,
+    "answer_list": [
+      "VZ35030",
+      "VZ35050"
+    ]
+  },
+  {
+    "kind": "Sven secret vault mount+queue partition name",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Sven's secret vault mount and their queue partition name.",
+    "answer": null,
+    "answer_list": [
+      "VZ28160",
+      "VZ28200"
+    ]
+  },
+  {
+    "kind": "Hana output bucket name+load test profile",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Hana's output bucket name and their load test profile.",
+    "answer": null,
+    "answer_list": [
+      "VZ13010",
+      "VZ13180"
+    ]
+  },
+  {
+    "kind": "Kwame load test profile+cron schedule label",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Kwame's load test profile and their cron schedule label.",
+    "answer": null,
+    "answer_list": [
+      "VZ09180",
+      "VZ09210"
+    ]
+  },
+  {
+    "kind": "Lena runbook document id+test fixture seed",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Lena's runbook document id and their test fixture seed.",
+    "answer": null,
+    "answer_list": [
+      "VZ15080",
+      "VZ15100"
+    ]
+  },
+  {
+    "kind": "Aisha staging dataset name+sprint board column",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Aisha's staging dataset name and their sprint board column.",
+    "answer": null,
+    "answer_list": [
+      "VZ06000",
+      "VZ06130"
+    ]
+  },
+  {
+    "kind": "Priya audit stream id+metrics dashboard slug",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Priya's audit stream id and their metrics dashboard slug.",
+    "answer": null,
+    "answer_list": [
+      "VZ02260",
+      "VZ02070"
+    ]
+  },
+  {
+    "kind": "Otto sprint board column+reconciliation threshold",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Otto's sprint board column and their reconciliation threshold.",
+    "answer": null,
+    "answer_list": [
+      "VZ38130",
+      "VZ38020"
+    ]
+  },
+  {
+    "kind": "Hugo build pipeline id+preferred conference room",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Hugo's build pipeline id and their preferred conference room.",
+    "answer": null,
+    "answer_list": [
+      "VZ30040",
+      "VZ30030"
+    ]
+  },
+  {
+    "kind": "Ravi preferred conference room+cache namespace",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Ravi's preferred conference room and their cache namespace.",
+    "answer": null,
+    "answer_list": [
+      "VZ16030",
+      "VZ16060"
+    ]
+  },
+  {
+    "kind": "Rafael container registry path+staging dataset name",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Rafael's container registry path and their staging dataset name.",
+    "answer": null,
+    "answer_list": [
+      "VZ11150",
+      "VZ11000"
+    ]
+  },
+  {
+    "kind": "Amara load test profile+audit stream id",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Amara's load test profile and their audit stream id.",
+    "answer": null,
+    "answer_list": [
+      "VZ19180",
+      "VZ19260"
+    ]
+  },
+  {
+    "kind": "Sven config map key+container registry path",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Sven's config map key and their container registry path.",
+    "answer": null,
+    "answer_list": [
+      "VZ28230",
+      "VZ28150"
+    ]
+  },
+  {
+    "kind": "Kwame namespace quota label+secret vault mount",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Kwame's namespace quota label and their secret vault mount.",
+    "answer": null,
+    "answer_list": [
+      "VZ09250",
+      "VZ09160"
+    ]
+  },
+  {
+    "kind": "Tomas audit stream id+namespace quota label",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Tomas's audit stream id and their namespace quota label.",
+    "answer": null,
+    "answer_list": [
+      "VZ05260",
+      "VZ05250"
+    ]
+  },
+  {
+    "kind": "Nora batch window minutes+metrics dashboard slug",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Nora's batch window minutes and their metrics dashboard slug.",
+    "answer": null,
+    "answer_list": [
+      "VZ17220",
+      "VZ17070"
+    ]
+  },
+  {
+    "kind": "Hana cache namespace+queue partition name",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Hana's cache namespace and their queue partition name.",
+    "answer": null,
+    "answer_list": [
+      "VZ13060",
+      "VZ13200"
+    ]
+  },
+  {
+    "kind": "Igor queue partition name+backup vault suffix",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Igor's queue partition name and their backup vault suffix.",
+    "answer": null,
+    "answer_list": [
+      "VZ22200",
+      "VZ22280"
+    ]
+  },
+  {
+    "kind": "Iris reconciliation threshold+service mesh cluster",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Iris's reconciliation threshold and their service mesh cluster.",
+    "answer": null,
+    "answer_list": [
+      "VZ33020",
+      "VZ33050"
+    ]
+  },
+  {
+    "kind": "Hugo reconciliation threshold+sprint board column",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Hugo's reconciliation threshold and their sprint board column.",
+    "answer": null,
+    "answer_list": [
+      "VZ30020",
+      "VZ30130"
+    ]
+  },
+  {
+    "kind": "Aisha preferred conference room+service mesh cluster",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Aisha's preferred conference room and their service mesh cluster.",
+    "answer": null,
+    "answer_list": [
+      "VZ06030",
+      "VZ06050"
+    ]
+  },
+  {
+    "kind": "Anton alert routing channel+audit stream id",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Anton's alert routing channel and their audit stream id.",
+    "answer": null,
+    "answer_list": [
+      "VZ32120",
+      "VZ32260"
+    ]
+  },
+  {
+    "kind": "Anton schema migration tag+service mesh cluster",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Anton's schema migration tag and their service mesh cluster.",
+    "answer": null,
+    "answer_list": [
+      "VZ32170",
+      "VZ32050"
+    ]
+  },
+  {
+    "kind": "Maya staging dataset name+sprint board column",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Maya's staging dataset name and their sprint board column.",
+    "answer": null,
+    "answer_list": [
+      "VZ37000",
+      "VZ37130"
+    ]
+  },
+  {
+    "kind": "Aisha log retention days+backup vault suffix",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Aisha's log retention days and their backup vault suffix.",
+    "answer": null,
+    "answer_list": [
+      "VZ06110",
+      "VZ06280"
+    ]
+  },
+  {
+    "kind": "Iris api gateway route+log retention days",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Iris's api gateway route and their log retention days.",
+    "answer": null,
+    "answer_list": [
+      "VZ33140",
+      "VZ33110"
+    ]
+  },
+  {
+    "kind": "Dana sprint board column+config map key",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Dana's sprint board column and their config map key.",
+    "answer": null,
+    "answer_list": [
+      "VZ00130",
+      "VZ00230"
+    ]
+  },
+  {
+    "kind": "Bjorn alert routing channel+batch window minutes",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Bjorn's alert routing channel and their batch window minutes.",
+    "answer": null,
+    "answer_list": [
+      "VZ18120",
+      "VZ18220"
+    ]
+  },
+  {
+    "kind": "Priya reconciliation threshold+namespace quota label",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Priya's reconciliation threshold and their namespace quota label.",
+    "answer": null,
+    "answer_list": [
+      "VZ02020",
+      "VZ02250"
+    ]
+  },
+  {
+    "kind": "Kofi test fixture seed+replica set tag",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Kofi's test fixture seed and their replica set tag.",
+    "answer": null,
+    "answer_list": [
+      "VZ24100",
+      "VZ24270"
+    ]
+  },
+  {
+    "kind": "Kofi service mesh cluster+sprint board column",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Kofi's service mesh cluster and their sprint board column.",
+    "answer": null,
+    "answer_list": [
+      "VZ24050",
+      "VZ24130"
+    ]
+  },
+  {
+    "kind": "Kofi api gateway route+load test profile",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Kofi's api gateway route and their load test profile.",
+    "answer": null,
+    "answer_list": [
+      "VZ24140",
+      "VZ24180"
+    ]
+  },
+  {
+    "kind": "Sana container registry path+test fixture seed",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Sana's container registry path and their test fixture seed.",
+    "answer": null,
+    "answer_list": [
+      "VZ39150",
+      "VZ39100"
+    ]
+  },
+  {
+    "kind": "Maya deploy region code+test fixture seed",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Maya's deploy region code and their test fixture seed.",
+    "answer": null,
+    "answer_list": [
+      "VZ37090",
+      "VZ37100"
+    ]
+  },
+  {
+    "kind": "Bjorn metrics dashboard slug+storage class name",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Bjorn's metrics dashboard slug and their storage class name.",
+    "answer": null,
+    "answer_list": [
+      "VZ18070",
+      "VZ18240"
+    ]
+  },
+  {
+    "kind": "Nora staging dataset name+alert routing channel",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Nora's staging dataset name and their alert routing channel.",
+    "answer": null,
+    "answer_list": [
+      "VZ17000",
+      "VZ17120"
+    ]
+  },
+  {
+    "kind": "Ingrid trace sampler rate+sprint board column",
+    "type": "MULTIHOP",
+    "score": "contains_all",
+    "question": "State both Ingrid's trace sampler rate and their sprint board column.",
+    "answer": null,
+    "answer_list": [
+      "VZ10290",
+      "VZ10130"
+    ]
+  },
+  {
+    "kind": "Sana hardware asset tag",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Sana's hardware asset tag?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Cyrus hardware asset tag",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Cyrus's hardware asset tag?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Amara travel per diem cap",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Amara's travel per diem cap?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Otto kerberos realm name",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Otto's kerberos realm name?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Igor helpdesk ticket prefix",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Igor's helpdesk ticket prefix?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Maya travel per diem cap",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Maya's travel per diem cap?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Lena helpdesk ticket prefix",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Lena's helpdesk ticket prefix?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Freya office floor plan code",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Freya's office floor plan code?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Marco payroll cycle id",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Marco's payroll cycle id?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Diego hardware asset tag",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Diego's hardware asset tag?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Nikolai office floor plan code",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Nikolai's office floor plan code?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Priya helpdesk ticket prefix",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Priya's helpdesk ticket prefix?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Dana payroll cycle id",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Dana's payroll cycle id?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Cyrus payroll cycle id",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Cyrus's payroll cycle id?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Maya payroll cycle id",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Maya's payroll cycle id?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Ingrid office floor plan code",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Ingrid's office floor plan code?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Otto office floor plan code",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Otto's office floor plan code?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Hana helpdesk ticket prefix",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Hana's helpdesk ticket prefix?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Rafael helpdesk ticket prefix",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Rafael's helpdesk ticket prefix?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Pablo kerberos realm name",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Pablo's kerberos realm name?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Priya kerberos realm name",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Priya's kerberos realm name?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Ingrid office floor plan code",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Ingrid's office floor plan code?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Dana helpdesk ticket prefix",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Dana's helpdesk ticket prefix?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Tomas helpdesk ticket prefix",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Tomas's helpdesk ticket prefix?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Petra helpdesk ticket prefix",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Petra's helpdesk ticket prefix?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Kwame helpdesk ticket prefix",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Kwame's helpdesk ticket prefix?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Ingrid helpdesk ticket prefix",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Ingrid's helpdesk ticket prefix?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Leila office floor plan code",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Leila's office floor plan code?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Tomas hardware asset tag",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Tomas's hardware asset tag?",
+    "answer": null,
+    "answer_list": null
+  },
+  {
+    "kind": "Vera travel per diem cap",
+    "type": "UNANSWERABLE",
+    "score": "abstain",
+    "question": "What is Vera's travel per diem cap?",
+    "answer": null,
+    "answer_list": null
+  }
+]
