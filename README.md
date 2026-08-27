@@ -44,11 +44,14 @@ So coverage is split two ways:
 
 ## What is here
 
-| Directory | Test | What it measures |
-|---|---|---|
-| [`INHOUSE-BENCHMARK/context-fit/`](INHOUSE-BENCHMARK/context-fit/) | 320-question memory benchmark, 9 readers | Meko memory search vs local BM25 vs full history: accuracy and reader-input reduction |
-| [`INHOUSE-BENCHMARK/large-context-1m/`](INHOUSE-BENCHMARK/large-context-1m/) | ~1M-token history, 320 questions | Prepared Meko-delivered evidence vs each model's own compaction |
-| [`BABILONG-BENCHMARK/`](BABILONG-BENCHMARK/) | Public BABILong, 4 readers | Full vs BM25 vs Meko-artifact-backed delivery, QA1–QA10 at 0k/4k/16k plus QA11–QA20 at 0k |
+| Directory | Test | What it measures | Meko APIs used |
+|---|---|---|---|
+| [`INHOUSE-BENCHMARK/context-fit/`](INHOUSE-BENCHMARK/context-fit/) | 320-question memory benchmark, 9 readers | Meko memory search vs local BM25 vs full history: accuracy and reader-input reduction | `memory_add` (corpus ingest), `memory_search` (per-question retrieval) |
+| [`INHOUSE-BENCHMARK/large-context-1m/`](INHOUSE-BENCHMARK/large-context-1m/) | ~1M-token history, 320 questions | Prepared Meko-delivered evidence vs each model's own compaction | `artifact_put`, `artifact_get` (320 packet store/fetch pairs, SHA-256-verified) |
+| [`BABILONG-BENCHMARK/`](BABILONG-BENCHMARK/) | Public BABILong, 4 readers | Full vs BM25 vs Meko-artifact-backed delivery, QA1–QA10 at 0k/4k/16k plus QA11–QA20 at 0k | `artifact_put`, `artifact_get` (recorded Meko-artifact arm; the BM25-800 rebuild makes no Meko calls) |
+
+Every benchmark also calls `datapack_create` once as setup plumbing; it is not
+part of the measured path.
 
 Each directory has its own `README.md` with the exact commands, the frozen
 fixtures, the append-only result ledgers, and the deterministic scorer.
