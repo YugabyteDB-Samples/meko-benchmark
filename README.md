@@ -63,12 +63,10 @@ Two promises, described in each sub-README.
 1. **Recompute the published results offline** (no model calls, no network):
 
    ```bash
-   # In-house
-   cd INHOUSE-BENCHMARK/context-fit && python3 verify.py
-   cd ../large-context-1m && python3 verify.py
-
-   # BABILong
-   cd BABILONG-BENCHMARK && python3 VERIFY.py
+   # From the repository root
+   python3 INHOUSE-BENCHMARK/context-fit/verify.py
+   python3 INHOUSE-BENCHMARK/large-context-1m/verify.py
+   python3 BABILONG-BENCHMARK/VERIFY.py
    ```
 
 2. **Re-run live** — needs your own model-provider access and, for the Meko arms,
